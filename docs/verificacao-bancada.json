@@ -1,0 +1,612 @@
+{
+  "date": "2026-09-17",
+  "scope": "Montagem sem botoes e confirmacao temporal; compilacao e ensaios fisicos iniciais",
+  "hardware_tested": true,
+  "model_retrained": false,
+  "pytest": {
+    "passed": 52,
+    "command": "uv run pytest -q"
+  },
+  "ruff": "passed",
+  "platformio_core": "6.2.0",
+  "cmake": "3.30.2",
+  "firmware_builds": {
+    "detector": {
+      "flash_bytes": 3200114,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 3200512,
+      "sha256": "7697bffccb06ee3a4fe8e83da7876b2027b075d1b35616b87f15fa240da2e87a",
+      "wokwi_bin_bytes": 3266048,
+      "wokwi_sha256": "ef9b4982894b00fc8b945c517f1050f7e0a4be5929d44cd860b11697aab79eff"
+    },
+    "wiring": {
+      "flash_bytes": 175942,
+      "static_ram_bytes": 10912,
+      "bin_bytes": 176336,
+      "sha256": "b40c0fd9f7b5e259ed635694ec616a8c4e32dbb52b50b16b5155b1fee015127d",
+      "wokwi_bin_bytes": 241872,
+      "wokwi_sha256": "2344716023c521ef08cc852f3451fba9597aed009ef4209cfed2c9809cacf623"
+    },
+    "record": {
+      "flash_bytes": 206546,
+      "static_ram_bytes": 11072,
+      "bin_bytes": 206944,
+      "sha256": "51cc0f427947520fb857d32fe1d6762956e88cfae2c5a5c28e893ab4eb2a9935",
+      "wokwi_bin_bytes": 272480,
+      "wokwi_sha256": "f90f65cc81697c7de286d60874f5b51d8025f508b34fbb588b4c632118cd32e0"
+    },
+    "stress": {
+      "flash_bytes": 3200118,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 3200512,
+      "sha256": "f20516d22811251d0f45981cb02436f474671123ec685c7cfbf23af64f0fa0cf",
+      "wokwi_bin_bytes": 3266048,
+      "wokwi_sha256": "a8647137a9face1ff76838f02adcc4ef5f5f7a9871921813d7e8c651e99b226b"
+    },
+    "detector_fp16": {
+      "flash_bytes": 3065142,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 3065536,
+      "sha256": "1e31535f94b839347400b9ac21bf2e8e4df02faefe8bdc912c90e369bdf7cf67",
+      "wokwi_bin_bytes": 3131072,
+      "wokwi_sha256": "81d709b72f954d290527c5f831341731e0e27fd0df7cce57061f1bea3c736e18"
+    },
+    "detector_int16": {
+      "flash_bytes": 3066070,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 3066464,
+      "sha256": "f6d4f22332ae67cfd21d34720ecb9c7569c39b24d77c6a0fc663c9c846979878",
+      "wokwi_bin_bytes": 3132000,
+      "wokwi_sha256": "450e8e1692375f74497b67507cd31d109541141e7729b7ca981b35fa564367f3"
+    },
+    "detector_int8": {
+      "flash_bytes": 2998342,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 2998736,
+      "sha256": "c5bf4d80305d3ccaae84e76d1917e6ad0f3ee032b878b95c2db4b7752676be52",
+      "wokwi_bin_bytes": 3064272,
+      "wokwi_sha256": "331d3fde68179841b7aba87734419222cced7c203fa9335654771139f10e3065"
+    },
+    "detector_int4": {
+      "flash_bytes": 2964626,
+      "static_ram_bytes": 144992,
+      "bin_bytes": 2965024,
+      "sha256": "593f708f1a4e7ffdfbc6eb0c3f5e5e597b49ee272c4fc452d357cdf7da684515",
+      "wokwi_bin_bytes": 3030560,
+      "wokwi_sha256": "729954aebaa84e7252c55c14286621d07bdfeedd9a9766a543fd3f11ebdd64a3"
+    }
+  },
+  "wokwi": {
+    "date": "2026-09-15",
+    "extension_version": "3.7.0",
+    "firmware_version": "Versao anterior, com botao. Nao representa teste da montagem atual.",
+    "audio_simulated": false,
+    "inference_exercised": false,
+    "note": "Painel e boot observados na versão anterior; não valida o áudio nem a montagem atual. A imagem de simulação inclui bootloader, tabela de partições e aplicativo."
+  },
+  "pending": [
+    "Conferir valores dos resistores e do capacitor ceramico",
+    "Ampliar ensaios fisicos: Money ainda tem muitas rejeicoes",
+    "Avaliar catalogo completo, mais artistas negativos, cinco precisoes e estabilidade prolongada na placa"
+  ],
+  "physical_test": {
+    "date": "2026-09-17",
+    "board": "ESP32 com modulo ESP32-WROOM-32E identificado na foto; USB CP2102",
+    "serial_port": "/dev/cu.usbserial-0001",
+    "wiring_upload": "success, flash hash verified",
+    "leds": "Alternancia verde/vermelho confirmada pelo usuario",
+    "record_upload": "success, flash hash verified",
+    "microphone": {
+      "source": "INMP441",
+      "capture_sha256": "c24aa4f5a11f9ba5f6616b418374242df46738c22fe5d63cb424166fdbeb1585",
+      "samples": 160256,
+      "sample_rate_hz": 16000,
+      "duration_seconds": 10.016,
+      "rms": 0.16284020583425887,
+      "clipping_fraction": 0.0006052815495207667,
+      "packet_gaps": 0,
+      "listening_confirmation": "Usuario confirmou voz e palmas reconheciveis, em velocidade normal"
+    },
+    "component_values_confirmed": false,
+    "recordings_committed": false,
+    "note": "Captura de voz/palmas para diagnostico. Nao mede acuracia musical.",
+    "detector_upload": "success, flash hash verified",
+    "detector_initial_run": {
+      "precision": "fp32",
+      "model_id": "a9988daea6070903",
+      "windows": 6,
+      "observation_seconds": 12.653,
+      "frames_per_second": 31.21789298980479,
+      "last_counters": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "min_free_heap": 56444,
+      "candidate_counts": {
+        "desconhecida": 6
+      },
+      "serial_sha256": "2aaf666fff634a032a30a4ccaeac74eebeb85a780dde0514b3aa6450680cc5cc",
+      "note": "Observacao inicial apos boot. Sem rotulo acustico controlado; nao mede acuracia."
+    },
+    "money_recording": {
+      "source": "INMP441",
+      "rms": 0.08800027701951126,
+      "clipping_fraction": 0.00026236007462686567,
+      "samples": 240128,
+      "sha256": "4d1ac80119db5be651035bf83d86226f6e1e0606a0e4d46f1f11016b2735d70d",
+      "split": "train",
+      "session": "phone_20260917_01",
+      "duration_seconds": 15.008,
+      "usage": "Diagnostico, nao e teste independente de ajustes posteriores"
+    },
+    "money_before_temporal_change": {
+      "hardware_tested": true,
+      "ground_truth": "money",
+      "precision": "fp32",
+      "windows": 13,
+      "candidate_accuracy": 0.0,
+      "alerts_observed": 0,
+      "frames_per_second": 31.237656413139334,
+      "counter_deltas": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "timings_us": {
+        "capture_max_us": {
+          "mean": 31989.76923076923,
+          "p95": 31996.4,
+          "max": 32006
+        },
+        "capture_window_us": {
+          "mean": 2047985.076923077,
+          "p95": 2047989.6,
+          "max": 2047998
+        },
+        "feature_sum_us": {
+          "mean": 890731.0,
+          "p95": 893741.8,
+          "max": 894442
+        },
+        "feature_max_us": {
+          "mean": 14717.538461538461,
+          "p95": 15098.2,
+          "max": 15100
+        },
+        "ring_wait_max_us": {
+          "mean": 51.84615384615385,
+          "p95": 58.599999999999994,
+          "max": 61
+        },
+        "queue_wait_us": {
+          "mean": 22.692307692307693,
+          "p95": 24.4,
+          "max": 25
+        },
+        "fingerprint_us": {
+          "mean": 105093.07692307692,
+          "p95": 255123.79999999993,
+          "max": 289823
+        },
+        "inference_us": {
+          "mean": 113922.76923076923,
+          "p95": 143720.8,
+          "max": 152740
+        },
+        "software_e2e_us": {
+          "mean": 2282408.4615384615,
+          "p95": 2464557.8,
+          "max": 2490239
+        },
+        "confirmation_us": null
+      },
+      "min_free_heap": 56444,
+      "note": "Rótulo fornecido pelo operador para um trecho contínuo. A contagem de alertas é por janela; confirmation_us começa na primeira janela candidata, não no início acústico.",
+      "source": "Money reproduzida pelo celular, confirmada pelo usuario",
+      "duration_requested_seconds": 30,
+      "distance_cm": null,
+      "volume_setting": null,
+      "serial_sha256": "7ab427f663b2cea13ff4f30fe26d9f4676b85c850b825ef6360c9bd9f9344f8d"
+    },
+    "money_temporal_45s": {
+      "hardware_tested": true,
+      "ground_truth": "money",
+      "precision": "fp32",
+      "windows": 21,
+      "candidate_accuracy": 0.047619047619047616,
+      "alerts_observed": 0,
+      "frames_per_second": 31.247847549075882,
+      "counter_deltas": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "timings_us": {
+        "capture_max_us": {
+          "mean": 31984.333333333332,
+          "p95": 31985.0,
+          "max": 31990
+        },
+        "capture_window_us": {
+          "mean": 2047984.0952380951,
+          "p95": 2047984.0,
+          "max": 2047986
+        },
+        "feature_sum_us": {
+          "mean": 892338.8095238095,
+          "p95": 897508.0,
+          "max": 900981
+        },
+        "feature_max_us": {
+          "mean": 14809.0,
+          "p95": 15117.0,
+          "max": 15118
+        },
+        "ring_wait_max_us": {
+          "mean": 59.714285714285715,
+          "p95": 62.0,
+          "max": 74
+        },
+        "queue_wait_us": {
+          "mean": 26.61904761904762,
+          "p95": 28.0,
+          "max": 28
+        },
+        "fingerprint_us": {
+          "mean": 194607.61904761905,
+          "p95": 431334.0,
+          "max": 646864
+        },
+        "inference_us": {
+          "mean": 123151.33333333333,
+          "p95": 152371.0,
+          "max": 152507
+        },
+        "software_e2e_us": {
+          "mean": 2380542.6666666665,
+          "p95": 2646637.0,
+          "max": 2846581
+        },
+        "confirmation_us": null
+      },
+      "min_free_heap": 56444,
+      "note": "Rótulo fornecido pelo operador. Alertas são contados por janela; confirmation_us começa na primeira janela com coincidências usadas na confirmação, não no início acústico."
+    },
+    "money_temporal_near_30s": {
+      "hardware_tested": true,
+      "ground_truth": "money",
+      "precision": "fp32",
+      "windows": 13,
+      "candidate_accuracy": 0.0,
+      "alerts_observed": 0,
+      "frames_per_second": 31.266844113793773,
+      "counter_deltas": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "timings_us": {
+        "capture_max_us": {
+          "mean": 31984.46153846154,
+          "p95": 31986.4,
+          "max": 31990
+        },
+        "capture_window_us": {
+          "mean": 2047984.1538461538,
+          "p95": 2047984.8,
+          "max": 2047986
+        },
+        "feature_sum_us": {
+          "mean": 895593.4615384615,
+          "p95": 902162.4,
+          "max": 902655
+        },
+        "feature_max_us": {
+          "mean": 14855.76923076923,
+          "p95": 15117.4,
+          "max": 15118
+        },
+        "ring_wait_max_us": {
+          "mean": 58.76923076923077,
+          "p95": 66.39999999999998,
+          "max": 73
+        },
+        "queue_wait_us": {
+          "mean": 26.46153846153846,
+          "p95": 28.0,
+          "max": 28
+        },
+        "fingerprint_us": {
+          "mean": 354951.6923076923,
+          "p95": 698397.2,
+          "max": 720686
+        },
+        "inference_us": {
+          "mean": 127918.23076923077,
+          "p95": 152589.0,
+          "max": 152604
+        },
+        "software_e2e_us": {
+          "mean": 2545645.6923076925,
+          "p95": 2913726.6,
+          "max": 2935914
+        },
+        "confirmation_us": null
+      },
+      "min_free_heap": 56444,
+      "note": "Rótulo fornecido pelo operador. Alertas são contados por janela; confirmation_us começa na primeira janela com coincidências usadas na confirmação, não no início acústico."
+    },
+    "money_temporal_continuous": {
+      "hardware_tested": true,
+      "ground_truth": "money",
+      "precision": "fp32",
+      "windows": 23,
+      "candidate_accuracy": 0.13043478260869565,
+      "alerts_observed": 3,
+      "frames_per_second": 31.252660494493306,
+      "counter_deltas": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "timings_us": {
+        "capture_max_us": {
+          "mean": 31984.304347826088,
+          "p95": 31984.0,
+          "max": 31991
+        },
+        "capture_window_us": {
+          "mean": 2047984.1304347827,
+          "p95": 2047984.0,
+          "max": 2047987
+        },
+        "feature_sum_us": {
+          "mean": 891258.8260869565,
+          "p95": 895773.0,
+          "max": 896556
+        },
+        "feature_max_us": {
+          "mean": 14727.347826086956,
+          "p95": 15115.6,
+          "max": 15117
+        },
+        "ring_wait_max_us": {
+          "mean": 55.82608695652174,
+          "p95": 61.0,
+          "max": 73
+        },
+        "queue_wait_us": {
+          "mean": 26.347826086956523,
+          "p95": 28.0,
+          "max": 28
+        },
+        "fingerprint_us": {
+          "mean": 125330.13043478261,
+          "p95": 348865.8999999999,
+          "max": 367154
+        },
+        "inference_us": {
+          "mean": 114559.17391304347,
+          "p95": 152408.3,
+          "max": 152607
+        },
+        "software_e2e_us": {
+          "mean": 2302675.434782609,
+          "p95": 2550558.3,
+          "max": 2582370
+        },
+        "confirmation_us": {
+          "mean": 12534346.0,
+          "p95": 16227322.299999999,
+          "max": 16637653
+        }
+      },
+      "min_free_heap": 56444,
+      "note": "Rótulo fornecido pelo operador. Alertas são contados por janela; confirmation_us começa na primeira janela com coincidências usadas na confirmação, não no início acústico.",
+      "decision_policy": "temporal_alignment_v1",
+      "requested_excerpt_seconds": 50,
+      "distance_cm": [
+        5,
+        10
+      ],
+      "source": "Money tocada pelo celular; confirmado pelo usuario",
+      "serial_sha256": "b9918126c5a984db9624e879c66ca6a903b52a89e07bb917ecc76bb7f0fd3c8b",
+      "analysis_range": "Somente eventos com host_elapsed_seconds <= 50, antes do pedido de troca de faixa.",
+      "correct_alert_windows": 3,
+      "wrong_alert_windows": 0,
+      "first_alert_seconds_since_serial_open": 32.32146466699487
+    },
+    "creep_negative": {
+      "hardware_tested": true,
+      "ground_truth": "desconhecida",
+      "precision": "fp32",
+      "windows": 28,
+      "candidate_accuracy": 1.0,
+      "alerts_observed": 0,
+      "frames_per_second": 31.249461364772394,
+      "counter_deltas": {
+        "read_errors": 0,
+        "ring_drops": 0,
+        "feature_drops": 0,
+        "log_drops": 0,
+        "dma_overflows": 0,
+        "dsp_deadlines": 0,
+        "stale_windows": 0
+      },
+      "timings_us": {
+        "capture_max_us": {
+          "mean": 31984.214285714286,
+          "p95": 31984.0,
+          "max": 31990
+        },
+        "capture_window_us": {
+          "mean": 2047984.0714285714,
+          "p95": 2047984.0,
+          "max": 2047986
+        },
+        "feature_sum_us": {
+          "mean": 891289.2142857143,
+          "p95": 896409.75,
+          "max": 896873
+        },
+        "feature_max_us": {
+          "mean": 14726.67857142857,
+          "p95": 15113.65,
+          "max": 15116
+        },
+        "ring_wait_max_us": {
+          "mean": 54.107142857142854,
+          "p95": 61.0,
+          "max": 73
+        },
+        "queue_wait_us": {
+          "mean": 27.035714285714285,
+          "p95": 28.0,
+          "max": 28
+        },
+        "fingerprint_us": {
+          "mean": 120290.17857142857,
+          "p95": 379826.44999999995,
+          "max": 423611
+        },
+        "inference_us": {
+          "mean": 115488.64285714286,
+          "p95": 142831.34999999998,
+          "max": 152306
+        },
+        "software_e2e_us": {
+          "mean": 2299088.1785714286,
+          "p95": 2589587.9,
+          "max": 2623201
+        },
+        "confirmation_us": null
+      },
+      "min_free_heap": 56444,
+      "note": "Rótulo fornecido pelo operador. Alertas são contados por janela; confirmation_us começa na primeira janela com coincidências usadas na confirmação, não no início acústico.",
+      "source": "Creep - Radiohead, tocada pelo celular; confirmado pelo usuario",
+      "duration_requested_seconds": 60,
+      "distance_cm": [
+        5,
+        10
+      ],
+      "serial_sha256": "a312c2cacc4f6e64440cd461811e1bc298468686d78a277a757c5d3a0ea9d318"
+    },
+    "serial_open_behavior": "Abrir a porta CP2102 reiniciou a placa nos ensaios. Primeira confirmacao deve ser medida depois da abertura, sem reconectar durante a coleta.",
+    "temporal_diagnostic_replay": {
+      "money": [
+        {
+          "window": 0,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 1,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 2,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 3,
+          "candidate": "money",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 4,
+          "candidate": "desconhecida",
+          "alert": "money",
+          "support_windows": 3,
+          "aligned_frames": 21
+        },
+        {
+          "window": 5,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 6,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        }
+      ],
+      "voz": [
+        {
+          "window": 0,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 1,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 2,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        },
+        {
+          "window": 3,
+          "candidate": "desconhecida",
+          "alert": "desconhecida",
+          "support_windows": 0,
+          "aligned_frames": 0
+        }
+      ]
+    },
+    "diagnostic_replay_note": "A gravacao de Money motivou a regra temporal. Nao e teste independente dessa mudanca; houve novas reproducoes fisicas depois.",
+    "tested_firmware_note": "Ensaios realizados com a implementacao temporal antes de acrescentar a verificacao de compilacao que rejeita modelos sem catalogo; sem diferenca na logica executada."
+  },
+  "decision_policy": {
+    "name": "temporal_alignment_v1",
+    "history_windows": 8,
+    "minimum_support_windows": 3,
+    "minimum_total_aligned_frames": 18,
+    "minimum_votes_per_window": 3,
+    "minimum_peak_margin": 2,
+    "alignment_tolerance_frames": 2,
+    "requires_confident_model_window": true
+  }
+}

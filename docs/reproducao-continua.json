@@ -1,0 +1,5403 @@
+{
+  "model_id": "a9988daea6070903",
+  "catalog_id": "10c91e46e17d372d",
+  "kind": "continuous_simulated_playback",
+  "hardware_tested": false,
+  "seed": 424242,
+  "drop_every": 0,
+  "labels": [
+    "ambiente",
+    "a_great_day_for_freedom",
+    "a_new_machine_pt_1",
+    "a_new_machine_pt_2",
+    "a_pillow_of_winds",
+    "a_saucerful_of_secrets",
+    "a_saucerful_of_secrets_live",
+    "a_spanish_piece",
+    "absolutely_curtains",
+    "alan_s_psychedelic_breakfast",
+    "another_brick_in_the_wall_pt_1",
+    "another_brick_in_the_wall_pt_2",
+    "another_brick_in_the_wall_pt_3",
+    "any_colour_you_like",
+    "arnold_layne",
+    "astronomy_domine",
+    "astronomy_domine_live",
+    "atom_heart_mother",
+    "biding_my_time",
+    "bike",
+    "brain_damage",
+    "breathe_in_the_air",
+    "bring_the_boys_back_home",
+    "burning_bridges",
+    "careful_with_that_axe_eugene",
+    "careful_with_that_axe_eugene_live",
+    "chapter_24",
+    "childhood_s_end",
+    "cirrus_minor",
+    "cluster_one",
+    "comfortably_numb",
+    "coming_back_to_life",
+    "corporal_clegg",
+    "crying_song",
+    "cymbaline",
+    "dogs",
+    "don_t_leave_me_now",
+    "dramatic_theme",
+    "echoes",
+    "eclipse",
+    "empty_spaces",
+    "fat_old_sun",
+    "fearless",
+    "flaming",
+    "free_four",
+    "get_your_filthy_hands_off_my_desert",
+    "goodbye_blue_sky",
+    "goodbye_cruel_world",
+    "grantchester_meadows",
+    "green_is_the_colour",
+    "have_a_cigar",
+    "hey_you",
+    "high_hopes",
+    "ibiza_bar",
+    "if",
+    "in_the_flesh",
+    "in_the_flesh_1",
+    "interstellar_overdrive",
+    "is_there_anybody_out_there",
+    "jugband_blues",
+    "julia_dream",
+    "keep_talking",
+    "learning_to_fly",
+    "let_there_be_more_light",
+    "lost_for_words",
+    "lucifer_sam",
+    "main_theme",
+    "marooned",
+    "matilda_mother",
+    "money",
+    "more_blues",
+    "mother",
+    "mudmen",
+    "nervana",
+    "nobody_home",
+    "not_now_john",
+    "obscured_by_clouds",
+    "on_the_run",
+    "on_the_turning_away",
+    "one_of_my_turns",
+    "one_of_the_few",
+    "one_of_these_days",
+    "one_slip",
+    "outside_the_wall",
+    "paintbox",
+    "paranoid_eyes",
+    "party_sequence",
+    "pigs_on_the_wing_1",
+    "pigs_on_the_wing_2",
+    "pigs_three_different_ones",
+    "poles_apart",
+    "pow_r_toc_h",
+    "quicksilver",
+    "remember_a_day",
+    "round_and_around",
+    "run_like_hell",
+    "san_tropez",
+    "seamus",
+    "see_emily_play",
+    "see_saw",
+    "set_the_controls_for_the_heart_of_the_sun",
+    "set_the_controls_for_the_heart_of_the_sun_live",
+    "several_species_of_small_furry_animals_gathered_toget_55443c350f",
+    "sheep",
+    "shine_on_you_crazy_diamond_pts_1_5",
+    "shine_on_you_crazy_diamond_pts_6_9",
+    "side_1_pt_1_things_left_unsaid",
+    "side_1_pt_2_it_s_what_we_do",
+    "side_1_pt_3_ebb_and_flow",
+    "side_2_pt_1_sum",
+    "side_2_pt_2_skins",
+    "side_2_pt_3_unsung",
+    "side_2_pt_4_anisina",
+    "side_3_pt_1_the_lost_art_of_conversation",
+    "side_3_pt_2_on_noodle_street",
+    "side_3_pt_3_night_light",
+    "side_3_pt_4_allons_y",
+    "side_3_pt_5_autumn_68",
+    "side_3_pt_6_allons_y",
+    "side_3_pt_7_talkin_hawkin",
+    "side_4_pt_1_calling",
+    "side_4_pt_2_eyes_to_pearls",
+    "side_4_pt_3_surfacing",
+    "side_4_pt_4_louder_than_words",
+    "signs_of_life",
+    "sorrow",
+    "southampton_dock",
+    "speak_to_me",
+    "stay",
+    "stop",
+    "summer_68",
+    "sysyphus_pt_1",
+    "sysyphus_pt_2",
+    "sysyphus_pt_3",
+    "sysyphus_pt_4",
+    "take_it_back",
+    "take_up_thy_stethoscope_and_walk",
+    "tbs14",
+    "tbs9",
+    "terminal_frost",
+    "the_dogs_of_war",
+    "the_final_cut",
+    "the_fletcher_memorial_home",
+    "the_gnome",
+    "the_gold_it_s_in_the",
+    "the_grand_vizier_s_garden_party_pt_1_entrance",
+    "the_grand_vizier_s_garden_party_pt_2_entertainment",
+    "the_grand_vizier_s_garden_party_pt_3_exit",
+    "the_great_gig_in_the_sky",
+    "the_gunner_s_dream",
+    "the_happiest_days_of_our_lives",
+    "the_hero_s_return",
+    "the_narrow_way_pt_1",
+    "the_narrow_way_pt_2",
+    "the_narrow_way_pt_3",
+    "the_nile_song",
+    "the_post_war_dream",
+    "the_scarecrow",
+    "the_show_must_go_on",
+    "the_thin_ice",
+    "the_trial",
+    "time",
+    "two_suns_in_the_sunset",
+    "up_the_khyber",
+    "us_and_them",
+    "vera",
+    "waiting_for_the_worms",
+    "wearing_the_inside_out",
+    "welcome_to_the_machine",
+    "what_do_you_want_from_me",
+    "when_the_tigers_broke_free",
+    "when_you_re_in",
+    "wish_you_were_here",
+    "wot_s_uh_the_deal",
+    "yet_another_movie",
+    "young_lust",
+    "your_possible_pasts"
+  ],
+  "windows": 4608,
+  "target_recordings": 181,
+  "target_titles": 176,
+  "negative_music_recordings": 22,
+  "virtual_duration_s": 9437.184,
+  "background_duration_s": 2764.8,
+  "host": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "host_timings": {
+    "mfcc_us": {
+      "p50": 432.77049999999997,
+      "p95": 527.2352999999999,
+      "max": 1180.375
+    },
+    "spectral_peaks_us": {
+      "p50": 3361.5625,
+      "p95": 3646.3873,
+      "max": 8926.875
+    },
+    "catalog_match_us": {
+      "p50": 563.604,
+      "p95": 970.0686499999999,
+      "max": 10216.042
+    },
+    "feature_pipeline_us": {
+      "p50": 4413.771,
+      "p95": 4942.5102,
+      "max": 15221.625
+    }
+  },
+  "results": {
+    "fp32": {
+      "confirmed_target_titles": 173,
+      "unconfirmed_target_titles": [
+        "alan_s_psychedelic_breakfast",
+        "goodbye_cruel_world",
+        "one_of_the_few"
+      ],
+      "candidate_accuracy": 0.87890625,
+      "target_events": 543,
+      "confirmed_target_events": 515,
+      "wrong_alert_windows_on_targets": 2,
+      "false_alert_events": 0,
+      "background_false_alert_windows": 0,
+      "virtual_confirmation_s": {
+        "median": 6.14409999999998,
+        "p95": 10.240099999999984,
+        "max": 12.288100000000668
+      }
+    },
+    "fp16": {
+      "confirmed_target_titles": 173,
+      "unconfirmed_target_titles": [
+        "alan_s_psychedelic_breakfast",
+        "goodbye_cruel_world",
+        "one_of_the_few"
+      ],
+      "candidate_accuracy": 0.87890625,
+      "target_events": 543,
+      "confirmed_target_events": 515,
+      "wrong_alert_windows_on_targets": 2,
+      "false_alert_events": 0,
+      "background_false_alert_windows": 0,
+      "virtual_confirmation_s": {
+        "median": 6.14409999999998,
+        "p95": 10.240099999999984,
+        "max": 12.288100000000668
+      }
+    },
+    "int16": {
+      "confirmed_target_titles": 173,
+      "unconfirmed_target_titles": [
+        "alan_s_psychedelic_breakfast",
+        "goodbye_cruel_world",
+        "one_of_the_few"
+      ],
+      "candidate_accuracy": 0.87890625,
+      "target_events": 543,
+      "confirmed_target_events": 515,
+      "wrong_alert_windows_on_targets": 2,
+      "false_alert_events": 0,
+      "background_false_alert_windows": 0,
+      "virtual_confirmation_s": {
+        "median": 6.14409999999998,
+        "p95": 10.240099999999984,
+        "max": 12.288100000000668
+      }
+    },
+    "int8": {
+      "confirmed_target_titles": 173,
+      "unconfirmed_target_titles": [
+        "alan_s_psychedelic_breakfast",
+        "goodbye_cruel_world",
+        "one_of_the_few"
+      ],
+      "candidate_accuracy": 0.8682725694444444,
+      "target_events": 543,
+      "confirmed_target_events": 515,
+      "wrong_alert_windows_on_targets": 0,
+      "false_alert_events": 0,
+      "background_false_alert_windows": 0,
+      "virtual_confirmation_s": {
+        "median": 6.14409999999998,
+        "p95": 10.240099999999984,
+        "max": 12.288100000000668
+      }
+    },
+    "int4": {
+      "confirmed_target_titles": 173,
+      "unconfirmed_target_titles": [
+        "alan_s_psychedelic_breakfast",
+        "goodbye_cruel_world",
+        "one_of_the_few"
+      ],
+      "candidate_accuracy": 0.8602430555555556,
+      "target_events": 543,
+      "confirmed_target_events": 516,
+      "wrong_alert_windows_on_targets": 0,
+      "false_alert_events": 0,
+      "background_false_alert_windows": 0,
+      "virtual_confirmation_s": {
+        "median": 6.14409999999998,
+        "p95": 10.240099999999984,
+        "max": 12.288100000000668
+      }
+    }
+  },
+  "segments": [
+    {
+      "label": 2,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 1.m4a",
+      "source_offset_samples": 554494,
+      "start_s": 4.096,
+      "first_event": 2,
+      "end_event": 8
+    },
+    {
+      "label": 2,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 1.m4a",
+      "source_offset_samples": 554494,
+      "start_s": 20.48,
+      "first_event": 10,
+      "end_event": 16
+    },
+    {
+      "label": 2,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 1.m4a",
+      "source_offset_samples": 554494,
+      "start_s": 36.864,
+      "first_event": 18,
+      "end_event": 24
+    },
+    {
+      "label": 3,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 2.m4a",
+      "source_offset_samples": 158245,
+      "start_s": 53.248,
+      "first_event": 26,
+      "end_event": 32
+    },
+    {
+      "label": 3,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 2.m4a",
+      "source_offset_samples": 158245,
+      "start_s": 69.632,
+      "first_event": 34,
+      "end_event": 40
+    },
+    {
+      "label": 3,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 2.m4a",
+      "source_offset_samples": 158245,
+      "start_s": 86.016,
+      "first_event": 42,
+      "end_event": 48
+    },
+    {
+      "label": 62,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Learning to Fly.m4a",
+      "source_offset_samples": 1656528,
+      "start_s": 102.4,
+      "first_event": 50,
+      "end_event": 56
+    },
+    {
+      "label": 62,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Learning to Fly.m4a",
+      "source_offset_samples": 1656528,
+      "start_s": 118.784,
+      "first_event": 58,
+      "end_event": 64
+    },
+    {
+      "label": 62,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Learning to Fly.m4a",
+      "source_offset_samples": 1656528,
+      "start_s": 135.168,
+      "first_event": 66,
+      "end_event": 72
+    },
+    {
+      "label": 78,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/On the Turning Away.m4a",
+      "source_offset_samples": 1949969,
+      "start_s": 151.552,
+      "first_event": 74,
+      "end_event": 80
+    },
+    {
+      "label": 78,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/On the Turning Away.m4a",
+      "source_offset_samples": 1949969,
+      "start_s": 167.936,
+      "first_event": 82,
+      "end_event": 88
+    },
+    {
+      "label": 78,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/On the Turning Away.m4a",
+      "source_offset_samples": 1949969,
+      "start_s": 184.32,
+      "first_event": 90,
+      "end_event": 96
+    },
+    {
+      "label": 82,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/One Slip.m4a",
+      "source_offset_samples": 1754676,
+      "start_s": 200.704,
+      "first_event": 98,
+      "end_event": 104
+    },
+    {
+      "label": 82,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/One Slip.m4a",
+      "source_offset_samples": 1754676,
+      "start_s": 217.088,
+      "first_event": 106,
+      "end_event": 112
+    },
+    {
+      "label": 82,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/One Slip.m4a",
+      "source_offset_samples": 1754676,
+      "start_s": 233.472,
+      "first_event": 114,
+      "end_event": 120
+    },
+    {
+      "label": 94,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Round and Around.m4a",
+      "source_offset_samples": 361360,
+      "start_s": 249.856,
+      "first_event": 122,
+      "end_event": 128
+    },
+    {
+      "label": 94,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Round and Around.m4a",
+      "source_offset_samples": 361360,
+      "start_s": 266.24,
+      "first_event": 130,
+      "end_event": 136
+    },
+    {
+      "label": 94,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Round and Around.m4a",
+      "source_offset_samples": 361360,
+      "start_s": 282.624,
+      "first_event": 138,
+      "end_event": 144
+    },
+    {
+      "label": 124,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Signs of Life.m4a",
+      "source_offset_samples": 1477553,
+      "start_s": 299.008,
+      "first_event": 146,
+      "end_event": 152
+    },
+    {
+      "label": 124,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Signs of Life.m4a",
+      "source_offset_samples": 1477553,
+      "start_s": 315.392,
+      "first_event": 154,
+      "end_event": 160
+    },
+    {
+      "label": 124,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Signs of Life.m4a",
+      "source_offset_samples": 1477553,
+      "start_s": 331.776,
+      "first_event": 162,
+      "end_event": 168
+    },
+    {
+      "label": 125,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Sorrow.m4a",
+      "source_offset_samples": 3033899,
+      "start_s": 348.16,
+      "first_event": 170,
+      "end_event": 176
+    },
+    {
+      "label": 125,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Sorrow.m4a",
+      "source_offset_samples": 3033899,
+      "start_s": 364.544,
+      "first_event": 178,
+      "end_event": 184
+    },
+    {
+      "label": 125,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Sorrow.m4a",
+      "source_offset_samples": 3033899,
+      "start_s": 380.928,
+      "first_event": 186,
+      "end_event": 192
+    },
+    {
+      "label": 139,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Terminal Frost.m4a",
+      "source_offset_samples": 2150017,
+      "start_s": 397.312,
+      "first_event": 194,
+      "end_event": 200
+    },
+    {
+      "label": 139,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Terminal Frost.m4a",
+      "source_offset_samples": 2150017,
+      "start_s": 413.696,
+      "first_event": 202,
+      "end_event": 208
+    },
+    {
+      "label": 139,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Terminal Frost.m4a",
+      "source_offset_samples": 2150017,
+      "start_s": 430.08,
+      "first_event": 210,
+      "end_event": 216
+    },
+    {
+      "label": 140,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/The Dogs of War.m4a",
+      "source_offset_samples": 2080599,
+      "start_s": 446.464,
+      "first_event": 218,
+      "end_event": 224
+    },
+    {
+      "label": 140,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/The Dogs of War.m4a",
+      "source_offset_samples": 2080599,
+      "start_s": 462.848,
+      "first_event": 226,
+      "end_event": 232
+    },
+    {
+      "label": 140,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/The Dogs of War.m4a",
+      "source_offset_samples": 2080599,
+      "start_s": 479.232,
+      "first_event": 234,
+      "end_event": 240
+    },
+    {
+      "label": 174,
+      "profile": "clean",
+      "path": "Álbum - A Momentary Lapse of Reason/Yet Another Movie.m4a",
+      "source_offset_samples": 2135034,
+      "start_s": 495.616,
+      "first_event": 242,
+      "end_event": 248
+    },
+    {
+      "label": 174,
+      "profile": "room",
+      "path": "Álbum - A Momentary Lapse of Reason/Yet Another Movie.m4a",
+      "source_offset_samples": 2135034,
+      "start_s": 512.0,
+      "first_event": 250,
+      "end_event": 256
+    },
+    {
+      "label": 174,
+      "profile": "speaker",
+      "path": "Álbum - A Momentary Lapse of Reason/Yet Another Movie.m4a",
+      "source_offset_samples": 2135034,
+      "start_s": 528.384,
+      "first_event": 258,
+      "end_event": 264
+    },
+    {
+      "label": 5,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/A Saucerful of Secrets.m4a",
+      "source_offset_samples": 4170161,
+      "start_s": 544.768,
+      "first_event": 266,
+      "end_event": 272
+    },
+    {
+      "label": 5,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/A Saucerful of Secrets.m4a",
+      "source_offset_samples": 4170161,
+      "start_s": 561.152,
+      "first_event": 274,
+      "end_event": 280
+    },
+    {
+      "label": 5,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/A Saucerful of Secrets.m4a",
+      "source_offset_samples": 4170161,
+      "start_s": 577.536,
+      "first_event": 282,
+      "end_event": 288
+    },
+    {
+      "label": 32,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/Corporal Clegg.m4a",
+      "source_offset_samples": 1422293,
+      "start_s": 593.92,
+      "first_event": 290,
+      "end_event": 296
+    },
+    {
+      "label": 32,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/Corporal Clegg.m4a",
+      "source_offset_samples": 1422293,
+      "start_s": 610.304,
+      "first_event": 298,
+      "end_event": 304
+    },
+    {
+      "label": 32,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/Corporal Clegg.m4a",
+      "source_offset_samples": 1422293,
+      "start_s": 626.688,
+      "first_event": 306,
+      "end_event": 312
+    },
+    {
+      "label": 59,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/Jugband Blues.m4a",
+      "source_offset_samples": 996160,
+      "start_s": 643.072,
+      "first_event": 314,
+      "end_event": 320
+    },
+    {
+      "label": 59,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/Jugband Blues.m4a",
+      "source_offset_samples": 996160,
+      "start_s": 659.456,
+      "first_event": 322,
+      "end_event": 328
+    },
+    {
+      "label": 59,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/Jugband Blues.m4a",
+      "source_offset_samples": 996160,
+      "start_s": 675.84,
+      "first_event": 330,
+      "end_event": 336
+    },
+    {
+      "label": 63,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/Let There Be More Light.m4a",
+      "source_offset_samples": 1920868,
+      "start_s": 692.224,
+      "first_event": 338,
+      "end_event": 344
+    },
+    {
+      "label": 63,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/Let There Be More Light.m4a",
+      "source_offset_samples": 1920868,
+      "start_s": 708.608,
+      "first_event": 346,
+      "end_event": 352
+    },
+    {
+      "label": 63,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/Let There Be More Light.m4a",
+      "source_offset_samples": 1920868,
+      "start_s": 724.992,
+      "first_event": 354,
+      "end_event": 360
+    },
+    {
+      "label": 93,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/Remember a Day.m4a",
+      "source_offset_samples": 1542710,
+      "start_s": 741.376,
+      "first_event": 362,
+      "end_event": 368
+    },
+    {
+      "label": 93,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/Remember a Day.m4a",
+      "source_offset_samples": 1542710,
+      "start_s": 757.76,
+      "first_event": 370,
+      "end_event": 376
+    },
+    {
+      "label": 93,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/Remember a Day.m4a",
+      "source_offset_samples": 1542710,
+      "start_s": 774.144,
+      "first_event": 378,
+      "end_event": 384
+    },
+    {
+      "label": 99,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/See-Saw.m4a",
+      "source_offset_samples": 1566353,
+      "start_s": 790.528,
+      "first_event": 386,
+      "end_event": 392
+    },
+    {
+      "label": 99,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/See-Saw.m4a",
+      "source_offset_samples": 1566353,
+      "start_s": 806.912,
+      "first_event": 394,
+      "end_event": 400
+    },
+    {
+      "label": 99,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/See-Saw.m4a",
+      "source_offset_samples": 1566353,
+      "start_s": 823.296,
+      "first_event": 402,
+      "end_event": 408
+    },
+    {
+      "label": 100,
+      "profile": "clean",
+      "path": "Álbum - A Saucerful of Secrets/Set the Controls for the Heart of the Sun.m4a",
+      "source_offset_samples": 1869045,
+      "start_s": 839.68,
+      "first_event": 410,
+      "end_event": 416
+    },
+    {
+      "label": 100,
+      "profile": "room",
+      "path": "Álbum - A Saucerful of Secrets/Set the Controls for the Heart of the Sun.m4a",
+      "source_offset_samples": 1869045,
+      "start_s": 856.064,
+      "first_event": 418,
+      "end_event": 424
+    },
+    {
+      "label": 100,
+      "profile": "speaker",
+      "path": "Álbum - A Saucerful of Secrets/Set the Controls for the Heart of the Sun.m4a",
+      "source_offset_samples": 1869045,
+      "start_s": 872.448,
+      "first_event": 426,
+      "end_event": 432
+    },
+    {
+      "label": 35,
+      "profile": "clean",
+      "path": "Álbum - Animals/Dogs.m4a",
+      "source_offset_samples": 5997032,
+      "start_s": 888.832,
+      "first_event": 434,
+      "end_event": 440
+    },
+    {
+      "label": 35,
+      "profile": "room",
+      "path": "Álbum - Animals/Dogs.m4a",
+      "source_offset_samples": 5997032,
+      "start_s": 905.216,
+      "first_event": 442,
+      "end_event": 448
+    },
+    {
+      "label": 35,
+      "profile": "speaker",
+      "path": "Álbum - Animals/Dogs.m4a",
+      "source_offset_samples": 5997032,
+      "start_s": 921.6,
+      "first_event": 450,
+      "end_event": 456
+    },
+    {
+      "label": 89,
+      "profile": "clean",
+      "path": "Álbum - Animals/Pigs (Three Different Ones).m4a",
+      "source_offset_samples": 3987749,
+      "start_s": 937.984,
+      "first_event": 458,
+      "end_event": 464
+    },
+    {
+      "label": 89,
+      "profile": "room",
+      "path": "Álbum - Animals/Pigs (Three Different Ones).m4a",
+      "source_offset_samples": 3987749,
+      "start_s": 954.368,
+      "first_event": 466,
+      "end_event": 472
+    },
+    {
+      "label": 89,
+      "profile": "speaker",
+      "path": "Álbum - Animals/Pigs (Three Different Ones).m4a",
+      "source_offset_samples": 3987749,
+      "start_s": 970.752,
+      "first_event": 474,
+      "end_event": 480
+    },
+    {
+      "label": 87,
+      "profile": "clean",
+      "path": "Álbum - Animals/Pigs on the Wing 1.m4a",
+      "source_offset_samples": 426240,
+      "start_s": 987.136,
+      "first_event": 482,
+      "end_event": 488
+    },
+    {
+      "label": 87,
+      "profile": "room",
+      "path": "Álbum - Animals/Pigs on the Wing 1.m4a",
+      "source_offset_samples": 426240,
+      "start_s": 1003.52,
+      "first_event": 490,
+      "end_event": 496
+    },
+    {
+      "label": 87,
+      "profile": "speaker",
+      "path": "Álbum - Animals/Pigs on the Wing 1.m4a",
+      "source_offset_samples": 426240,
+      "start_s": 1019.904,
+      "first_event": 498,
+      "end_event": 504
+    },
+    {
+      "label": 88,
+      "profile": "clean",
+      "path": "Álbum - Animals/Pigs on the Wing 2.m4a",
+      "source_offset_samples": 440676,
+      "start_s": 1036.288,
+      "first_event": 506,
+      "end_event": 512
+    },
+    {
+      "label": 88,
+      "profile": "room",
+      "path": "Álbum - Animals/Pigs on the Wing 2.m4a",
+      "source_offset_samples": 440676,
+      "start_s": 1052.672,
+      "first_event": 514,
+      "end_event": 520
+    },
+    {
+      "label": 88,
+      "profile": "speaker",
+      "path": "Álbum - Animals/Pigs on the Wing 2.m4a",
+      "source_offset_samples": 440676,
+      "start_s": 1069.056,
+      "first_event": 522,
+      "end_event": 528
+    },
+    {
+      "label": 103,
+      "profile": "clean",
+      "path": "Álbum - Animals/Sheep.m4a",
+      "source_offset_samples": 3592408,
+      "start_s": 1085.44,
+      "first_event": 530,
+      "end_event": 536
+    },
+    {
+      "label": 103,
+      "profile": "room",
+      "path": "Álbum - Animals/Sheep.m4a",
+      "source_offset_samples": 3592408,
+      "start_s": 1101.824,
+      "first_event": 538,
+      "end_event": 544
+    },
+    {
+      "label": 103,
+      "profile": "speaker",
+      "path": "Álbum - Animals/Sheep.m4a",
+      "source_offset_samples": 3592408,
+      "start_s": 1118.208,
+      "first_event": 546,
+      "end_event": 552
+    },
+    {
+      "label": 9,
+      "profile": "clean",
+      "path": "Álbum - Atom Heart Mother/Alan's Psychedelic Breakfast.m4a",
+      "source_offset_samples": 4538972,
+      "start_s": 1134.592,
+      "first_event": 554,
+      "end_event": 560
+    },
+    {
+      "label": 9,
+      "profile": "room",
+      "path": "Álbum - Atom Heart Mother/Alan's Psychedelic Breakfast.m4a",
+      "source_offset_samples": 4538972,
+      "start_s": 1150.976,
+      "first_event": 562,
+      "end_event": 568
+    },
+    {
+      "label": 9,
+      "profile": "speaker",
+      "path": "Álbum - Atom Heart Mother/Alan's Psychedelic Breakfast.m4a",
+      "source_offset_samples": 4538972,
+      "start_s": 1167.36,
+      "first_event": 570,
+      "end_event": 576
+    },
+    {
+      "label": 17,
+      "profile": "clean",
+      "path": "Álbum - Atom Heart Mother/Atom Heart Mother.m4a",
+      "source_offset_samples": 8342411,
+      "start_s": 1183.744,
+      "first_event": 578,
+      "end_event": 584
+    },
+    {
+      "label": 17,
+      "profile": "room",
+      "path": "Álbum - Atom Heart Mother/Atom Heart Mother.m4a",
+      "source_offset_samples": 8342411,
+      "start_s": 1200.128,
+      "first_event": 586,
+      "end_event": 592
+    },
+    {
+      "label": 17,
+      "profile": "speaker",
+      "path": "Álbum - Atom Heart Mother/Atom Heart Mother.m4a",
+      "source_offset_samples": 8342411,
+      "start_s": 1216.512,
+      "first_event": 594,
+      "end_event": 600
+    },
+    {
+      "label": 41,
+      "profile": "clean",
+      "path": "Álbum - Atom Heart Mother/Fat Old Sun.m4a",
+      "source_offset_samples": 1843889,
+      "start_s": 1232.896,
+      "first_event": 602,
+      "end_event": 608
+    },
+    {
+      "label": 41,
+      "profile": "room",
+      "path": "Álbum - Atom Heart Mother/Fat Old Sun.m4a",
+      "source_offset_samples": 1843889,
+      "start_s": 1249.28,
+      "first_event": 610,
+      "end_event": 616
+    },
+    {
+      "label": 41,
+      "profile": "speaker",
+      "path": "Álbum - Atom Heart Mother/Fat Old Sun.m4a",
+      "source_offset_samples": 1843889,
+      "start_s": 1265.664,
+      "first_event": 618,
+      "end_event": 624
+    },
+    {
+      "label": 54,
+      "profile": "clean",
+      "path": "Álbum - Atom Heart Mother/If.m4a",
+      "source_offset_samples": 1530338,
+      "start_s": 1282.048,
+      "first_event": 626,
+      "end_event": 632
+    },
+    {
+      "label": 54,
+      "profile": "room",
+      "path": "Álbum - Atom Heart Mother/If.m4a",
+      "source_offset_samples": 1530338,
+      "start_s": 1298.432,
+      "first_event": 634,
+      "end_event": 640
+    },
+    {
+      "label": 54,
+      "profile": "speaker",
+      "path": "Álbum - Atom Heart Mother/If.m4a",
+      "source_offset_samples": 1530338,
+      "start_s": 1314.816,
+      "first_event": 642,
+      "end_event": 648
+    },
+    {
+      "label": 130,
+      "profile": "clean",
+      "path": "Álbum - Atom Heart Mother/Summer '68.m4a",
+      "source_offset_samples": 1874818,
+      "start_s": 1331.2,
+      "first_event": 650,
+      "end_event": 656
+    },
+    {
+      "label": 130,
+      "profile": "room",
+      "path": "Álbum - Atom Heart Mother/Summer '68.m4a",
+      "source_offset_samples": 1874818,
+      "start_s": 1347.584,
+      "first_event": 658,
+      "end_event": 664
+    },
+    {
+      "label": 130,
+      "profile": "speaker",
+      "path": "Álbum - Atom Heart Mother/Summer '68.m4a",
+      "source_offset_samples": 1874818,
+      "start_s": 1363.968,
+      "first_event": 666,
+      "end_event": 672
+    },
+    {
+      "label": 4,
+      "profile": "clean",
+      "path": "Álbum - Meddle/A Pillow of Winds.m4a",
+      "source_offset_samples": 1779694,
+      "start_s": 1380.352,
+      "first_event": 674,
+      "end_event": 680
+    },
+    {
+      "label": 4,
+      "profile": "room",
+      "path": "Álbum - Meddle/A Pillow of Winds.m4a",
+      "source_offset_samples": 1779694,
+      "start_s": 1396.736,
+      "first_event": 682,
+      "end_event": 688
+    },
+    {
+      "label": 4,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/A Pillow of Winds.m4a",
+      "source_offset_samples": 1779694,
+      "start_s": 1413.12,
+      "first_event": 690,
+      "end_event": 696
+    },
+    {
+      "label": 38,
+      "profile": "clean",
+      "path": "Álbum - Meddle/Echoes.m4a",
+      "source_offset_samples": 8289076,
+      "start_s": 1429.504,
+      "first_event": 698,
+      "end_event": 704
+    },
+    {
+      "label": 38,
+      "profile": "room",
+      "path": "Álbum - Meddle/Echoes.m4a",
+      "source_offset_samples": 8289076,
+      "start_s": 1445.888,
+      "first_event": 706,
+      "end_event": 712
+    },
+    {
+      "label": 38,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/Echoes.m4a",
+      "source_offset_samples": 8289076,
+      "start_s": 1462.272,
+      "first_event": 714,
+      "end_event": 720
+    },
+    {
+      "label": 42,
+      "profile": "clean",
+      "path": "Álbum - Meddle/Fearless.m4a",
+      "source_offset_samples": 2105617,
+      "start_s": 1478.656,
+      "first_event": 722,
+      "end_event": 728
+    },
+    {
+      "label": 42,
+      "profile": "room",
+      "path": "Álbum - Meddle/Fearless.m4a",
+      "source_offset_samples": 2105617,
+      "start_s": 1495.04,
+      "first_event": 730,
+      "end_event": 736
+    },
+    {
+      "label": 42,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/Fearless.m4a",
+      "source_offset_samples": 2105617,
+      "start_s": 1511.424,
+      "first_event": 738,
+      "end_event": 744
+    },
+    {
+      "label": 81,
+      "profile": "clean",
+      "path": "Álbum - Meddle/One of These Days.m4a",
+      "source_offset_samples": 2026629,
+      "start_s": 1527.808,
+      "first_event": 746,
+      "end_event": 752
+    },
+    {
+      "label": 81,
+      "profile": "room",
+      "path": "Álbum - Meddle/One of These Days.m4a",
+      "source_offset_samples": 2026629,
+      "start_s": 1544.192,
+      "first_event": 754,
+      "end_event": 760
+    },
+    {
+      "label": 81,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/One of These Days.m4a",
+      "source_offset_samples": 2026629,
+      "start_s": 1560.576,
+      "first_event": 762,
+      "end_event": 768
+    },
+    {
+      "label": 96,
+      "profile": "clean",
+      "path": "Álbum - Meddle/San Tropez.m4a",
+      "source_offset_samples": 1247991,
+      "start_s": 1576.96,
+      "first_event": 770,
+      "end_event": 776
+    },
+    {
+      "label": 96,
+      "profile": "room",
+      "path": "Álbum - Meddle/San Tropez.m4a",
+      "source_offset_samples": 1247991,
+      "start_s": 1593.344,
+      "first_event": 778,
+      "end_event": 784
+    },
+    {
+      "label": 96,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/San Tropez.m4a",
+      "source_offset_samples": 1247991,
+      "start_s": 1609.728,
+      "first_event": 786,
+      "end_event": 792
+    },
+    {
+      "label": 97,
+      "profile": "clean",
+      "path": "Álbum - Meddle/Seamus.m4a",
+      "source_offset_samples": 725635,
+      "start_s": 1626.112,
+      "first_event": 794,
+      "end_event": 800
+    },
+    {
+      "label": 97,
+      "profile": "room",
+      "path": "Álbum - Meddle/Seamus.m4a",
+      "source_offset_samples": 725635,
+      "start_s": 1642.496,
+      "first_event": 802,
+      "end_event": 808
+    },
+    {
+      "label": 97,
+      "profile": "speaker",
+      "path": "Álbum - Meddle/Seamus.m4a",
+      "source_offset_samples": 725635,
+      "start_s": 1658.88,
+      "first_event": 810,
+      "end_event": 816
+    },
+    {
+      "label": 7,
+      "profile": "clean",
+      "path": "Álbum - More/A Spanish Piece.m4a",
+      "source_offset_samples": 313798,
+      "start_s": 1675.264,
+      "first_event": 818,
+      "end_event": 824
+    },
+    {
+      "label": 7,
+      "profile": "room",
+      "path": "Álbum - More/A Spanish Piece.m4a",
+      "source_offset_samples": 313798,
+      "start_s": 1691.648,
+      "first_event": 826,
+      "end_event": 832
+    },
+    {
+      "label": 7,
+      "profile": "speaker",
+      "path": "Álbum - More/A Spanish Piece.m4a",
+      "source_offset_samples": 313798,
+      "start_s": 1708.032,
+      "first_event": 834,
+      "end_event": 840
+    },
+    {
+      "label": 28,
+      "profile": "clean",
+      "path": "Álbum - More/Cirrus Minor.m4a",
+      "source_offset_samples": 1805950,
+      "start_s": 1724.416,
+      "first_event": 842,
+      "end_event": 848
+    },
+    {
+      "label": 28,
+      "profile": "room",
+      "path": "Álbum - More/Cirrus Minor.m4a",
+      "source_offset_samples": 1805950,
+      "start_s": 1740.8,
+      "first_event": 850,
+      "end_event": 856
+    },
+    {
+      "label": 28,
+      "profile": "speaker",
+      "path": "Álbum - More/Cirrus Minor.m4a",
+      "source_offset_samples": 1805950,
+      "start_s": 1757.184,
+      "first_event": 858,
+      "end_event": 864
+    },
+    {
+      "label": 33,
+      "profile": "clean",
+      "path": "Álbum - More/Crying Song.m4a",
+      "source_offset_samples": 1190119,
+      "start_s": 1773.568,
+      "first_event": 866,
+      "end_event": 872
+    },
+    {
+      "label": 33,
+      "profile": "room",
+      "path": "Álbum - More/Crying Song.m4a",
+      "source_offset_samples": 1190119,
+      "start_s": 1789.952,
+      "first_event": 874,
+      "end_event": 880
+    },
+    {
+      "label": 33,
+      "profile": "speaker",
+      "path": "Álbum - More/Crying Song.m4a",
+      "source_offset_samples": 1190119,
+      "start_s": 1806.336,
+      "first_event": 882,
+      "end_event": 888
+    },
+    {
+      "label": 34,
+      "profile": "clean",
+      "path": "Álbum - More/Cymbaline.m4a",
+      "source_offset_samples": 1643469,
+      "start_s": 1822.72,
+      "first_event": 890,
+      "end_event": 896
+    },
+    {
+      "label": 34,
+      "profile": "room",
+      "path": "Álbum - More/Cymbaline.m4a",
+      "source_offset_samples": 1643469,
+      "start_s": 1839.104,
+      "first_event": 898,
+      "end_event": 904
+    },
+    {
+      "label": 34,
+      "profile": "speaker",
+      "path": "Álbum - More/Cymbaline.m4a",
+      "source_offset_samples": 1643469,
+      "start_s": 1855.488,
+      "first_event": 906,
+      "end_event": 912
+    },
+    {
+      "label": 37,
+      "profile": "clean",
+      "path": "Álbum - More/Dramatic Theme.m4a",
+      "source_offset_samples": 731683,
+      "start_s": 1871.872,
+      "first_event": 914,
+      "end_event": 920
+    },
+    {
+      "label": 37,
+      "profile": "room",
+      "path": "Álbum - More/Dramatic Theme.m4a",
+      "source_offset_samples": 731683,
+      "start_s": 1888.256,
+      "first_event": 922,
+      "end_event": 928
+    },
+    {
+      "label": 37,
+      "profile": "speaker",
+      "path": "Álbum - More/Dramatic Theme.m4a",
+      "source_offset_samples": 731683,
+      "start_s": 1904.64,
+      "first_event": 930,
+      "end_event": 936
+    },
+    {
+      "label": 49,
+      "profile": "clean",
+      "path": "Álbum - More/Green Is the Colour.m4a",
+      "source_offset_samples": 986538,
+      "start_s": 1921.024,
+      "first_event": 938,
+      "end_event": 944
+    },
+    {
+      "label": 49,
+      "profile": "room",
+      "path": "Álbum - More/Green Is the Colour.m4a",
+      "source_offset_samples": 986538,
+      "start_s": 1937.408,
+      "first_event": 946,
+      "end_event": 952
+    },
+    {
+      "label": 49,
+      "profile": "speaker",
+      "path": "Álbum - More/Green Is the Colour.m4a",
+      "source_offset_samples": 986538,
+      "start_s": 1953.792,
+      "first_event": 954,
+      "end_event": 960
+    },
+    {
+      "label": 53,
+      "profile": "clean",
+      "path": "Álbum - More/Ibiza Bar.m4a",
+      "source_offset_samples": 1107087,
+      "start_s": 1970.176,
+      "first_event": 962,
+      "end_event": 968
+    },
+    {
+      "label": 53,
+      "profile": "room",
+      "path": "Álbum - More/Ibiza Bar.m4a",
+      "source_offset_samples": 1107087,
+      "start_s": 1986.56,
+      "first_event": 970,
+      "end_event": 976
+    },
+    {
+      "label": 53,
+      "profile": "speaker",
+      "path": "Álbum - More/Ibiza Bar.m4a",
+      "source_offset_samples": 1107087,
+      "start_s": 2002.944,
+      "first_event": 978,
+      "end_event": 984
+    },
+    {
+      "label": 66,
+      "profile": "clean",
+      "path": "Álbum - More/Main Theme.m4a",
+      "source_offset_samples": 1859972,
+      "start_s": 2019.328,
+      "first_event": 986,
+      "end_event": 992
+    },
+    {
+      "label": 66,
+      "profile": "room",
+      "path": "Álbum - More/Main Theme.m4a",
+      "source_offset_samples": 1859972,
+      "start_s": 2035.712,
+      "first_event": 994,
+      "end_event": 1000
+    },
+    {
+      "label": 66,
+      "profile": "speaker",
+      "path": "Álbum - More/Main Theme.m4a",
+      "source_offset_samples": 1859972,
+      "start_s": 2052.096,
+      "first_event": 1002,
+      "end_event": 1008
+    },
+    {
+      "label": 70,
+      "profile": "clean",
+      "path": "Álbum - More/More Blues.m4a",
+      "source_offset_samples": 712026,
+      "start_s": 2068.48,
+      "first_event": 1010,
+      "end_event": 1016
+    },
+    {
+      "label": 70,
+      "profile": "room",
+      "path": "Álbum - More/More Blues.m4a",
+      "source_offset_samples": 712026,
+      "start_s": 2084.864,
+      "first_event": 1018,
+      "end_event": 1024
+    },
+    {
+      "label": 70,
+      "profile": "speaker",
+      "path": "Álbum - More/More Blues.m4a",
+      "source_offset_samples": 712026,
+      "start_s": 2101.248,
+      "first_event": 1026,
+      "end_event": 1032
+    },
+    {
+      "label": 86,
+      "profile": "clean",
+      "path": "Álbum - More/Party Sequence.m4a",
+      "source_offset_samples": 335655,
+      "start_s": 2117.632,
+      "first_event": 1034,
+      "end_event": 1040
+    },
+    {
+      "label": 86,
+      "profile": "room",
+      "path": "Álbum - More/Party Sequence.m4a",
+      "source_offset_samples": 335655,
+      "start_s": 2134.016,
+      "first_event": 1042,
+      "end_event": 1048
+    },
+    {
+      "label": 86,
+      "profile": "speaker",
+      "path": "Álbum - More/Party Sequence.m4a",
+      "source_offset_samples": 335655,
+      "start_s": 2150.4,
+      "first_event": 1050,
+      "end_event": 1056
+    },
+    {
+      "label": 92,
+      "profile": "clean",
+      "path": "Álbum - More/Quicksilver.m4a",
+      "source_offset_samples": 2494497,
+      "start_s": 2166.784,
+      "first_event": 1058,
+      "end_event": 1064
+    },
+    {
+      "label": 92,
+      "profile": "room",
+      "path": "Álbum - More/Quicksilver.m4a",
+      "source_offset_samples": 2494497,
+      "start_s": 2183.168,
+      "first_event": 1066,
+      "end_event": 1072
+    },
+    {
+      "label": 92,
+      "profile": "speaker",
+      "path": "Álbum - More/Quicksilver.m4a",
+      "source_offset_samples": 2494497,
+      "start_s": 2199.552,
+      "first_event": 1074,
+      "end_event": 1080
+    },
+    {
+      "label": 155,
+      "profile": "clean",
+      "path": "Álbum - More/The Nile Song.m4a",
+      "source_offset_samples": 1152592,
+      "start_s": 2215.936,
+      "first_event": 1082,
+      "end_event": 1088
+    },
+    {
+      "label": 155,
+      "profile": "room",
+      "path": "Álbum - More/The Nile Song.m4a",
+      "source_offset_samples": 1152592,
+      "start_s": 2232.32,
+      "first_event": 1090,
+      "end_event": 1096
+    },
+    {
+      "label": 155,
+      "profile": "speaker",
+      "path": "Álbum - More/The Nile Song.m4a",
+      "source_offset_samples": 1152592,
+      "start_s": 2248.704,
+      "first_event": 1098,
+      "end_event": 1104
+    },
+    {
+      "label": 163,
+      "profile": "clean",
+      "path": "Álbum - More/Up the Khyber.m4a",
+      "source_offset_samples": 713538,
+      "start_s": 2265.088,
+      "first_event": 1106,
+      "end_event": 1112
+    },
+    {
+      "label": 163,
+      "profile": "room",
+      "path": "Álbum - More/Up the Khyber.m4a",
+      "source_offset_samples": 713538,
+      "start_s": 2281.472,
+      "first_event": 1114,
+      "end_event": 1120
+    },
+    {
+      "label": 163,
+      "profile": "speaker",
+      "path": "Álbum - More/Up the Khyber.m4a",
+      "source_offset_samples": 713538,
+      "start_s": 2297.856,
+      "first_event": 1122,
+      "end_event": 1128
+    },
+    {
+      "label": 8,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Absolutely Curtains.m4a",
+      "source_offset_samples": 2002108,
+      "start_s": 2314.24,
+      "first_event": 1130,
+      "end_event": 1136
+    },
+    {
+      "label": 8,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Absolutely Curtains.m4a",
+      "source_offset_samples": 2002108,
+      "start_s": 2330.624,
+      "first_event": 1138,
+      "end_event": 1144
+    },
+    {
+      "label": 8,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Absolutely Curtains.m4a",
+      "source_offset_samples": 2002108,
+      "start_s": 2347.008,
+      "first_event": 1146,
+      "end_event": 1152
+    },
+    {
+      "label": 23,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Burning Bridges.m4a",
+      "source_offset_samples": 1172524,
+      "start_s": 2363.392,
+      "first_event": 1154,
+      "end_event": 1160
+    },
+    {
+      "label": 23,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Burning Bridges.m4a",
+      "source_offset_samples": 1172524,
+      "start_s": 2379.776,
+      "first_event": 1162,
+      "end_event": 1168
+    },
+    {
+      "label": 23,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Burning Bridges.m4a",
+      "source_offset_samples": 1172524,
+      "start_s": 2396.16,
+      "first_event": 1170,
+      "end_event": 1176
+    },
+    {
+      "label": 27,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Childhood's End.m4a",
+      "source_offset_samples": 1545871,
+      "start_s": 2412.544,
+      "first_event": 1178,
+      "end_event": 1184
+    },
+    {
+      "label": 27,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Childhood's End.m4a",
+      "source_offset_samples": 1545871,
+      "start_s": 2428.928,
+      "first_event": 1186,
+      "end_event": 1192
+    },
+    {
+      "label": 27,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Childhood's End.m4a",
+      "source_offset_samples": 1545871,
+      "start_s": 2445.312,
+      "first_event": 1194,
+      "end_event": 1200
+    },
+    {
+      "label": 44,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Free Four.m4a",
+      "source_offset_samples": 1447586,
+      "start_s": 2461.696,
+      "first_event": 1202,
+      "end_event": 1208
+    },
+    {
+      "label": 44,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Free Four.m4a",
+      "source_offset_samples": 1447586,
+      "start_s": 2478.08,
+      "first_event": 1210,
+      "end_event": 1216
+    },
+    {
+      "label": 44,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Free Four.m4a",
+      "source_offset_samples": 1447586,
+      "start_s": 2494.464,
+      "first_event": 1218,
+      "end_event": 1224
+    },
+    {
+      "label": 72,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Mudmen.m4a",
+      "source_offset_samples": 1454184,
+      "start_s": 2510.848,
+      "first_event": 1226,
+      "end_event": 1232
+    },
+    {
+      "label": 72,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Mudmen.m4a",
+      "source_offset_samples": 1454184,
+      "start_s": 2527.232,
+      "first_event": 1234,
+      "end_event": 1240
+    },
+    {
+      "label": 72,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Mudmen.m4a",
+      "source_offset_samples": 1454184,
+      "start_s": 2543.616,
+      "first_event": 1242,
+      "end_event": 1248
+    },
+    {
+      "label": 76,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Obscured by Clouds.m4a",
+      "source_offset_samples": 1016917,
+      "start_s": 2560.0,
+      "first_event": 1250,
+      "end_event": 1256
+    },
+    {
+      "label": 76,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Obscured by Clouds.m4a",
+      "source_offset_samples": 1016917,
+      "start_s": 2576.384,
+      "first_event": 1258,
+      "end_event": 1264
+    },
+    {
+      "label": 76,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Obscured by Clouds.m4a",
+      "source_offset_samples": 1016917,
+      "start_s": 2592.768,
+      "first_event": 1266,
+      "end_event": 1272
+    },
+    {
+      "label": 128,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Stay.m4a",
+      "source_offset_samples": 1394113,
+      "start_s": 2609.152,
+      "first_event": 1274,
+      "end_event": 1280
+    },
+    {
+      "label": 128,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Stay.m4a",
+      "source_offset_samples": 1394113,
+      "start_s": 2625.536,
+      "first_event": 1282,
+      "end_event": 1288
+    },
+    {
+      "label": 128,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Stay.m4a",
+      "source_offset_samples": 1394113,
+      "start_s": 2641.92,
+      "first_event": 1290,
+      "end_event": 1296
+    },
+    {
+      "label": 144,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/The Gold It's in the....m4a",
+      "source_offset_samples": 1039323,
+      "start_s": 2658.304,
+      "first_event": 1298,
+      "end_event": 1304
+    },
+    {
+      "label": 144,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/The Gold It's in the....m4a",
+      "source_offset_samples": 1039323,
+      "start_s": 2674.688,
+      "first_event": 1306,
+      "end_event": 1312
+    },
+    {
+      "label": 144,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/The Gold It's in the....m4a",
+      "source_offset_samples": 1039323,
+      "start_s": 2691.072,
+      "first_event": 1314,
+      "end_event": 1320
+    },
+    {
+      "label": 171,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/When You're In.m4a",
+      "source_offset_samples": 822545,
+      "start_s": 2707.456,
+      "first_event": 1322,
+      "end_event": 1328
+    },
+    {
+      "label": 171,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/When You're In.m4a",
+      "source_offset_samples": 822545,
+      "start_s": 2723.84,
+      "first_event": 1330,
+      "end_event": 1336
+    },
+    {
+      "label": 171,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/When You're In.m4a",
+      "source_offset_samples": 822545,
+      "start_s": 2740.224,
+      "first_event": 1338,
+      "end_event": 1344
+    },
+    {
+      "label": 173,
+      "profile": "clean",
+      "path": "Álbum - Obscured by Clouds/Wot's... Uh the Deal.m4a",
+      "source_offset_samples": 1757288,
+      "start_s": 2756.608,
+      "first_event": 1346,
+      "end_event": 1352
+    },
+    {
+      "label": 173,
+      "profile": "room",
+      "path": "Álbum - Obscured by Clouds/Wot's... Uh the Deal.m4a",
+      "source_offset_samples": 1757288,
+      "start_s": 2772.992,
+      "first_event": 1354,
+      "end_event": 1360
+    },
+    {
+      "label": 173,
+      "profile": "speaker",
+      "path": "Álbum - Obscured by Clouds/Wot's... Uh the Deal.m4a",
+      "source_offset_samples": 1757288,
+      "start_s": 2789.376,
+      "first_event": 1362,
+      "end_event": 1368
+    },
+    {
+      "label": 14,
+      "profile": "clean",
+      "path": "Álbum - Relics/Arnold Layne.m4a",
+      "source_offset_samples": 974441,
+      "start_s": 2805.76,
+      "first_event": 1370,
+      "end_event": 1376
+    },
+    {
+      "label": 14,
+      "profile": "room",
+      "path": "Álbum - Relics/Arnold Layne.m4a",
+      "source_offset_samples": 974441,
+      "start_s": 2822.144,
+      "first_event": 1378,
+      "end_event": 1384
+    },
+    {
+      "label": 14,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Arnold Layne.m4a",
+      "source_offset_samples": 974441,
+      "start_s": 2838.528,
+      "first_event": 1386,
+      "end_event": 1392
+    },
+    {
+      "label": 18,
+      "profile": "clean",
+      "path": "Álbum - Relics/Biding My Time.m4a",
+      "source_offset_samples": 1811585,
+      "start_s": 2854.912,
+      "first_event": 1394,
+      "end_event": 1400
+    },
+    {
+      "label": 18,
+      "profile": "room",
+      "path": "Álbum - Relics/Biding My Time.m4a",
+      "source_offset_samples": 1811585,
+      "start_s": 2871.296,
+      "first_event": 1402,
+      "end_event": 1408
+    },
+    {
+      "label": 18,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Biding My Time.m4a",
+      "source_offset_samples": 1811585,
+      "start_s": 2887.68,
+      "first_event": 1410,
+      "end_event": 1416
+    },
+    {
+      "label": 19,
+      "profile": "clean",
+      "path": "Álbum - Relics/Bike.m4a",
+      "source_offset_samples": 1122076,
+      "start_s": 2904.064,
+      "first_event": 1418,
+      "end_event": 1424
+    },
+    {
+      "label": 19,
+      "profile": "room",
+      "path": "Álbum - Relics/Bike.m4a",
+      "source_offset_samples": 1122076,
+      "start_s": 2920.448,
+      "first_event": 1426,
+      "end_event": 1432
+    },
+    {
+      "label": 19,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Bike.m4a",
+      "source_offset_samples": 1122076,
+      "start_s": 2936.832,
+      "first_event": 1434,
+      "end_event": 1440
+    },
+    {
+      "label": 24,
+      "profile": "clean",
+      "path": "Álbum - Relics/Careful with That Axe, Eugene.m4a",
+      "source_offset_samples": 1975578,
+      "start_s": 2953.216,
+      "first_event": 1442,
+      "end_event": 1448
+    },
+    {
+      "label": 24,
+      "profile": "room",
+      "path": "Álbum - Relics/Careful with That Axe, Eugene.m4a",
+      "source_offset_samples": 1975578,
+      "start_s": 2969.6,
+      "first_event": 1450,
+      "end_event": 1456
+    },
+    {
+      "label": 24,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Careful with That Axe, Eugene.m4a",
+      "source_offset_samples": 1975578,
+      "start_s": 2985.984,
+      "first_event": 1458,
+      "end_event": 1464
+    },
+    {
+      "label": 28,
+      "profile": "clean",
+      "path": "Álbum - Relics/Cirrus Minor.m4a",
+      "source_offset_samples": 1810074,
+      "start_s": 3002.368,
+      "first_event": 1466,
+      "end_event": 1472
+    },
+    {
+      "label": 28,
+      "profile": "room",
+      "path": "Álbum - Relics/Cirrus Minor.m4a",
+      "source_offset_samples": 1810074,
+      "start_s": 3018.752,
+      "first_event": 1474,
+      "end_event": 1480
+    },
+    {
+      "label": 28,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Cirrus Minor.m4a",
+      "source_offset_samples": 1810074,
+      "start_s": 3035.136,
+      "first_event": 1482,
+      "end_event": 1488
+    },
+    {
+      "label": 57,
+      "profile": "clean",
+      "path": "Álbum - Relics/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3379341,
+      "start_s": 3051.52,
+      "first_event": 1490,
+      "end_event": 1496
+    },
+    {
+      "label": 57,
+      "profile": "room",
+      "path": "Álbum - Relics/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3379341,
+      "start_s": 3067.904,
+      "first_event": 1498,
+      "end_event": 1504
+    },
+    {
+      "label": 57,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3379341,
+      "start_s": 3084.288,
+      "first_event": 1506,
+      "end_event": 1512
+    },
+    {
+      "label": 60,
+      "profile": "clean",
+      "path": "Álbum - Relics/Julia Dream.m4a",
+      "source_offset_samples": 858668,
+      "start_s": 3100.672,
+      "first_event": 1514,
+      "end_event": 1520
+    },
+    {
+      "label": 60,
+      "profile": "room",
+      "path": "Álbum - Relics/Julia Dream.m4a",
+      "source_offset_samples": 858668,
+      "start_s": 3117.056,
+      "first_event": 1522,
+      "end_event": 1528
+    },
+    {
+      "label": 60,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Julia Dream.m4a",
+      "source_offset_samples": 858668,
+      "start_s": 3133.44,
+      "first_event": 1530,
+      "end_event": 1536
+    },
+    {
+      "label": 84,
+      "profile": "clean",
+      "path": "Álbum - Relics/Paintbox.m4a",
+      "source_offset_samples": 1188882,
+      "start_s": 3149.824,
+      "first_event": 1538,
+      "end_event": 1544
+    },
+    {
+      "label": 84,
+      "profile": "room",
+      "path": "Álbum - Relics/Paintbox.m4a",
+      "source_offset_samples": 1188882,
+      "start_s": 3166.208,
+      "first_event": 1546,
+      "end_event": 1552
+    },
+    {
+      "label": 84,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Paintbox.m4a",
+      "source_offset_samples": 1188882,
+      "start_s": 3182.592,
+      "first_event": 1554,
+      "end_event": 1560
+    },
+    {
+      "label": 93,
+      "profile": "clean",
+      "path": "Álbum - Relics/Remember a Day.m4a",
+      "source_offset_samples": 1520853,
+      "start_s": 3198.976,
+      "first_event": 1562,
+      "end_event": 1568
+    },
+    {
+      "label": 93,
+      "profile": "room",
+      "path": "Álbum - Relics/Remember a Day.m4a",
+      "source_offset_samples": 1520853,
+      "start_s": 3215.36,
+      "first_event": 1570,
+      "end_event": 1576
+    },
+    {
+      "label": 93,
+      "profile": "speaker",
+      "path": "Álbum - Relics/Remember a Day.m4a",
+      "source_offset_samples": 1520853,
+      "start_s": 3231.744,
+      "first_event": 1578,
+      "end_event": 1584
+    },
+    {
+      "label": 98,
+      "profile": "clean",
+      "path": "Álbum - Relics/See Emily Play.m4a",
+      "source_offset_samples": 956296,
+      "start_s": 3248.128,
+      "first_event": 1586,
+      "end_event": 1592
+    },
+    {
+      "label": 98,
+      "profile": "room",
+      "path": "Álbum - Relics/See Emily Play.m4a",
+      "source_offset_samples": 956296,
+      "start_s": 3264.512,
+      "first_event": 1594,
+      "end_event": 1600
+    },
+    {
+      "label": 98,
+      "profile": "speaker",
+      "path": "Álbum - Relics/See Emily Play.m4a",
+      "source_offset_samples": 956296,
+      "start_s": 3280.896,
+      "first_event": 1602,
+      "end_event": 1608
+    },
+    {
+      "label": 155,
+      "profile": "clean",
+      "path": "Álbum - Relics/The Nile Song.m4a",
+      "source_offset_samples": 1144344,
+      "start_s": 3297.28,
+      "first_event": 1610,
+      "end_event": 1616
+    },
+    {
+      "label": 155,
+      "profile": "room",
+      "path": "Álbum - Relics/The Nile Song.m4a",
+      "source_offset_samples": 1144344,
+      "start_s": 3313.664,
+      "first_event": 1618,
+      "end_event": 1624
+    },
+    {
+      "label": 155,
+      "profile": "speaker",
+      "path": "Álbum - Relics/The Nile Song.m4a",
+      "source_offset_samples": 1144344,
+      "start_s": 3330.048,
+      "first_event": 1626,
+      "end_event": 1632
+    },
+    {
+      "label": 13,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Any Colour You Like.m4a",
+      "source_offset_samples": 1149430,
+      "start_s": 3346.432,
+      "first_event": 1634,
+      "end_event": 1640
+    },
+    {
+      "label": 13,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Any Colour You Like.m4a",
+      "source_offset_samples": 1149430,
+      "start_s": 3362.816,
+      "first_event": 1642,
+      "end_event": 1648
+    },
+    {
+      "label": 13,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Any Colour You Like.m4a",
+      "source_offset_samples": 1149430,
+      "start_s": 3379.2,
+      "first_event": 1650,
+      "end_event": 1656
+    },
+    {
+      "label": 20,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Brain Damage.m4a",
+      "source_offset_samples": 1269297,
+      "start_s": 3395.584,
+      "first_event": 1658,
+      "end_event": 1664
+    },
+    {
+      "label": 20,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Brain Damage.m4a",
+      "source_offset_samples": 1269297,
+      "start_s": 3411.968,
+      "first_event": 1666,
+      "end_event": 1672
+    },
+    {
+      "label": 20,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Brain Damage.m4a",
+      "source_offset_samples": 1269297,
+      "start_s": 3428.352,
+      "first_event": 1674,
+      "end_event": 1680
+    },
+    {
+      "label": 21,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Breathe (In the Air).m4a",
+      "source_offset_samples": 931003,
+      "start_s": 3444.736,
+      "first_event": 1682,
+      "end_event": 1688
+    },
+    {
+      "label": 21,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Breathe (In the Air).m4a",
+      "source_offset_samples": 931003,
+      "start_s": 3461.12,
+      "first_event": 1690,
+      "end_event": 1696
+    },
+    {
+      "label": 21,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Breathe (In the Air).m4a",
+      "source_offset_samples": 931003,
+      "start_s": 3477.504,
+      "first_event": 1698,
+      "end_event": 1704
+    },
+    {
+      "label": 39,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Eclipse.m4a",
+      "source_offset_samples": 699517,
+      "start_s": 3493.888,
+      "first_event": 1706,
+      "end_event": 1712
+    },
+    {
+      "label": 39,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Eclipse.m4a",
+      "source_offset_samples": 699517,
+      "start_s": 3510.272,
+      "first_event": 1714,
+      "end_event": 1720
+    },
+    {
+      "label": 39,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Eclipse.m4a",
+      "source_offset_samples": 699517,
+      "start_s": 3526.656,
+      "first_event": 1722,
+      "end_event": 1728
+    },
+    {
+      "label": 69,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Money.m4a",
+      "source_offset_samples": 2193730,
+      "start_s": 3543.04,
+      "first_event": 1730,
+      "end_event": 1736
+    },
+    {
+      "label": 69,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Money.m4a",
+      "source_offset_samples": 2193730,
+      "start_s": 3559.424,
+      "first_event": 1738,
+      "end_event": 1744
+    },
+    {
+      "label": 69,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Money.m4a",
+      "source_offset_samples": 2193730,
+      "start_s": 3575.808,
+      "first_event": 1746,
+      "end_event": 1752
+    },
+    {
+      "label": 77,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/On the Run.m4a",
+      "source_offset_samples": 1261737,
+      "start_s": 3592.192,
+      "first_event": 1754,
+      "end_event": 1760
+    },
+    {
+      "label": 77,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/On the Run.m4a",
+      "source_offset_samples": 1261737,
+      "start_s": 3608.576,
+      "first_event": 1762,
+      "end_event": 1768
+    },
+    {
+      "label": 77,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/On the Run.m4a",
+      "source_offset_samples": 1261737,
+      "start_s": 3624.96,
+      "first_event": 1770,
+      "end_event": 1776
+    },
+    {
+      "label": 127,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Speak to Me.m4a",
+      "source_offset_samples": 313965,
+      "start_s": 3641.344,
+      "first_event": 1778,
+      "end_event": 1784
+    },
+    {
+      "label": 127,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Speak to Me.m4a",
+      "source_offset_samples": 313965,
+      "start_s": 3657.728,
+      "first_event": 1786,
+      "end_event": 1792
+    },
+    {
+      "label": 127,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Speak to Me.m4a",
+      "source_offset_samples": 313965,
+      "start_s": 3674.112,
+      "first_event": 1794,
+      "end_event": 1800
+    },
+    {
+      "label": 148,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/The Great Gig in the Sky.m4a",
+      "source_offset_samples": 1607867,
+      "start_s": 3690.496,
+      "first_event": 1802,
+      "end_event": 1808
+    },
+    {
+      "label": 148,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/The Great Gig in the Sky.m4a",
+      "source_offset_samples": 1607867,
+      "start_s": 3706.88,
+      "first_event": 1810,
+      "end_event": 1816
+    },
+    {
+      "label": 148,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/The Great Gig in the Sky.m4a",
+      "source_offset_samples": 1607867,
+      "start_s": 3723.264,
+      "first_event": 1818,
+      "end_event": 1824
+    },
+    {
+      "label": 161,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Time.m4a",
+      "source_offset_samples": 2377930,
+      "start_s": 3739.648,
+      "first_event": 1826,
+      "end_event": 1832
+    },
+    {
+      "label": 161,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Time.m4a",
+      "source_offset_samples": 2377930,
+      "start_s": 3756.032,
+      "first_event": 1834,
+      "end_event": 1840
+    },
+    {
+      "label": 161,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Time.m4a",
+      "source_offset_samples": 2377930,
+      "start_s": 3772.416,
+      "first_event": 1842,
+      "end_event": 1848
+    },
+    {
+      "label": 164,
+      "profile": "clean",
+      "path": "Álbum - The Dark Side of the Moon/Us and Them.m4a",
+      "source_offset_samples": 2705227,
+      "start_s": 3788.8,
+      "first_event": 1850,
+      "end_event": 1856
+    },
+    {
+      "label": 164,
+      "profile": "room",
+      "path": "Álbum - The Dark Side of the Moon/Us and Them.m4a",
+      "source_offset_samples": 2705227,
+      "start_s": 3805.184,
+      "first_event": 1858,
+      "end_event": 1864
+    },
+    {
+      "label": 164,
+      "profile": "speaker",
+      "path": "Álbum - The Dark Side of the Moon/Us and Them.m4a",
+      "source_offset_samples": 2705227,
+      "start_s": 3821.568,
+      "first_event": 1866,
+      "end_event": 1872
+    },
+    {
+      "label": 1,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/A Great Day for Freedom.m4a",
+      "source_offset_samples": 1448823,
+      "start_s": 3837.952,
+      "first_event": 1874,
+      "end_event": 1880
+    },
+    {
+      "label": 1,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/A Great Day for Freedom.m4a",
+      "source_offset_samples": 1448823,
+      "start_s": 3854.336,
+      "first_event": 1882,
+      "end_event": 1888
+    },
+    {
+      "label": 1,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/A Great Day for Freedom.m4a",
+      "source_offset_samples": 1448823,
+      "start_s": 3870.72,
+      "first_event": 1890,
+      "end_event": 1896
+    },
+    {
+      "label": 29,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Cluster One.m4a",
+      "source_offset_samples": 2032762,
+      "start_s": 3887.104,
+      "first_event": 1898,
+      "end_event": 1904
+    },
+    {
+      "label": 29,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Cluster One.m4a",
+      "source_offset_samples": 2032762,
+      "start_s": 3903.488,
+      "first_event": 1906,
+      "end_event": 1912
+    },
+    {
+      "label": 29,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Cluster One.m4a",
+      "source_offset_samples": 2032762,
+      "start_s": 3919.872,
+      "first_event": 1914,
+      "end_event": 1920
+    },
+    {
+      "label": 31,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Coming Back to Life.m4a",
+      "source_offset_samples": 2172561,
+      "start_s": 3936.256,
+      "first_event": 1922,
+      "end_event": 1928
+    },
+    {
+      "label": 31,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Coming Back to Life.m4a",
+      "source_offset_samples": 2172561,
+      "start_s": 3952.64,
+      "first_event": 1930,
+      "end_event": 1936
+    },
+    {
+      "label": 31,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Coming Back to Life.m4a",
+      "source_offset_samples": 2172561,
+      "start_s": 3969.024,
+      "first_event": 1938,
+      "end_event": 1944
+    },
+    {
+      "label": 52,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/High Hopes.m4a",
+      "source_offset_samples": 2952246,
+      "start_s": 3985.408,
+      "first_event": 1946,
+      "end_event": 1952
+    },
+    {
+      "label": 52,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/High Hopes.m4a",
+      "source_offset_samples": 2952246,
+      "start_s": 4001.792,
+      "first_event": 1954,
+      "end_event": 1960
+    },
+    {
+      "label": 52,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/High Hopes.m4a",
+      "source_offset_samples": 2952246,
+      "start_s": 4018.176,
+      "first_event": 1962,
+      "end_event": 1968
+    },
+    {
+      "label": 61,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Keep Talking.m4a",
+      "source_offset_samples": 2121700,
+      "start_s": 4034.56,
+      "first_event": 1970,
+      "end_event": 1976
+    },
+    {
+      "label": 61,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Keep Talking.m4a",
+      "source_offset_samples": 2121700,
+      "start_s": 4050.944,
+      "first_event": 1978,
+      "end_event": 1984
+    },
+    {
+      "label": 61,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Keep Talking.m4a",
+      "source_offset_samples": 2121700,
+      "start_s": 4067.328,
+      "first_event": 1986,
+      "end_event": 1992
+    },
+    {
+      "label": 64,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Lost for Words.m4a",
+      "source_offset_samples": 1791928,
+      "start_s": 4083.712,
+      "first_event": 1994,
+      "end_event": 2000
+    },
+    {
+      "label": 64,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Lost for Words.m4a",
+      "source_offset_samples": 1791928,
+      "start_s": 4100.096,
+      "first_event": 2002,
+      "end_event": 2008
+    },
+    {
+      "label": 64,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Lost for Words.m4a",
+      "source_offset_samples": 1791928,
+      "start_s": 4116.48,
+      "first_event": 2010,
+      "end_event": 2016
+    },
+    {
+      "label": 67,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Marooned.m4a",
+      "source_offset_samples": 1883341,
+      "start_s": 4132.864,
+      "first_event": 2018,
+      "end_event": 2024
+    },
+    {
+      "label": 67,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Marooned.m4a",
+      "source_offset_samples": 1883341,
+      "start_s": 4149.248,
+      "first_event": 2026,
+      "end_event": 2032
+    },
+    {
+      "label": 67,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Marooned.m4a",
+      "source_offset_samples": 1883341,
+      "start_s": 4165.632,
+      "first_event": 2034,
+      "end_event": 2040
+    },
+    {
+      "label": 90,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Poles Apart.m4a",
+      "source_offset_samples": 2431952,
+      "start_s": 4182.016,
+      "first_event": 2042,
+      "end_event": 2048
+    },
+    {
+      "label": 90,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Poles Apart.m4a",
+      "source_offset_samples": 2431952,
+      "start_s": 4198.4,
+      "first_event": 2050,
+      "end_event": 2056
+    },
+    {
+      "label": 90,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Poles Apart.m4a",
+      "source_offset_samples": 2431952,
+      "start_s": 4214.784,
+      "first_event": 2058,
+      "end_event": 2064
+    },
+    {
+      "label": 135,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Take It Back.m4a",
+      "source_offset_samples": 2130910,
+      "start_s": 4231.168,
+      "first_event": 2066,
+      "end_event": 2072
+    },
+    {
+      "label": 135,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Take It Back.m4a",
+      "source_offset_samples": 2130910,
+      "start_s": 4247.552,
+      "first_event": 2074,
+      "end_event": 2080
+    },
+    {
+      "label": 135,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Take It Back.m4a",
+      "source_offset_samples": 2130910,
+      "start_s": 4263.936,
+      "first_event": 2082,
+      "end_event": 2088
+    },
+    {
+      "label": 167,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/Wearing the Inside Out.m4a",
+      "source_offset_samples": 2350162,
+      "start_s": 4280.32,
+      "first_event": 2090,
+      "end_event": 2096
+    },
+    {
+      "label": 167,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/Wearing the Inside Out.m4a",
+      "source_offset_samples": 2350162,
+      "start_s": 4296.704,
+      "first_event": 2098,
+      "end_event": 2104
+    },
+    {
+      "label": 167,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/Wearing the Inside Out.m4a",
+      "source_offset_samples": 2350162,
+      "start_s": 4313.088,
+      "first_event": 2106,
+      "end_event": 2112
+    },
+    {
+      "label": 169,
+      "profile": "clean",
+      "path": "Álbum - The Division Bell/What Do You Want from Me.m4a",
+      "source_offset_samples": 1476041,
+      "start_s": 4329.472,
+      "first_event": 2114,
+      "end_event": 2120
+    },
+    {
+      "label": 169,
+      "profile": "room",
+      "path": "Álbum - The Division Bell/What Do You Want from Me.m4a",
+      "source_offset_samples": 1476041,
+      "start_s": 4345.856,
+      "first_event": 2122,
+      "end_event": 2128
+    },
+    {
+      "label": 169,
+      "profile": "speaker",
+      "path": "Álbum - The Division Bell/What Do You Want from Me.m4a",
+      "source_offset_samples": 1476041,
+      "start_s": 4362.24,
+      "first_event": 2130,
+      "end_event": 2136
+    },
+    {
+      "label": 73,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Nervana.m4a",
+      "source_offset_samples": 1885403,
+      "start_s": 4378.624,
+      "first_event": 2138,
+      "end_event": 2144
+    },
+    {
+      "label": 73,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Nervana.m4a",
+      "source_offset_samples": 1885403,
+      "start_s": 4395.008,
+      "first_event": 2146,
+      "end_event": 2152
+    },
+    {
+      "label": 73,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Nervana.m4a",
+      "source_offset_samples": 1885403,
+      "start_s": 4411.392,
+      "first_event": 2154,
+      "end_event": 2160
+    },
+    {
+      "label": 106,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 1, Pt. 1 Things Left Unsaid.m4a",
+      "source_offset_samples": 1506420,
+      "start_s": 4427.776,
+      "first_event": 2162,
+      "end_event": 2168
+    },
+    {
+      "label": 106,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 1, Pt. 1 Things Left Unsaid.m4a",
+      "source_offset_samples": 1506420,
+      "start_s": 4444.16,
+      "first_event": 2170,
+      "end_event": 2176
+    },
+    {
+      "label": 106,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 1, Pt. 1 Things Left Unsaid.m4a",
+      "source_offset_samples": 1506420,
+      "start_s": 4460.544,
+      "first_event": 2178,
+      "end_event": 2184
+    },
+    {
+      "label": 107,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 1, Pt. 2 It's What We Do.m4a",
+      "source_offset_samples": 2161014,
+      "start_s": 4476.928,
+      "first_event": 2186,
+      "end_event": 2192
+    },
+    {
+      "label": 107,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 1, Pt. 2 It's What We Do.m4a",
+      "source_offset_samples": 2161014,
+      "start_s": 4493.312,
+      "first_event": 2194,
+      "end_event": 2200
+    },
+    {
+      "label": 107,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 1, Pt. 2 It's What We Do.m4a",
+      "source_offset_samples": 2161014,
+      "start_s": 4509.696,
+      "first_event": 2202,
+      "end_event": 2208
+    },
+    {
+      "label": 108,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 1, Pt. 3 Ebb And Flow.m4a",
+      "source_offset_samples": 605630,
+      "start_s": 4526.08,
+      "first_event": 2210,
+      "end_event": 2216
+    },
+    {
+      "label": 108,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 1, Pt. 3 Ebb And Flow.m4a",
+      "source_offset_samples": 605630,
+      "start_s": 4542.464,
+      "first_event": 2218,
+      "end_event": 2224
+    },
+    {
+      "label": 108,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 1, Pt. 3 Ebb And Flow.m4a",
+      "source_offset_samples": 605630,
+      "start_s": 4558.848,
+      "first_event": 2226,
+      "end_event": 2232
+    },
+    {
+      "label": 109,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 2, Pt. 1 Sum.m4a",
+      "source_offset_samples": 1634534,
+      "start_s": 4575.232,
+      "first_event": 2234,
+      "end_event": 2240
+    },
+    {
+      "label": 109,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 2, Pt. 1 Sum.m4a",
+      "source_offset_samples": 1634534,
+      "start_s": 4591.616,
+      "first_event": 2242,
+      "end_event": 2248
+    },
+    {
+      "label": 109,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 2, Pt. 1 Sum.m4a",
+      "source_offset_samples": 1634534,
+      "start_s": 4608.0,
+      "first_event": 2250,
+      "end_event": 2256
+    },
+    {
+      "label": 110,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 2, Pt. 2 Skins.m4a",
+      "source_offset_samples": 856773,
+      "start_s": 4624.384,
+      "first_event": 2258,
+      "end_event": 2264
+    },
+    {
+      "label": 110,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 2, Pt. 2 Skins.m4a",
+      "source_offset_samples": 856773,
+      "start_s": 4640.768,
+      "first_event": 2266,
+      "end_event": 2272
+    },
+    {
+      "label": 110,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 2, Pt. 2 Skins.m4a",
+      "source_offset_samples": 856773,
+      "start_s": 4657.152,
+      "first_event": 2274,
+      "end_event": 2280
+    },
+    {
+      "label": 111,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 2, Pt. 3 Unsung.m4a",
+      "source_offset_samples": 324795,
+      "start_s": 4673.536,
+      "first_event": 2282,
+      "end_event": 2288
+    },
+    {
+      "label": 111,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 2, Pt. 3 Unsung.m4a",
+      "source_offset_samples": 324795,
+      "start_s": 4689.92,
+      "first_event": 2290,
+      "end_event": 2296
+    },
+    {
+      "label": 111,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 2, Pt. 3 Unsung.m4a",
+      "source_offset_samples": 324795,
+      "start_s": 4706.304,
+      "first_event": 2298,
+      "end_event": 2304
+    },
+    {
+      "label": 112,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 2, Pt. 4 Anisina.m4a",
+      "source_offset_samples": 1092521,
+      "start_s": 4722.688,
+      "first_event": 2306,
+      "end_event": 2312
+    },
+    {
+      "label": 112,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 2, Pt. 4 Anisina.m4a",
+      "source_offset_samples": 1092521,
+      "start_s": 4739.072,
+      "first_event": 2314,
+      "end_event": 2320
+    },
+    {
+      "label": 112,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 2, Pt. 4 Anisina.m4a",
+      "source_offset_samples": 1092521,
+      "start_s": 4755.456,
+      "first_event": 2322,
+      "end_event": 2328
+    },
+    {
+      "label": 113,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 1 The Lost Art of Conversation.m4a",
+      "source_offset_samples": 536899,
+      "start_s": 4771.84,
+      "first_event": 2330,
+      "end_event": 2336
+    },
+    {
+      "label": 113,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 1 The Lost Art of Conversation.m4a",
+      "source_offset_samples": 536899,
+      "start_s": 4788.224,
+      "first_event": 2338,
+      "end_event": 2344
+    },
+    {
+      "label": 113,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 1 The Lost Art of Conversation.m4a",
+      "source_offset_samples": 536899,
+      "start_s": 4804.608,
+      "first_event": 2346,
+      "end_event": 2352
+    },
+    {
+      "label": 114,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 2 On Noodle Street.m4a",
+      "source_offset_samples": 531263,
+      "start_s": 4820.992,
+      "first_event": 2354,
+      "end_event": 2360
+    },
+    {
+      "label": 114,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 2 On Noodle Street.m4a",
+      "source_offset_samples": 531263,
+      "start_s": 4837.376,
+      "first_event": 2362,
+      "end_event": 2368
+    },
+    {
+      "label": 114,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 2 On Noodle Street.m4a",
+      "source_offset_samples": 531263,
+      "start_s": 4853.76,
+      "first_event": 2370,
+      "end_event": 2376
+    },
+    {
+      "label": 115,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 3 Night Light.m4a",
+      "source_offset_samples": 532363,
+      "start_s": 4870.144,
+      "first_event": 2378,
+      "end_event": 2384
+    },
+    {
+      "label": 115,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 3 Night Light.m4a",
+      "source_offset_samples": 532363,
+      "start_s": 4886.528,
+      "first_event": 2386,
+      "end_event": 2392
+    },
+    {
+      "label": 115,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 3 Night Light.m4a",
+      "source_offset_samples": 532363,
+      "start_s": 4902.912,
+      "first_event": 2394,
+      "end_event": 2400
+    },
+    {
+      "label": 116,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 4 Allons-y.m4a",
+      "source_offset_samples": 621713,
+      "start_s": 4919.296,
+      "first_event": 2402,
+      "end_event": 2408
+    },
+    {
+      "label": 116,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 4 Allons-y.m4a",
+      "source_offset_samples": 621713,
+      "start_s": 4935.68,
+      "first_event": 2410,
+      "end_event": 2416
+    },
+    {
+      "label": 116,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 4 Allons-y.m4a",
+      "source_offset_samples": 621713,
+      "start_s": 4952.064,
+      "first_event": 2418,
+      "end_event": 2424
+    },
+    {
+      "label": 117,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 5 Autumn '68.m4a",
+      "source_offset_samples": 490712,
+      "start_s": 4968.448,
+      "first_event": 2426,
+      "end_event": 2432
+    },
+    {
+      "label": 117,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 5 Autumn '68.m4a",
+      "source_offset_samples": 490712,
+      "start_s": 4984.832,
+      "first_event": 2434,
+      "end_event": 2440
+    },
+    {
+      "label": 117,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 5 Autumn '68.m4a",
+      "source_offset_samples": 490712,
+      "start_s": 5001.216,
+      "first_event": 2442,
+      "end_event": 2448
+    },
+    {
+      "label": 118,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 6 Allons-y.m4a",
+      "source_offset_samples": 474491,
+      "start_s": 5017.6,
+      "first_event": 2450,
+      "end_event": 2456
+    },
+    {
+      "label": 118,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 6 Allons-y.m4a",
+      "source_offset_samples": 474491,
+      "start_s": 5033.984,
+      "first_event": 2458,
+      "end_event": 2464
+    },
+    {
+      "label": 118,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 6 Allons-y.m4a",
+      "source_offset_samples": 474491,
+      "start_s": 5050.368,
+      "first_event": 2466,
+      "end_event": 2472
+    },
+    {
+      "label": 119,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 3, Pt. 7 Talkin' Hawkin'.m4a",
+      "source_offset_samples": 1165376,
+      "start_s": 5066.752,
+      "first_event": 2474,
+      "end_event": 2480
+    },
+    {
+      "label": 119,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 3, Pt. 7 Talkin' Hawkin'.m4a",
+      "source_offset_samples": 1165376,
+      "start_s": 5083.136,
+      "first_event": 2482,
+      "end_event": 2488
+    },
+    {
+      "label": 119,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 3, Pt. 7 Talkin' Hawkin'.m4a",
+      "source_offset_samples": 1165376,
+      "start_s": 5099.52,
+      "first_event": 2490,
+      "end_event": 2496
+    },
+    {
+      "label": 120,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 4, Pt. 1 Calling.m4a",
+      "source_offset_samples": 1217612,
+      "start_s": 5115.904,
+      "first_event": 2498,
+      "end_event": 2504
+    },
+    {
+      "label": 120,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 4, Pt. 1 Calling.m4a",
+      "source_offset_samples": 1217612,
+      "start_s": 5132.288,
+      "first_event": 2506,
+      "end_event": 2512
+    },
+    {
+      "label": 120,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 4, Pt. 1 Calling.m4a",
+      "source_offset_samples": 1217612,
+      "start_s": 5148.672,
+      "first_event": 2514,
+      "end_event": 2520
+    },
+    {
+      "label": 121,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 4, Pt. 2 Eyes To Pearls.m4a",
+      "source_offset_samples": 585561,
+      "start_s": 5165.056,
+      "first_event": 2522,
+      "end_event": 2528
+    },
+    {
+      "label": 121,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 4, Pt. 2 Eyes To Pearls.m4a",
+      "source_offset_samples": 585561,
+      "start_s": 5181.44,
+      "first_event": 2530,
+      "end_event": 2536
+    },
+    {
+      "label": 121,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 4, Pt. 2 Eyes To Pearls.m4a",
+      "source_offset_samples": 585561,
+      "start_s": 5197.824,
+      "first_event": 2538,
+      "end_event": 2544
+    },
+    {
+      "label": 122,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 4, Pt. 3 Surfacing.m4a",
+      "source_offset_samples": 911621,
+      "start_s": 5214.208,
+      "first_event": 2546,
+      "end_event": 2552
+    },
+    {
+      "label": 122,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 4, Pt. 3 Surfacing.m4a",
+      "source_offset_samples": 911621,
+      "start_s": 5230.592,
+      "first_event": 2554,
+      "end_event": 2560
+    },
+    {
+      "label": 122,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 4, Pt. 3 Surfacing.m4a",
+      "source_offset_samples": 911621,
+      "start_s": 5246.976,
+      "first_event": 2562,
+      "end_event": 2568
+    },
+    {
+      "label": 123,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/Side 4, Pt. 4 Louder Than Words.m4a",
+      "source_offset_samples": 2276758,
+      "start_s": 5263.36,
+      "first_event": 2570,
+      "end_event": 2576
+    },
+    {
+      "label": 123,
+      "profile": "room",
+      "path": "Álbum - The Endless River/Side 4, Pt. 4 Louder Than Words.m4a",
+      "source_offset_samples": 2276758,
+      "start_s": 5279.744,
+      "first_event": 2578,
+      "end_event": 2584
+    },
+    {
+      "label": 123,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/Side 4, Pt. 4 Louder Than Words.m4a",
+      "source_offset_samples": 2276758,
+      "start_s": 5296.128,
+      "first_event": 2586,
+      "end_event": 2592
+    },
+    {
+      "label": 137,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/TBS14.m4a",
+      "source_offset_samples": 1413633,
+      "start_s": 5312.512,
+      "first_event": 2594,
+      "end_event": 2600
+    },
+    {
+      "label": 137,
+      "profile": "room",
+      "path": "Álbum - The Endless River/TBS14.m4a",
+      "source_offset_samples": 1413633,
+      "start_s": 5328.896,
+      "first_event": 2602,
+      "end_event": 2608
+    },
+    {
+      "label": 137,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/TBS14.m4a",
+      "source_offset_samples": 1413633,
+      "start_s": 5345.28,
+      "first_event": 2610,
+      "end_event": 2616
+    },
+    {
+      "label": 138,
+      "profile": "clean",
+      "path": "Álbum - The Endless River/TBS9.m4a",
+      "source_offset_samples": 803301,
+      "start_s": 5361.664,
+      "first_event": 2618,
+      "end_event": 2624
+    },
+    {
+      "label": 138,
+      "profile": "room",
+      "path": "Álbum - The Endless River/TBS9.m4a",
+      "source_offset_samples": 803301,
+      "start_s": 5378.048,
+      "first_event": 2626,
+      "end_event": 2632
+    },
+    {
+      "label": 138,
+      "profile": "speaker",
+      "path": "Álbum - The Endless River/TBS9.m4a",
+      "source_offset_samples": 803301,
+      "start_s": 5394.432,
+      "first_event": 2634,
+      "end_event": 2640
+    },
+    {
+      "label": 45,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Get Your Filthy Hands Off My Desert.m4a",
+      "source_offset_samples": 382667,
+      "start_s": 5410.816,
+      "first_event": 2642,
+      "end_event": 2648
+    },
+    {
+      "label": 45,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Get Your Filthy Hands Off My Desert.m4a",
+      "source_offset_samples": 382667,
+      "start_s": 5427.2,
+      "first_event": 2650,
+      "end_event": 2656
+    },
+    {
+      "label": 45,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Get Your Filthy Hands Off My Desert.m4a",
+      "source_offset_samples": 382667,
+      "start_s": 5443.584,
+      "first_event": 2658,
+      "end_event": 2664
+    },
+    {
+      "label": 75,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Not Now John.m4a",
+      "source_offset_samples": 1710551,
+      "start_s": 5459.968,
+      "first_event": 2666,
+      "end_event": 2672
+    },
+    {
+      "label": 75,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Not Now John.m4a",
+      "source_offset_samples": 1710551,
+      "start_s": 5476.352,
+      "first_event": 2674,
+      "end_event": 2680
+    },
+    {
+      "label": 75,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Not Now John.m4a",
+      "source_offset_samples": 1710551,
+      "start_s": 5492.736,
+      "first_event": 2682,
+      "end_event": 2688
+    },
+    {
+      "label": 80,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/One of the Few.m4a",
+      "source_offset_samples": 383354,
+      "start_s": 5509.12,
+      "first_event": 2690,
+      "end_event": 2696
+    },
+    {
+      "label": 80,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/One of the Few.m4a",
+      "source_offset_samples": 383354,
+      "start_s": 5525.504,
+      "first_event": 2698,
+      "end_event": 2704
+    },
+    {
+      "label": 80,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/One of the Few.m4a",
+      "source_offset_samples": 383354,
+      "start_s": 5541.888,
+      "first_event": 2706,
+      "end_event": 2712
+    },
+    {
+      "label": 85,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Paranoid Eyes.m4a",
+      "source_offset_samples": 1239331,
+      "start_s": 5558.272,
+      "first_event": 2714,
+      "end_event": 2720
+    },
+    {
+      "label": 85,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Paranoid Eyes.m4a",
+      "source_offset_samples": 1239331,
+      "start_s": 5574.656,
+      "first_event": 2722,
+      "end_event": 2728
+    },
+    {
+      "label": 85,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Paranoid Eyes.m4a",
+      "source_offset_samples": 1239331,
+      "start_s": 5591.04,
+      "first_event": 2730,
+      "end_event": 2736
+    },
+    {
+      "label": 126,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Southampton Dock.m4a",
+      "source_offset_samples": 717524,
+      "start_s": 5607.424,
+      "first_event": 2738,
+      "end_event": 2744
+    },
+    {
+      "label": 126,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Southampton Dock.m4a",
+      "source_offset_samples": 717524,
+      "start_s": 5623.808,
+      "first_event": 2746,
+      "end_event": 2752
+    },
+    {
+      "label": 126,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Southampton Dock.m4a",
+      "source_offset_samples": 717524,
+      "start_s": 5640.192,
+      "first_event": 2754,
+      "end_event": 2760
+    },
+    {
+      "label": 141,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/The Final Cut.m4a",
+      "source_offset_samples": 1600444,
+      "start_s": 5656.576,
+      "first_event": 2762,
+      "end_event": 2768
+    },
+    {
+      "label": 141,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/The Final Cut.m4a",
+      "source_offset_samples": 1600444,
+      "start_s": 5672.96,
+      "first_event": 2770,
+      "end_event": 2776
+    },
+    {
+      "label": 141,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/The Final Cut.m4a",
+      "source_offset_samples": 1600444,
+      "start_s": 5689.344,
+      "first_event": 2778,
+      "end_event": 2784
+    },
+    {
+      "label": 142,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/The Fletcher Memorial Home.m4a",
+      "source_offset_samples": 1404148,
+      "start_s": 5705.728,
+      "first_event": 2786,
+      "end_event": 2792
+    },
+    {
+      "label": 142,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/The Fletcher Memorial Home.m4a",
+      "source_offset_samples": 1404148,
+      "start_s": 5722.112,
+      "first_event": 2794,
+      "end_event": 2800
+    },
+    {
+      "label": 142,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/The Fletcher Memorial Home.m4a",
+      "source_offset_samples": 1404148,
+      "start_s": 5738.496,
+      "first_event": 2802,
+      "end_event": 2808
+    },
+    {
+      "label": 149,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/The Gunner's Dream.m4a",
+      "source_offset_samples": 1811448,
+      "start_s": 5754.88,
+      "first_event": 2810,
+      "end_event": 2816
+    },
+    {
+      "label": 149,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/The Gunner's Dream.m4a",
+      "source_offset_samples": 1811448,
+      "start_s": 5771.264,
+      "first_event": 2818,
+      "end_event": 2824
+    },
+    {
+      "label": 149,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/The Gunner's Dream.m4a",
+      "source_offset_samples": 1811448,
+      "start_s": 5787.648,
+      "first_event": 2826,
+      "end_event": 2832
+    },
+    {
+      "label": 151,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/The Hero's Return.m4a",
+      "source_offset_samples": 891277,
+      "start_s": 5804.032,
+      "first_event": 2834,
+      "end_event": 2840
+    },
+    {
+      "label": 151,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/The Hero's Return.m4a",
+      "source_offset_samples": 891277,
+      "start_s": 5820.416,
+      "first_event": 2842,
+      "end_event": 2848
+    },
+    {
+      "label": 151,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/The Hero's Return.m4a",
+      "source_offset_samples": 891277,
+      "start_s": 5836.8,
+      "first_event": 2850,
+      "end_event": 2856
+    },
+    {
+      "label": 156,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/The Post War Dream.m4a",
+      "source_offset_samples": 989150,
+      "start_s": 5853.184,
+      "first_event": 2858,
+      "end_event": 2864
+    },
+    {
+      "label": 156,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/The Post War Dream.m4a",
+      "source_offset_samples": 989150,
+      "start_s": 5869.568,
+      "first_event": 2866,
+      "end_event": 2872
+    },
+    {
+      "label": 156,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/The Post War Dream.m4a",
+      "source_offset_samples": 989150,
+      "start_s": 5885.952,
+      "first_event": 2874,
+      "end_event": 2880
+    },
+    {
+      "label": 162,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Two Suns in the Sunset.m4a",
+      "source_offset_samples": 1794815,
+      "start_s": 5902.336,
+      "first_event": 2882,
+      "end_event": 2888
+    },
+    {
+      "label": 162,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Two Suns in the Sunset.m4a",
+      "source_offset_samples": 1794815,
+      "start_s": 5918.72,
+      "first_event": 2890,
+      "end_event": 2896
+    },
+    {
+      "label": 162,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Two Suns in the Sunset.m4a",
+      "source_offset_samples": 1794815,
+      "start_s": 5935.104,
+      "first_event": 2898,
+      "end_event": 2904
+    },
+    {
+      "label": 170,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/When the Tigers Broke Free.m4a",
+      "source_offset_samples": 1065029,
+      "start_s": 5951.488,
+      "first_event": 2906,
+      "end_event": 2912
+    },
+    {
+      "label": 170,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/When the Tigers Broke Free.m4a",
+      "source_offset_samples": 1065029,
+      "start_s": 5967.872,
+      "first_event": 2914,
+      "end_event": 2920
+    },
+    {
+      "label": 170,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/When the Tigers Broke Free.m4a",
+      "source_offset_samples": 1065029,
+      "start_s": 5984.256,
+      "first_event": 2922,
+      "end_event": 2928
+    },
+    {
+      "label": 176,
+      "profile": "clean",
+      "path": "Álbum - The Final Cut/Your Possible Pasts.m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6000.64,
+      "first_event": 2930,
+      "end_event": 2936
+    },
+    {
+      "label": 176,
+      "profile": "room",
+      "path": "Álbum - The Final Cut/Your Possible Pasts.m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6017.024,
+      "first_event": 2938,
+      "end_event": 2944
+    },
+    {
+      "label": 176,
+      "profile": "speaker",
+      "path": "Álbum - The Final Cut/Your Possible Pasts.m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6033.408,
+      "first_event": 2946,
+      "end_event": 2952
+    },
+    {
+      "label": 15,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Astronomy Domine.m4a",
+      "source_offset_samples": 1415007,
+      "start_s": 6049.792,
+      "first_event": 2954,
+      "end_event": 2960
+    },
+    {
+      "label": 15,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Astronomy Domine.m4a",
+      "source_offset_samples": 1415007,
+      "start_s": 6066.176,
+      "first_event": 2962,
+      "end_event": 2968
+    },
+    {
+      "label": 15,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Astronomy Domine.m4a",
+      "source_offset_samples": 1415007,
+      "start_s": 6082.56,
+      "first_event": 2970,
+      "end_event": 2976
+    },
+    {
+      "label": 19,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Bike.m4a",
+      "source_offset_samples": 1117402,
+      "start_s": 6098.944,
+      "first_event": 2978,
+      "end_event": 2984
+    },
+    {
+      "label": 19,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Bike.m4a",
+      "source_offset_samples": 1117402,
+      "start_s": 6115.328,
+      "first_event": 2986,
+      "end_event": 2992
+    },
+    {
+      "label": 19,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Bike.m4a",
+      "source_offset_samples": 1117402,
+      "start_s": 6131.712,
+      "first_event": 2994,
+      "end_event": 3000
+    },
+    {
+      "label": 26,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Chapter 24.m4a",
+      "source_offset_samples": 1244142,
+      "start_s": 6148.096,
+      "first_event": 3002,
+      "end_event": 3008
+    },
+    {
+      "label": 26,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Chapter 24.m4a",
+      "source_offset_samples": 1244142,
+      "start_s": 6164.48,
+      "first_event": 3010,
+      "end_event": 3016
+    },
+    {
+      "label": 26,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Chapter 24.m4a",
+      "source_offset_samples": 1244142,
+      "start_s": 6180.864,
+      "first_event": 3018,
+      "end_event": 3024
+    },
+    {
+      "label": 43,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Flaming.m4a",
+      "source_offset_samples": 910384,
+      "start_s": 6197.248,
+      "first_event": 3026,
+      "end_event": 3032
+    },
+    {
+      "label": 43,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Flaming.m4a",
+      "source_offset_samples": 910384,
+      "start_s": 6213.632,
+      "first_event": 3034,
+      "end_event": 3040
+    },
+    {
+      "label": 43,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Flaming.m4a",
+      "source_offset_samples": 910384,
+      "start_s": 6230.016,
+      "first_event": 3042,
+      "end_event": 3048
+    },
+    {
+      "label": 57,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3365182,
+      "start_s": 6246.4,
+      "first_event": 3050,
+      "end_event": 3056
+    },
+    {
+      "label": 57,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3365182,
+      "start_s": 6262.784,
+      "first_event": 3058,
+      "end_event": 3064
+    },
+    {
+      "label": 57,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Interstellar Overdrive.m4a",
+      "source_offset_samples": 3365182,
+      "start_s": 6279.168,
+      "first_event": 3066,
+      "end_event": 3072
+    },
+    {
+      "label": 65,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Lucifer Sam.m4a",
+      "source_offset_samples": 1036849,
+      "start_s": 6295.552,
+      "first_event": 3074,
+      "end_event": 3080
+    },
+    {
+      "label": 65,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Lucifer Sam.m4a",
+      "source_offset_samples": 1036849,
+      "start_s": 6311.936,
+      "first_event": 3082,
+      "end_event": 3088
+    },
+    {
+      "label": 65,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Lucifer Sam.m4a",
+      "source_offset_samples": 1036849,
+      "start_s": 6328.32,
+      "first_event": 3090,
+      "end_event": 3096
+    },
+    {
+      "label": 68,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Matilda Mother.m4a",
+      "source_offset_samples": 1043310,
+      "start_s": 6344.704,
+      "first_event": 3098,
+      "end_event": 3104
+    },
+    {
+      "label": 68,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Matilda Mother.m4a",
+      "source_offset_samples": 1043310,
+      "start_s": 6361.088,
+      "first_event": 3106,
+      "end_event": 3112
+    },
+    {
+      "label": 68,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Matilda Mother.m4a",
+      "source_offset_samples": 1043310,
+      "start_s": 6377.472,
+      "first_event": 3114,
+      "end_event": 3120
+    },
+    {
+      "label": 91,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Pow R. Toc H..m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6393.856,
+      "first_event": 3122,
+      "end_event": 3128
+    },
+    {
+      "label": 91,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Pow R. Toc H..m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6410.24,
+      "first_event": 3130,
+      "end_event": 3136
+    },
+    {
+      "label": 91,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Pow R. Toc H..m4a",
+      "source_offset_samples": 1503945,
+      "start_s": 6426.624,
+      "first_event": 3138,
+      "end_event": 3144
+    },
+    {
+      "label": 136,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/Take Up Thy Stethoscope and Walk.m4a",
+      "source_offset_samples": 1028876,
+      "start_s": 6443.008,
+      "first_event": 3146,
+      "end_event": 3152
+    },
+    {
+      "label": 136,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/Take Up Thy Stethoscope and Walk.m4a",
+      "source_offset_samples": 1028876,
+      "start_s": 6459.392,
+      "first_event": 3154,
+      "end_event": 3160
+    },
+    {
+      "label": 136,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/Take Up Thy Stethoscope and Walk.m4a",
+      "source_offset_samples": 1028876,
+      "start_s": 6475.776,
+      "first_event": 3162,
+      "end_event": 3168
+    },
+    {
+      "label": 143,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Gnome.m4a",
+      "source_offset_samples": 720136,
+      "start_s": 6492.16,
+      "first_event": 3170,
+      "end_event": 3176
+    },
+    {
+      "label": 143,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Gnome.m4a",
+      "source_offset_samples": 720136,
+      "start_s": 6508.544,
+      "first_event": 3178,
+      "end_event": 3184
+    },
+    {
+      "label": 143,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Gnome.m4a",
+      "source_offset_samples": 720136,
+      "start_s": 6524.928,
+      "first_event": 3186,
+      "end_event": 3192
+    },
+    {
+      "label": 157,
+      "profile": "clean",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Scarecrow.m4a",
+      "source_offset_samples": 704465,
+      "start_s": 6541.312,
+      "first_event": 3194,
+      "end_event": 3200
+    },
+    {
+      "label": 157,
+      "profile": "room",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Scarecrow.m4a",
+      "source_offset_samples": 704465,
+      "start_s": 6557.696,
+      "first_event": 3202,
+      "end_event": 3208
+    },
+    {
+      "label": 157,
+      "profile": "speaker",
+      "path": "Álbum - The Piper at the Gates of Dawn/The Scarecrow.m4a",
+      "source_offset_samples": 704465,
+      "start_s": 6574.08,
+      "first_event": 3210,
+      "end_event": 3216
+    },
+    {
+      "label": 10,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 1.m4a",
+      "source_offset_samples": 1064891,
+      "start_s": 6590.464,
+      "first_event": 3218,
+      "end_event": 3224
+    },
+    {
+      "label": 10,
+      "profile": "room",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 1.m4a",
+      "source_offset_samples": 1064891,
+      "start_s": 6606.848,
+      "first_event": 3226,
+      "end_event": 3232
+    },
+    {
+      "label": 10,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 1.m4a",
+      "source_offset_samples": 1064891,
+      "start_s": 6623.232,
+      "first_event": 3234,
+      "end_event": 3240
+    },
+    {
+      "label": 11,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 2.m4a",
+      "source_offset_samples": 1340778,
+      "start_s": 6639.616,
+      "first_event": 3242,
+      "end_event": 3248
+    },
+    {
+      "label": 11,
+      "profile": "room",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 2.m4a",
+      "source_offset_samples": 1340778,
+      "start_s": 6656.0,
+      "first_event": 3250,
+      "end_event": 3256
+    },
+    {
+      "label": 11,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 2.m4a",
+      "source_offset_samples": 1340778,
+      "start_s": 6672.384,
+      "first_event": 3258,
+      "end_event": 3264
+    },
+    {
+      "label": 12,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 3.m4a",
+      "source_offset_samples": 367892,
+      "start_s": 6688.768,
+      "first_event": 3266,
+      "end_event": 3272
+    },
+    {
+      "label": 12,
+      "profile": "room",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 3.m4a",
+      "source_offset_samples": 367892,
+      "start_s": 6705.152,
+      "first_event": 3274,
+      "end_event": 3280
+    },
+    {
+      "label": 12,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 3.m4a",
+      "source_offset_samples": 367892,
+      "start_s": 6721.536,
+      "first_event": 3282,
+      "end_event": 3288
+    },
+    {
+      "label": 22,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Bring the Boys Back Home.m4a",
+      "source_offset_samples": 443700,
+      "start_s": 6737.92,
+      "first_event": 3290,
+      "end_event": 3296
+    },
+    {
+      "label": 22,
+      "profile": "room",
+      "path": "Álbum - The Wall/Bring the Boys Back Home.m4a",
+      "source_offset_samples": 443700,
+      "start_s": 6754.304,
+      "first_event": 3298,
+      "end_event": 3304
+    },
+    {
+      "label": 22,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Bring the Boys Back Home.m4a",
+      "source_offset_samples": 443700,
+      "start_s": 6770.688,
+      "first_event": 3306,
+      "end_event": 3312
+    },
+    {
+      "label": 30,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Comfortably Numb.m4a",
+      "source_offset_samples": 2190569,
+      "start_s": 6787.072,
+      "first_event": 3314,
+      "end_event": 3320
+    },
+    {
+      "label": 30,
+      "profile": "room",
+      "path": "Álbum - The Wall/Comfortably Numb.m4a",
+      "source_offset_samples": 2190569,
+      "start_s": 6803.456,
+      "first_event": 3322,
+      "end_event": 3328
+    },
+    {
+      "label": 30,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Comfortably Numb.m4a",
+      "source_offset_samples": 2190569,
+      "start_s": 6819.84,
+      "first_event": 3330,
+      "end_event": 3336
+    },
+    {
+      "label": 36,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Don't Leave Me Now.m4a",
+      "source_offset_samples": 1442500,
+      "start_s": 6836.224,
+      "first_event": 3338,
+      "end_event": 3344
+    },
+    {
+      "label": 36,
+      "profile": "room",
+      "path": "Álbum - The Wall/Don't Leave Me Now.m4a",
+      "source_offset_samples": 1442500,
+      "start_s": 6852.608,
+      "first_event": 3346,
+      "end_event": 3352
+    },
+    {
+      "label": 36,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Don't Leave Me Now.m4a",
+      "source_offset_samples": 1442500,
+      "start_s": 6868.992,
+      "first_event": 3354,
+      "end_event": 3360
+    },
+    {
+      "label": 40,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Empty Spaces.m4a",
+      "source_offset_samples": 684121,
+      "start_s": 6885.376,
+      "first_event": 3362,
+      "end_event": 3368
+    },
+    {
+      "label": 40,
+      "profile": "room",
+      "path": "Álbum - The Wall/Empty Spaces.m4a",
+      "source_offset_samples": 684121,
+      "start_s": 6901.76,
+      "first_event": 3370,
+      "end_event": 3376
+    },
+    {
+      "label": 40,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Empty Spaces.m4a",
+      "source_offset_samples": 684121,
+      "start_s": 6918.144,
+      "first_event": 3378,
+      "end_event": 3384
+    },
+    {
+      "label": 46,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Goodbye Blue Sky.m4a",
+      "source_offset_samples": 917395,
+      "start_s": 6934.528,
+      "first_event": 3386,
+      "end_event": 3392
+    },
+    {
+      "label": 46,
+      "profile": "room",
+      "path": "Álbum - The Wall/Goodbye Blue Sky.m4a",
+      "source_offset_samples": 917395,
+      "start_s": 6950.912,
+      "first_event": 3394,
+      "end_event": 3400
+    },
+    {
+      "label": 46,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Goodbye Blue Sky.m4a",
+      "source_offset_samples": 917395,
+      "start_s": 6967.296,
+      "first_event": 3402,
+      "end_event": 3408
+    },
+    {
+      "label": 47,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Goodbye Cruel World.m4a",
+      "source_offset_samples": 362047,
+      "start_s": 6983.68,
+      "first_event": 3410,
+      "end_event": 3416
+    },
+    {
+      "label": 47,
+      "profile": "room",
+      "path": "Álbum - The Wall/Goodbye Cruel World.m4a",
+      "source_offset_samples": 362047,
+      "start_s": 7000.064,
+      "first_event": 3418,
+      "end_event": 3424
+    },
+    {
+      "label": 47,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Goodbye Cruel World.m4a",
+      "source_offset_samples": 362047,
+      "start_s": 7016.448,
+      "first_event": 3426,
+      "end_event": 3432
+    },
+    {
+      "label": 51,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Hey You.m4a",
+      "source_offset_samples": 1575838,
+      "start_s": 7032.832,
+      "first_event": 3434,
+      "end_event": 3440
+    },
+    {
+      "label": 51,
+      "profile": "room",
+      "path": "Álbum - The Wall/Hey You.m4a",
+      "source_offset_samples": 1575838,
+      "start_s": 7049.216,
+      "first_event": 3442,
+      "end_event": 3448
+    },
+    {
+      "label": 51,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Hey You.m4a",
+      "source_offset_samples": 1575838,
+      "start_s": 7065.6,
+      "first_event": 3450,
+      "end_event": 3456
+    },
+    {
+      "label": 56,
+      "profile": "clean",
+      "path": "Álbum - The Wall/In the Flesh (1).m4a",
+      "source_offset_samples": 1440300,
+      "start_s": 7081.984,
+      "first_event": 3458,
+      "end_event": 3464
+    },
+    {
+      "label": 56,
+      "profile": "room",
+      "path": "Álbum - The Wall/In the Flesh (1).m4a",
+      "source_offset_samples": 1440300,
+      "start_s": 7098.368,
+      "first_event": 3466,
+      "end_event": 3472
+    },
+    {
+      "label": 56,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/In the Flesh (1).m4a",
+      "source_offset_samples": 1440300,
+      "start_s": 7114.752,
+      "first_event": 3474,
+      "end_event": 3480
+    },
+    {
+      "label": 55,
+      "profile": "clean",
+      "path": "Álbum - The Wall/In the Flesh.m4a",
+      "source_offset_samples": 1100906,
+      "start_s": 7131.136,
+      "first_event": 3482,
+      "end_event": 3488
+    },
+    {
+      "label": 55,
+      "profile": "room",
+      "path": "Álbum - The Wall/In the Flesh.m4a",
+      "source_offset_samples": 1100906,
+      "start_s": 7147.52,
+      "first_event": 3490,
+      "end_event": 3496
+    },
+    {
+      "label": 55,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/In the Flesh.m4a",
+      "source_offset_samples": 1100906,
+      "start_s": 7163.904,
+      "first_event": 3498,
+      "end_event": 3504
+    },
+    {
+      "label": 58,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Is There Anybody Out There.m4a",
+      "source_offset_samples": 883991,
+      "start_s": 7180.288,
+      "first_event": 3506,
+      "end_event": 3512
+    },
+    {
+      "label": 58,
+      "profile": "room",
+      "path": "Álbum - The Wall/Is There Anybody Out There.m4a",
+      "source_offset_samples": 883991,
+      "start_s": 7196.672,
+      "first_event": 3514,
+      "end_event": 3520
+    },
+    {
+      "label": 58,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Is There Anybody Out There.m4a",
+      "source_offset_samples": 883991,
+      "start_s": 7213.056,
+      "first_event": 3522,
+      "end_event": 3528
+    },
+    {
+      "label": 71,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Mother.m4a",
+      "source_offset_samples": 1910008,
+      "start_s": 7229.44,
+      "first_event": 3530,
+      "end_event": 3536
+    },
+    {
+      "label": 71,
+      "profile": "room",
+      "path": "Álbum - The Wall/Mother.m4a",
+      "source_offset_samples": 1910008,
+      "start_s": 7245.824,
+      "first_event": 3538,
+      "end_event": 3544
+    },
+    {
+      "label": 71,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Mother.m4a",
+      "source_offset_samples": 1910008,
+      "start_s": 7262.208,
+      "first_event": 3546,
+      "end_event": 3552
+    },
+    {
+      "label": 74,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Nobody Home.m4a",
+      "source_offset_samples": 1131285,
+      "start_s": 7278.592,
+      "first_event": 3554,
+      "end_event": 3560
+    },
+    {
+      "label": 74,
+      "profile": "room",
+      "path": "Álbum - The Wall/Nobody Home.m4a",
+      "source_offset_samples": 1131285,
+      "start_s": 7294.976,
+      "first_event": 3562,
+      "end_event": 3568
+    },
+    {
+      "label": 74,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Nobody Home.m4a",
+      "source_offset_samples": 1131285,
+      "start_s": 7311.36,
+      "first_event": 3570,
+      "end_event": 3576
+    },
+    {
+      "label": 79,
+      "profile": "clean",
+      "path": "Álbum - The Wall/One of My Turns.m4a",
+      "source_offset_samples": 1210876,
+      "start_s": 7327.744,
+      "first_event": 3578,
+      "end_event": 3584
+    },
+    {
+      "label": 79,
+      "profile": "room",
+      "path": "Álbum - The Wall/One of My Turns.m4a",
+      "source_offset_samples": 1210876,
+      "start_s": 7344.128,
+      "first_event": 3586,
+      "end_event": 3592
+    },
+    {
+      "label": 79,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/One of My Turns.m4a",
+      "source_offset_samples": 1210876,
+      "start_s": 7360.512,
+      "first_event": 3594,
+      "end_event": 3600
+    },
+    {
+      "label": 83,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Outside the Wall.m4a",
+      "source_offset_samples": 543772,
+      "start_s": 7376.896,
+      "first_event": 3602,
+      "end_event": 3608
+    },
+    {
+      "label": 83,
+      "profile": "room",
+      "path": "Álbum - The Wall/Outside the Wall.m4a",
+      "source_offset_samples": 543772,
+      "start_s": 7393.28,
+      "first_event": 3610,
+      "end_event": 3616
+    },
+    {
+      "label": 83,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Outside the Wall.m4a",
+      "source_offset_samples": 543772,
+      "start_s": 7409.664,
+      "first_event": 3618,
+      "end_event": 3624
+    },
+    {
+      "label": 95,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Run Like Hell.m4a",
+      "source_offset_samples": 1487725,
+      "start_s": 7426.048,
+      "first_event": 3626,
+      "end_event": 3632
+    },
+    {
+      "label": 95,
+      "profile": "room",
+      "path": "Álbum - The Wall/Run Like Hell.m4a",
+      "source_offset_samples": 1487725,
+      "start_s": 7442.432,
+      "first_event": 3634,
+      "end_event": 3640
+    },
+    {
+      "label": 95,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Run Like Hell.m4a",
+      "source_offset_samples": 1487725,
+      "start_s": 7458.816,
+      "first_event": 3642,
+      "end_event": 3648
+    },
+    {
+      "label": 129,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Stop.m4a",
+      "source_offset_samples": 108705,
+      "start_s": 7475.2,
+      "first_event": 3650,
+      "end_event": 3656
+    },
+    {
+      "label": 129,
+      "profile": "room",
+      "path": "Álbum - The Wall/Stop.m4a",
+      "source_offset_samples": 108705,
+      "start_s": 7491.584,
+      "first_event": 3658,
+      "end_event": 3664
+    },
+    {
+      "label": 129,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Stop.m4a",
+      "source_offset_samples": 108705,
+      "start_s": 7507.968,
+      "first_event": 3666,
+      "end_event": 3672
+    },
+    {
+      "label": 150,
+      "profile": "clean",
+      "path": "Álbum - The Wall/The Happiest Days of Our Lives.m4a",
+      "source_offset_samples": 583349,
+      "start_s": 7524.352,
+      "first_event": 3674,
+      "end_event": 3680
+    },
+    {
+      "label": 150,
+      "profile": "room",
+      "path": "Álbum - The Wall/The Happiest Days of Our Lives.m4a",
+      "source_offset_samples": 583349,
+      "start_s": 7540.736,
+      "first_event": 3682,
+      "end_event": 3688
+    },
+    {
+      "label": 150,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/The Happiest Days of Our Lives.m4a",
+      "source_offset_samples": 583349,
+      "start_s": 7557.12,
+      "first_event": 3690,
+      "end_event": 3696
+    },
+    {
+      "label": 158,
+      "profile": "clean",
+      "path": "Álbum - The Wall/The Show Must Go On.m4a",
+      "source_offset_samples": 499097,
+      "start_s": 7573.504,
+      "first_event": 3698,
+      "end_event": 3704
+    },
+    {
+      "label": 158,
+      "profile": "room",
+      "path": "Álbum - The Wall/The Show Must Go On.m4a",
+      "source_offset_samples": 499097,
+      "start_s": 7589.888,
+      "first_event": 3706,
+      "end_event": 3712
+    },
+    {
+      "label": 158,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/The Show Must Go On.m4a",
+      "source_offset_samples": 499097,
+      "start_s": 7606.272,
+      "first_event": 3714,
+      "end_event": 3720
+    },
+    {
+      "label": 159,
+      "profile": "clean",
+      "path": "Álbum - The Wall/The Thin Ice.m4a",
+      "source_offset_samples": 793678,
+      "start_s": 7622.656,
+      "first_event": 3722,
+      "end_event": 3728
+    },
+    {
+      "label": 159,
+      "profile": "room",
+      "path": "Álbum - The Wall/The Thin Ice.m4a",
+      "source_offset_samples": 793678,
+      "start_s": 7639.04,
+      "first_event": 3730,
+      "end_event": 3736
+    },
+    {
+      "label": 159,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/The Thin Ice.m4a",
+      "source_offset_samples": 793678,
+      "start_s": 7655.424,
+      "first_event": 3738,
+      "end_event": 3744
+    },
+    {
+      "label": 160,
+      "profile": "clean",
+      "path": "Álbum - The Wall/The Trial.m4a",
+      "source_offset_samples": 1814835,
+      "start_s": 7671.808,
+      "first_event": 3746,
+      "end_event": 3752
+    },
+    {
+      "label": 160,
+      "profile": "room",
+      "path": "Álbum - The Wall/The Trial.m4a",
+      "source_offset_samples": 1814835,
+      "start_s": 7688.192,
+      "first_event": 3754,
+      "end_event": 3760
+    },
+    {
+      "label": 160,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/The Trial.m4a",
+      "source_offset_samples": 1814835,
+      "start_s": 7704.576,
+      "first_event": 3762,
+      "end_event": 3768
+    },
+    {
+      "label": 165,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Vera.m4a",
+      "source_offset_samples": 480127,
+      "start_s": 7720.96,
+      "first_event": 3770,
+      "end_event": 3776
+    },
+    {
+      "label": 165,
+      "profile": "room",
+      "path": "Álbum - The Wall/Vera.m4a",
+      "source_offset_samples": 480127,
+      "start_s": 7737.344,
+      "first_event": 3778,
+      "end_event": 3784
+    },
+    {
+      "label": 165,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Vera.m4a",
+      "source_offset_samples": 480127,
+      "start_s": 7753.728,
+      "first_event": 3786,
+      "end_event": 3792
+    },
+    {
+      "label": 166,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Waiting for the Worms.m4a",
+      "source_offset_samples": 1330879,
+      "start_s": 7770.112,
+      "first_event": 3794,
+      "end_event": 3800
+    },
+    {
+      "label": 166,
+      "profile": "room",
+      "path": "Álbum - The Wall/Waiting for the Worms.m4a",
+      "source_offset_samples": 1330879,
+      "start_s": 7786.496,
+      "first_event": 3802,
+      "end_event": 3808
+    },
+    {
+      "label": 166,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Waiting for the Worms.m4a",
+      "source_offset_samples": 1330879,
+      "start_s": 7802.88,
+      "first_event": 3810,
+      "end_event": 3816
+    },
+    {
+      "label": 175,
+      "profile": "clean",
+      "path": "Álbum - The Wall/Young Lust.m4a",
+      "source_offset_samples": 1170325,
+      "start_s": 7819.264,
+      "first_event": 3818,
+      "end_event": 3824
+    },
+    {
+      "label": 175,
+      "profile": "room",
+      "path": "Álbum - The Wall/Young Lust.m4a",
+      "source_offset_samples": 1170325,
+      "start_s": 7835.648,
+      "first_event": 3826,
+      "end_event": 3832
+    },
+    {
+      "label": 175,
+      "profile": "speaker",
+      "path": "Álbum - The Wall/Young Lust.m4a",
+      "source_offset_samples": 1170325,
+      "start_s": 7852.032,
+      "first_event": 3834,
+      "end_event": 3840
+    },
+    {
+      "label": 6,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/A Saucerful of Secrets (Live).m4a",
+      "source_offset_samples": 4477526,
+      "start_s": 7868.416,
+      "first_event": 3842,
+      "end_event": 3848
+    },
+    {
+      "label": 6,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/A Saucerful of Secrets (Live).m4a",
+      "source_offset_samples": 4477526,
+      "start_s": 7884.8,
+      "first_event": 3850,
+      "end_event": 3856
+    },
+    {
+      "label": 6,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/A Saucerful of Secrets (Live).m4a",
+      "source_offset_samples": 4477526,
+      "start_s": 7901.184,
+      "first_event": 3858,
+      "end_event": 3864
+    },
+    {
+      "label": 16,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Astronomy Domine (Live).m4a",
+      "source_offset_samples": 2956233,
+      "start_s": 7917.568,
+      "first_event": 3866,
+      "end_event": 3872
+    },
+    {
+      "label": 16,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Astronomy Domine (Live).m4a",
+      "source_offset_samples": 2956233,
+      "start_s": 7933.952,
+      "first_event": 3874,
+      "end_event": 3880
+    },
+    {
+      "label": 16,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Astronomy Domine (Live).m4a",
+      "source_offset_samples": 2956233,
+      "start_s": 7950.336,
+      "first_event": 3882,
+      "end_event": 3888
+    },
+    {
+      "label": 25,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Careful with That Axe, Eugene (Live).m4a",
+      "source_offset_samples": 3061116,
+      "start_s": 7966.72,
+      "first_event": 3890,
+      "end_event": 3896
+    },
+    {
+      "label": 25,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Careful with That Axe, Eugene (Live).m4a",
+      "source_offset_samples": 3061116,
+      "start_s": 7983.104,
+      "first_event": 3898,
+      "end_event": 3904
+    },
+    {
+      "label": 25,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Careful with That Axe, Eugene (Live).m4a",
+      "source_offset_samples": 3061116,
+      "start_s": 7999.488,
+      "first_event": 3906,
+      "end_event": 3912
+    },
+    {
+      "label": 48,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Grantchester Meadows.m4a",
+      "source_offset_samples": 2576837,
+      "start_s": 8015.872,
+      "first_event": 3914,
+      "end_event": 3920
+    },
+    {
+      "label": 48,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Grantchester Meadows.m4a",
+      "source_offset_samples": 2576837,
+      "start_s": 8032.256,
+      "first_event": 3922,
+      "end_event": 3928
+    },
+    {
+      "label": 48,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Grantchester Meadows.m4a",
+      "source_offset_samples": 2576837,
+      "start_s": 8048.64,
+      "first_event": 3930,
+      "end_event": 3936
+    },
+    {
+      "label": 101,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Set the Controls for the Heart of the Sun (Live).m4a",
+      "source_offset_samples": 3284889,
+      "start_s": 8065.024,
+      "first_event": 3938,
+      "end_event": 3944
+    },
+    {
+      "label": 101,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Set the Controls for the Heart of the Sun (Live).m4a",
+      "source_offset_samples": 3284889,
+      "start_s": 8081.408,
+      "first_event": 3946,
+      "end_event": 3952
+    },
+    {
+      "label": 101,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Set the Controls for the Heart of the Sun (Live).m4a",
+      "source_offset_samples": 3284889,
+      "start_s": 8097.792,
+      "first_event": 3954,
+      "end_event": 3960
+    },
+    {
+      "label": 102,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict.m4a",
+      "source_offset_samples": 1695293,
+      "start_s": 8114.176,
+      "first_event": 3962,
+      "end_event": 3968
+    },
+    {
+      "label": 102,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict.m4a",
+      "source_offset_samples": 1695293,
+      "start_s": 8130.56,
+      "first_event": 3970,
+      "end_event": 3976
+    },
+    {
+      "label": 102,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict.m4a",
+      "source_offset_samples": 1695293,
+      "start_s": 8146.944,
+      "first_event": 3978,
+      "end_event": 3984
+    },
+    {
+      "label": 131,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 1.m4a",
+      "source_offset_samples": 327983,
+      "start_s": 8163.328,
+      "first_event": 3986,
+      "end_event": 3992
+    },
+    {
+      "label": 131,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 1.m4a",
+      "source_offset_samples": 327983,
+      "start_s": 8179.712,
+      "first_event": 3994,
+      "end_event": 4000
+    },
+    {
+      "label": 131,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 1.m4a",
+      "source_offset_samples": 327983,
+      "start_s": 8196.096,
+      "first_event": 4002,
+      "end_event": 4008
+    },
+    {
+      "label": 132,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 2.m4a",
+      "source_offset_samples": 1170737,
+      "start_s": 8212.48,
+      "first_event": 4010,
+      "end_event": 4016
+    },
+    {
+      "label": 132,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 2.m4a",
+      "source_offset_samples": 1170737,
+      "start_s": 8228.864,
+      "first_event": 4018,
+      "end_event": 4024
+    },
+    {
+      "label": 132,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 2.m4a",
+      "source_offset_samples": 1170737,
+      "start_s": 8245.248,
+      "first_event": 4026,
+      "end_event": 4032
+    },
+    {
+      "label": 133,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 3.m4a",
+      "source_offset_samples": 576763,
+      "start_s": 8261.632,
+      "first_event": 4034,
+      "end_event": 4040
+    },
+    {
+      "label": 133,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 3.m4a",
+      "source_offset_samples": 576763,
+      "start_s": 8278.016,
+      "first_event": 4042,
+      "end_event": 4048
+    },
+    {
+      "label": 133,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 3.m4a",
+      "source_offset_samples": 576763,
+      "start_s": 8294.4,
+      "first_event": 4050,
+      "end_event": 4056
+    },
+    {
+      "label": 134,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 4.m4a",
+      "source_offset_samples": 2413257,
+      "start_s": 8310.784,
+      "first_event": 4058,
+      "end_event": 4064
+    },
+    {
+      "label": 134,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 4.m4a",
+      "source_offset_samples": 2413257,
+      "start_s": 8327.168,
+      "first_event": 4066,
+      "end_event": 4072
+    },
+    {
+      "label": 134,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 4.m4a",
+      "source_offset_samples": 2413257,
+      "start_s": 8343.552,
+      "first_event": 4074,
+      "end_event": 4080
+    },
+    {
+      "label": 145,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 1 (Entrance).m4a",
+      "source_offset_samples": 280120,
+      "start_s": 8359.936,
+      "first_event": 4082,
+      "end_event": 4088
+    },
+    {
+      "label": 145,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 1 (Entrance).m4a",
+      "source_offset_samples": 280120,
+      "start_s": 8376.32,
+      "first_event": 4090,
+      "end_event": 4096
+    },
+    {
+      "label": 145,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 1 (Entrance).m4a",
+      "source_offset_samples": 280120,
+      "start_s": 8392.704,
+      "first_event": 4098,
+      "end_event": 4104
+    },
+    {
+      "label": 146,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 2 (Entertainment).m4a",
+      "source_offset_samples": 2448997,
+      "start_s": 8409.088,
+      "first_event": 4106,
+      "end_event": 4112
+    },
+    {
+      "label": 146,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 2 (Entertainment).m4a",
+      "source_offset_samples": 2448997,
+      "start_s": 8425.472,
+      "first_event": 4114,
+      "end_event": 4120
+    },
+    {
+      "label": 146,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 2 (Entertainment).m4a",
+      "source_offset_samples": 2448997,
+      "start_s": 8441.856,
+      "first_event": 4122,
+      "end_event": 4128
+    },
+    {
+      "label": 147,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 3 (Exit).m4a",
+      "source_offset_samples": 162865,
+      "start_s": 8458.24,
+      "first_event": 4130,
+      "end_event": 4136
+    },
+    {
+      "label": 147,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 3 (Exit).m4a",
+      "source_offset_samples": 162865,
+      "start_s": 8474.624,
+      "first_event": 4138,
+      "end_event": 4144
+    },
+    {
+      "label": 147,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 3 (Exit).m4a",
+      "source_offset_samples": 162865,
+      "start_s": 8491.008,
+      "first_event": 4146,
+      "end_event": 4152
+    },
+    {
+      "label": 152,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 1.m4a",
+      "source_offset_samples": 1162214,
+      "start_s": 8507.392,
+      "first_event": 4154,
+      "end_event": 4160
+    },
+    {
+      "label": 152,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 1.m4a",
+      "source_offset_samples": 1162214,
+      "start_s": 8523.776,
+      "first_event": 4162,
+      "end_event": 4168
+    },
+    {
+      "label": 152,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 1.m4a",
+      "source_offset_samples": 1162214,
+      "start_s": 8540.16,
+      "first_event": 4170,
+      "end_event": 4176
+    },
+    {
+      "label": 153,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 2.m4a",
+      "source_offset_samples": 953009,
+      "start_s": 8556.544,
+      "first_event": 4178,
+      "end_event": 4184
+    },
+    {
+      "label": 153,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 2.m4a",
+      "source_offset_samples": 953009,
+      "start_s": 8572.928,
+      "first_event": 4186,
+      "end_event": 4192
+    },
+    {
+      "label": 153,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 2.m4a",
+      "source_offset_samples": 953009,
+      "start_s": 8589.312,
+      "first_event": 4194,
+      "end_event": 4200
+    },
+    {
+      "label": 154,
+      "profile": "clean",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 3.m4a",
+      "source_offset_samples": 2044996,
+      "start_s": 8605.696,
+      "first_event": 4202,
+      "end_event": 4208
+    },
+    {
+      "label": 154,
+      "profile": "room",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 3.m4a",
+      "source_offset_samples": 2044996,
+      "start_s": 8622.08,
+      "first_event": 4210,
+      "end_event": 4216
+    },
+    {
+      "label": 154,
+      "profile": "speaker",
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 3.m4a",
+      "source_offset_samples": 2044996,
+      "start_s": 8638.464,
+      "first_event": 4218,
+      "end_event": 4224
+    },
+    {
+      "label": 50,
+      "profile": "clean",
+      "path": "Álbum - Wish You Were Here/Have a Cigar.m4a",
+      "source_offset_samples": 1749178,
+      "start_s": 8654.848,
+      "first_event": 4226,
+      "end_event": 4232
+    },
+    {
+      "label": 50,
+      "profile": "room",
+      "path": "Álbum - Wish You Were Here/Have a Cigar.m4a",
+      "source_offset_samples": 1749178,
+      "start_s": 8671.232,
+      "first_event": 4234,
+      "end_event": 4240
+    },
+    {
+      "label": 50,
+      "profile": "speaker",
+      "path": "Álbum - Wish You Were Here/Have a Cigar.m4a",
+      "source_offset_samples": 1749178,
+      "start_s": 8687.616,
+      "first_event": 4242,
+      "end_event": 4248
+    },
+    {
+      "label": 104,
+      "profile": "clean",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 1-5).m4a",
+      "source_offset_samples": 4728944,
+      "start_s": 8704.0,
+      "first_event": 4250,
+      "end_event": 4256
+    },
+    {
+      "label": 104,
+      "profile": "room",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 1-5).m4a",
+      "source_offset_samples": 4728944,
+      "start_s": 8720.384,
+      "first_event": 4258,
+      "end_event": 4264
+    },
+    {
+      "label": 104,
+      "profile": "speaker",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 1-5).m4a",
+      "source_offset_samples": 4728944,
+      "start_s": 8736.768,
+      "first_event": 4266,
+      "end_event": 4272
+    },
+    {
+      "label": 105,
+      "profile": "clean",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 6-9).m4a",
+      "source_offset_samples": 4351611,
+      "start_s": 8753.152,
+      "first_event": 4274,
+      "end_event": 4280
+    },
+    {
+      "label": 105,
+      "profile": "room",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 6-9).m4a",
+      "source_offset_samples": 4351611,
+      "start_s": 8769.536,
+      "first_event": 4282,
+      "end_event": 4288
+    },
+    {
+      "label": 105,
+      "profile": "speaker",
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 6-9).m4a",
+      "source_offset_samples": 4351611,
+      "start_s": 8785.92,
+      "first_event": 4290,
+      "end_event": 4296
+    },
+    {
+      "label": 168,
+      "profile": "clean",
+      "path": "Álbum - Wish You Were Here/Welcome to the Machine.m4a",
+      "source_offset_samples": 2601306,
+      "start_s": 8802.304,
+      "first_event": 4298,
+      "end_event": 4304
+    },
+    {
+      "label": 168,
+      "profile": "room",
+      "path": "Álbum - Wish You Were Here/Welcome to the Machine.m4a",
+      "source_offset_samples": 2601306,
+      "start_s": 8818.688,
+      "first_event": 4306,
+      "end_event": 4312
+    },
+    {
+      "label": 168,
+      "profile": "speaker",
+      "path": "Álbum - Wish You Were Here/Welcome to the Machine.m4a",
+      "source_offset_samples": 2601306,
+      "start_s": 8835.072,
+      "first_event": 4314,
+      "end_event": 4320
+    },
+    {
+      "label": 172,
+      "profile": "clean",
+      "path": "Álbum - Wish You Were Here/Wish You Were Here.m4a",
+      "source_offset_samples": 1909046,
+      "start_s": 8851.456,
+      "first_event": 4322,
+      "end_event": 4328
+    },
+    {
+      "label": 172,
+      "profile": "room",
+      "path": "Álbum - Wish You Were Here/Wish You Were Here.m4a",
+      "source_offset_samples": 1909046,
+      "start_s": 8867.84,
+      "first_event": 4330,
+      "end_event": 4336
+    },
+    {
+      "label": 172,
+      "profile": "speaker",
+      "path": "Álbum - Wish You Were Here/Wish You Were Here.m4a",
+      "source_offset_samples": 1909046,
+      "start_s": 8884.224,
+      "first_event": 4338,
+      "end_event": 4344
+    },
+    {
+      "label": -1,
+      "profile": "room",
+      "path": "negative_music/matt_s_blues.mp3",
+      "source_offset_samples": 865856,
+      "start_s": 8900.608,
+      "first_event": 4346,
+      "end_event": 4356
+    },
+    {
+      "label": -1,
+      "profile": "speaker",
+      "path": "negative_music/whiskey_on_the_mississippi.mp3",
+      "source_offset_samples": 1035431,
+      "start_s": 8925.184,
+      "first_event": 4358,
+      "end_event": 4368
+    },
+    {
+      "label": -1,
+      "profile": "clean",
+      "path": "negative_music/gymnopedie_no_1.mp3",
+      "source_offset_samples": 986325,
+      "start_s": 8949.76,
+      "first_event": 4370,
+      "end_event": 4380
+    },
+    {
+      "label": -1,
+      "profile": "noise20",
+      "path": "negative_music/egmont_overture_finale.mp3",
+      "source_offset_samples": 493396,
+      "start_s": 8974.336,
+      "first_event": 4382,
+      "end_event": 4392
+    },
+    {
+      "label": -1,
+      "profile": "noise10",
+      "path": "negative_music/overcast.mp3",
+      "source_offset_samples": 1228963,
+      "start_s": 8998.912,
+      "first_event": 4394,
+      "end_event": 4404
+    },
+    {
+      "label": -1,
+      "profile": "quiet",
+      "path": "negative_music/realizer.mp3",
+      "source_offset_samples": 1714857,
+      "start_s": 9023.488,
+      "first_event": 4406,
+      "end_event": 4416
+    },
+    {
+      "label": -1,
+      "profile": "room",
+      "path": "negative_music/rising_tide.mp3",
+      "source_offset_samples": 1521087,
+      "start_s": 9048.064,
+      "first_event": 4418,
+      "end_event": 4428
+    },
+    {
+      "label": -1,
+      "profile": "speaker",
+      "path": "negative_music/delightful_d.mp3",
+      "source_offset_samples": 968386,
+      "start_s": 9072.64,
+      "first_event": 4430,
+      "end_event": 4440
+    },
+    {
+      "label": -1,
+      "profile": "clean",
+      "path": "negative_music/chill_wave.mp3",
+      "source_offset_samples": 1299945,
+      "start_s": 9097.216,
+      "first_event": 4442,
+      "end_event": 4452
+    },
+    {
+      "label": -1,
+      "profile": "noise20",
+      "path": "negative_music/shaving_mirror.mp3",
+      "source_offset_samples": 1099525,
+      "start_s": 9121.792,
+      "first_event": 4454,
+      "end_event": 4464
+    },
+    {
+      "label": -1,
+      "profile": "noise10",
+      "path": "negative_music/sidewalk_shade.mp3",
+      "source_offset_samples": 811731,
+      "start_s": 9146.368,
+      "first_event": 4466,
+      "end_event": 4476
+    },
+    {
+      "label": -1,
+      "profile": "quiet",
+      "path": "negative_music/opportunity_walks.mp3",
+      "source_offset_samples": 835391,
+      "start_s": 9170.944,
+      "first_event": 4478,
+      "end_event": 4488
+    },
+    {
+      "label": -1,
+      "profile": "room",
+      "path": "negative_music/chee_zee_beach.mp3",
+      "source_offset_samples": 1082668,
+      "start_s": 9195.52,
+      "first_event": 4490,
+      "end_event": 4500
+    },
+    {
+      "label": -1,
+      "profile": "speaker",
+      "path": "negative_music/no_frills_cumbia.mp3",
+      "source_offset_samples": 1276438,
+      "start_s": 9220.096,
+      "first_event": 4502,
+      "end_event": 4512
+    },
+    {
+      "label": -1,
+      "profile": "clean",
+      "path": "negative_music/clear_air.mp3",
+      "source_offset_samples": 966839,
+      "start_s": 9244.672,
+      "first_event": 4514,
+      "end_event": 4524
+    },
+    {
+      "label": -1,
+      "profile": "noise20",
+      "path": "negative_music/werq.mp3",
+      "source_offset_samples": 839567,
+      "start_s": 9269.248,
+      "first_event": 4526,
+      "end_event": 4536
+    },
+    {
+      "label": -1,
+      "profile": "noise10",
+      "path": "negative_music/maccary_bay.mp3",
+      "source_offset_samples": 1299945,
+      "start_s": 9293.824,
+      "first_event": 4538,
+      "end_event": 4548
+    },
+    {
+      "label": -1,
+      "profile": "quiet",
+      "path": "negative_music/montego.mp3",
+      "source_offset_samples": 1098288,
+      "start_s": 9318.4,
+      "first_event": 4550,
+      "end_event": 4560
+    },
+    {
+      "label": -1,
+      "profile": "room",
+      "path": "negative_music/last_kiss_goodnight.mp3",
+      "source_offset_samples": 980912,
+      "start_s": 9342.976,
+      "first_event": 4562,
+      "end_event": 4572
+    },
+    {
+      "label": -1,
+      "profile": "speaker",
+      "path": "negative_music/metalmania.mp3",
+      "source_offset_samples": 1006274,
+      "start_s": 9367.552,
+      "first_event": 4574,
+      "end_event": 4584
+    },
+    {
+      "label": -1,
+      "profile": "clean",
+      "path": "negative_music/steel_rods.mp3",
+      "source_offset_samples": 733635,
+      "start_s": 9392.128,
+      "first_event": 4586,
+      "end_event": 4596
+    },
+    {
+      "label": -1,
+      "profile": "noise20",
+      "path": "negative_music/decline.mp3",
+      "source_offset_samples": 1105246,
+      "start_s": 9416.704,
+      "first_event": 4598,
+      "end_event": 4608
+    }
+  ],
+  "note": "Áudio processado pelo DSP, matcher, modelo e confirmação em C. Degradação aplicada ao segmento inteiro e duas janelas de silêncio entre segmentos. Relógio virtual alinhado às janelas, 100 us de atraso fixo para exercitar a decisão. Não simula I2S, DMA, escalonador FreeRTOS nem mede latência da placa. Tempos do host incluem a ponte Python e inicialização do DSP por janela. Confirmacao por pelo menos tres janelas alinhadas na mesma referencia dentro das ultimas oito, 18 frames e uma classificacao aceita. Ajuste motivado por gravacao fisica de diagnostico; nao houve retreino.",
+  "decision_policy": "temporal_alignment_v1",
+  "dataset_limits": "Consultas simuladas às gravações do catálogo; não mede acurácia acústica na placa. O manifesto tem 111 entradas e 110 arquivos negativos distintos. No Frills Cumbia aparece em treino e teste com o mesmo arquivo: 72 janelas em cada divisão. Dos 22 negativos da reprodução contínua, 21 não aparecem no treino. Esses resultados não constituem uma avaliação de fundo totalmente independente; corrigir a divisão exige retreino e nova avaliação."
+}

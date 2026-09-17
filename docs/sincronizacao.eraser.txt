@@ -1,0 +1,17 @@
+title Sincronização · ESP32
+direction right
+colorMode pastel
+styleMode plain
+typeface clean
+
+Tarefas [label: "capture · features\ndetect · telemetry", color: blue]
+Mutex [label: "Mutex de métricas\nHerança de prioridade", color: purple]
+Metricas [label: "Contadores e snapshots\nSem I/O sob lock", color: green]
+DMA [label: "Callback DMA\ncapture / record", color: blue]
+Spinlock [label: "Spinlock portMUX_TYPE\nVariante própria na ISR", color: purple]
+Overflow [label: "Contador de overflow\nRegião crítica curta", color: green]
+
+Tarefas > Mutex: take / give
+Mutex > Metricas: protege
+DMA > Spinlock: enter / exit
+Spinlock > Overflow: protege

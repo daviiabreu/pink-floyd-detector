@@ -1,0 +1,116 @@
+# Créditos dos áudios negativos
+
+As faixas abaixo são de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/music.html)), sob [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Foram convertidas para mono a 16 kHz e usadas em consultas com ganho, ruído e ecos simulados. Os arquivos de áudio ficam fora do Git.
+
+- Slow Burn — Blues
+- Porch Blues — Blues
+- Matt's Blues — Blues
+- Whiskey on the Mississippi — Blues
+- Nile's Blues — Blues
+- DD Groove — Blues
+- Joey's Formal Waltz - Unscented — Blues
+- Dirt Rhodes — Blues
+- OctoBlues — Blues
+- Hustle — Blues
+- Sheep May Safely Graze - BWV 208 — Classical
+- Gymnopedie No. 2 — Classical
+- Gymnopedie No. 1 — Classical
+- Egmont Overture Finale — Classical
+- Amazing Grace 2011 — Classical
+- Cello Suite #1 in G - Prelude — Classical
+- Funeral March for Brass — Classical
+- Canon in D for Two Renaissance Harps — Classical
+- Divertissement - Pizzicato (from the ballet Sylvia) — Classical
+- Canon in D for Autoharp — Classical
+- Aurea Carmina — Disco
+- Who Likes to Party — Disco
+- Overcast — Disco
+- Realizer — Disco
+- Electro Cabello — Disco
+- Disco Lounge — Disco
+- Disco con Tutti — Disco
+- Ether Disco — Disco
+- Stringed Disco — Disco
+- Disco Medusae — Disco
+- Rhinoceros — Electronica
+- Laser Groove — Electronica
+- Rising Tide — Electronica
+- Delightful D — Electronica
+- Pinball Spring — Electronica
+- Killing Time — Electronica
+- Digital Lemonade — Electronica
+- Presenterator — Electronica
+- Video Dungeon Boss — Electronica
+- Long Time Coming — Electronica
+- Fork and Spoon — Funk
+- Aces High — Funk
+- Chill Wave — Funk
+- Shaving Mirror — Funk
+- Style Funk — Funk
+- C-Funk — Funk
+- Organic Grunge — Funk
+- Protofunk — Funk
+- Flutey Funk — Funk
+- Funky Chunk — Funk
+- Jazz Brunch  — Jazz
+- Backed Vibes (clean) — Jazz
+- Sidewalk Shade — Jazz
+- Opportunity Walks — Jazz
+- Local Forecast — Jazz
+- Samba Isobel — Jazz
+- George Street Shuffle — Jazz
+- Study And Relax — Jazz
+- Hep Cats — Jazz
+- Deadly Roulette — Jazz
+- Hackbeat — Latin
+- Cuban Sandwich — Latin
+- Chee Zee Beach — Latin
+- No Frills Cumbia — Latin (mesmo arquivo registrado no treino e no teste)
+- No Frills Salsa — Latin
+- BossaBossa — Latin
+- Laid Back Guitars — Latin
+- Carnivale Intrigue — Latin
+- No Frills Comparsa — Latin
+- Somewhere Sunny (ver 2) — Pop
+- Blown Away - No Percussion — Pop
+- Clear Air — Pop
+- Werq — Pop
+- Pyro Flow — Pop
+- Guts and Bourbon — Pop
+- Life of Riley — Pop
+- Sunshine (version 2) — Pop
+- Bummin on Tremelo — Pop
+- Aerosol of my Love — Pop
+- Easy Jam — Reggae
+- Gonna Start — Reggae
+- Maccary Bay — Reggae
+- Montego — Reggae
+- Thief in the Night — Reggae
+- Gonna Start v2 — Reggae
+- Mandeville — Reggae
+- Dub Eastern — Reggae
+- Dub Feral — Reggae
+- Yallahs — Reggae
+- I Feel You — Rock
+- Dead Drop — Rock
+- Last Kiss Goodnight — Rock
+- Metalmania — Rock
+- Rock Over London — Rock
+- Summon the Rawk — Rock
+- Neo Western — Rock
+- Exhilarate — Rock
+- Sock Hop — Rock
+- El Magicia — Rock
+- Call to Adventure — Soundtrack
+- Hot Pursuit — Soundtrack
+- Steel Rods — Soundtrack
+- Decline — Soundtrack
+- Miami Nights - Extended Theme — Soundtrack
+- Vanishing — Soundtrack
+- Crossing the Divide — Soundtrack
+- Adventure Meme — Soundtrack
+- Gone Beyond — Soundtrack
+- Not As It Seems — Soundtrack
+- Too Cool — Urban
+
+O manifesto `negative-music.json` registra URLs, hashes e a divisão de cada faixa.

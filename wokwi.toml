@@ -1,0 +1,12 @@
+[wokwi]
+version = 1
+firmware = '.pio/build/wiring/wokwi.bin'
+elf = '.pio/build/wiring/firmware.elf'
+
+[[chip]]
+name = 'inmp441'
+binary = 'docs/wokwi/inmp441.chip.wasm'
+
+[[chip]]
+name = 'ceramic'
+binary = 'docs/wokwi/ceramic.chip.wasm'

@@ -1,0 +1,20 @@
+title Fluxo de áudio · ESP32
+direction right
+colorMode pastel
+styleMode plain
+typeface clean
+
+Microfone [label: "INMP441\nI2S + DMA", shape: oval, color: gray]
+Captura [label: "capture\nNúcleo 0 · P20", color: blue]
+Features [label: "features\nNúcleo 1 · P10", color: purple]
+Deteccao [label: "detect\nNúcleo 1 · P5", color: purple]
+Alerta [label: "LED\nGPIO 27", shape: oval, color: green]
+Telemetria [label: "telemetry\nNúcleo 0 · P2", color: blue]
+Serial [label: "Serial\nJSON", shape: oval, color: gray]
+
+Microfone > Captura: PCM · 16 kHz
+Captura > Features: Ring buffer · ~12 frames
+Features > Deteccao: Fila · 3 janelas
+Deteccao > Alerta: 3+ janelas alinhadas
+Deteccao > Telemetria: Fila · 8 resultados
+Telemetria > Serial: decisões e métricas

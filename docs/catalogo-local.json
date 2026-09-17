@@ -1,0 +1,3752 @@
+{
+  "source": "https://www.pinkfloyd.com/music/",
+  "tracks": [
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 1.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "A New Machine, Pt. 1",
+      "duration_s": 105.939592,
+      "sha256": "1817fb0ef53ab4f57e7116e5a0d2535f3793088e83d9b578cc9b5743dbbfea56",
+      "tags": {
+        "title": "A New Machine, Pt. 1"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1695243,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/A New Machine, Pt. 2.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "A New Machine, Pt. 2",
+      "duration_s": 39.009,
+      "sha256": "bd82b91c8db95994d21d2f8354c4967ccca8cf8239e7f8a589c036fc65722654",
+      "tags": {
+        "title": "A New Machine, Pt. 2"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 624299,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Learning to Fly.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Learning to Fly",
+      "duration_s": 292.093968,
+      "sha256": "9b3e94d1133ac3ae5471aaf2c4b7831a2979442acb699939cd6ff3a9f1cef139",
+      "tags": {
+        "title": "Learning to Fly"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4673713,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/On the Turning Away.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "On the Turning Away",
+      "duration_s": 341.666,
+      "sha256": "42833d1fb7a6470c6cf13e8734456c73723879c2a3f6bda28e31329b42928767",
+      "tags": {
+        "title": "On the Turning Away",
+        "artist": "The Harvs"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5466795,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/One Slip.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "One Slip",
+      "duration_s": 308.673016,
+      "sha256": "69b416602828e5a5ab40b644b1ae3e98bd563ef739e3f96320a506dba8b83962",
+      "tags": {
+        "title": "One Slip"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4938977,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Round and Around.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Round and Around",
+      "duration_s": 73.315556,
+      "sha256": "b346bed7bac721248a50349be5b7e056bf96dfc01db06f882808030c641a6401",
+      "tags": {
+        "title": "Round and Around",
+        "artist": "TI.PI.CAL feat. Josh"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1173258,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Signs of Life.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Signs of Life",
+      "duration_s": 261.861587,
+      "sha256": "6a1dd780ab6d3549aebe08d2488aa5028d92a776997a8d499918016e7d1a40b4",
+      "tags": {
+        "title": "Signs of Life",
+        "artist": "A Vs B"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4189995,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Sorrow.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Sorrow",
+      "duration_s": 524.757914,
+      "sha256": "4165508aa019c62abca8f7c3d4c7cc28e77d9d2da8755cc9f3dfc34a0cda2d0d",
+      "tags": {
+        "title": "Sorrow"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 8396336,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Terminal Frost.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Terminal Frost",
+      "duration_s": 375.453605,
+      "sha256": "84202d0638cfc26979bc257057afb04c1996d0fc1505d0d90c739ebd836d3b75",
+      "tags": {
+        "title": "Terminal Frost"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6007467,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/The Dogs of War.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "The Dogs of War",
+      "duration_s": 363.727528,
+      "sha256": "cd6696e87b69effff29ab050d0d9923edeae69993b0031f8a4d61fd29b1500f5",
+      "tags": {
+        "title": "The Dogs of War"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5819850,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Yet Another Movie.m4a",
+      "album": "A Momentary Lapse of Reason",
+      "title": "Yet Another Movie",
+      "duration_s": 372.92263,
+      "sha256": "de5d279cf270ce1e1e77f043aac6095681af659f7f012e72575fb2446687f542",
+      "tags": {
+        "title": "Yet Another Movie"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5966971,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/A Saucerful of Secrets.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "A Saucerful of Secrets",
+      "duration_s": 716.694059,
+      "sha256": "6a2ae2358803103eb39e4328890186ff01fb149b1daea9ee37c4d9e82802bd47",
+      "tags": {
+        "title": "A Saucerful of Secrets",
+        "artist": "EXP"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 11467314,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Corporal Clegg.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "Corporal Clegg",
+      "duration_s": 252.527166,
+      "sha256": "fa3a016e6b806e02b648f9d3638792ffdd186edf58e53447ee929e51f2bca121",
+      "tags": {
+        "title": "Corporal Clegg"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4040644,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Jugband Blues.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "Jugband Blues",
+      "duration_s": 180.545306,
+      "sha256": "363fc5d6f44df51bcd662d02754a331cf281a19d3701e43f44580aa733e5df74",
+      "tags": {
+        "title": "Jugband Blues",
+        "artist": "Eden"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2888934,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Let There Be More Light.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "Let There Be More Light",
+      "duration_s": 336.745941,
+      "sha256": "fa3aa8e593dca7f1e855f3ec6a8e9e9b2842bdc651e505d7187152f3c3e203c0",
+      "tags": {
+        "title": "Let There Be More Light"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5388144,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Remember a Day.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "Remember a Day",
+      "duration_s": 272.867846,
+      "sha256": "ea1b194a85151a52535e6889fbbbd6c72300d96f5c9c26738ffe1357d26972c6",
+      "tags": {
+        "title": "Remember a Day"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4366095,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/See-Saw.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "See-Saw",
+      "duration_s": 276.861678,
+      "sha256": "c17fae9caabd110938977249e95f9658618e0a9b29be99b25104c4bf843e67ef",
+      "tags": {
+        "title": "See-Saw"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4429996,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Set the Controls for the Heart of the Sun.m4a",
+      "album": "A Saucerful of Secrets",
+      "title": "Set the Controls for the Heart of the Sun",
+      "duration_s": 327.992018,
+      "sha256": "1b603e9e99ca1390db5bd4288d2eb54b2abee9578bc174c6dd64debaa2b24860",
+      "tags": {
+        "title": "Set the Controls for the Heart of the Sun",
+        "artist": "Kylesa"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5248081,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Animals/Dogs.m4a",
+      "album": "Animals",
+      "title": "Dogs",
+      "duration_s": 1025.287256,
+      "sha256": "c3413aa17bcc2b9b5f5c70c134e46af73aec24d0c4436e92dd1413b50578b0d7",
+      "tags": {
+        "title": "Dogs"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 16404805,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Animals/Pigs (Three Different Ones).m4a",
+      "album": "Animals",
+      "title": "Pigs (Three Different Ones)",
+      "duration_s": 685.881179,
+      "sha256": "3a09a31361f418f8d2ed5bf3c382c978ab7a88a2b491719684e41f0a93d53a6b",
+      "tags": {
+        "title": "Pigs (Three Different Ones)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 10974308,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Animals/Pigs on the Wing 1.m4a",
+      "album": "Animals",
+      "title": "Pigs on the Wing 1",
+      "duration_s": 84.28,
+      "sha256": "12164a8be970dd11d88ced8e59d182ed53d4295759490ef0c1594f76d263c7fe",
+      "tags": {
+        "title": "Pigs on the Wing 1"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1348608,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Animals/Pigs on the Wing 2.m4a",
+      "album": "Animals",
+      "title": "Pigs on the Wing 2",
+      "duration_s": 86.713469,
+      "sha256": "6de07a3ef0f752619d83aab1dc5e2ac88494fa9a0c6f6e4e40418373888bdbed",
+      "tags": {
+        "title": "Pigs on the Wing 2"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1387625,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Animals/Sheep.m4a",
+      "album": "Animals",
+      "title": "Sheep",
+      "duration_s": 619.10059,
+      "sha256": "3456764433a49d8f4a241b6ffffba83647dee85ca1b55d4bf5fd60d4d374fc8c",
+      "tags": {
+        "title": "Sheep"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 9905819,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Atom Heart Mother/Alan's Psychedelic Breakfast.m4a",
+      "album": "Atom Heart Mother",
+      "title": "Alan's Psychedelic Breakfast",
+      "duration_s": 778.993197,
+      "sha256": "becf8292855b3705a9d46026030739d8e376bdd3a87f4c032e0f615349c67716",
+      "tags": {
+        "title": "Alan's Psychedelic Breakfast"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 12464100,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Atom Heart Mother/Atom Heart Mother.m4a",
+      "album": "Atom Heart Mother",
+      "title": "Atom Heart Mother",
+      "duration_s": 1421.466122,
+      "sha256": "194f1ae8d519f7e56c03eaa3643049b53df10c671800a38b10948bfa3ba02159",
+      "tags": {
+        "title": "Atom Heart Mother"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 22743667,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Atom Heart Mother/Fat Old Sun.m4a",
+      "album": "Atom Heart Mother",
+      "title": "Fat Old Sun",
+      "duration_s": 323.742766,
+      "sha256": "4e54b1e25dfcf72316ee77dbe18757125c05414b5d4d63f41c3778574ee72561",
+      "tags": {
+        "title": "Fat Old Sun"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5180093,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Atom Heart Mother/If.m4a",
+      "album": "Atom Heart Mother",
+      "title": "If",
+      "duration_s": 270.77805,
+      "sha256": "e1c6ef95798fd4150425ac15d6e42dc14267e50074aedf48dfdc2ca4f76f7e82",
+      "tags": {
+        "title": "If"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4332658,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Atom Heart Mother/Summer '68.m4a",
+      "album": "Atom Heart Mother",
+      "title": "Summer '68",
+      "duration_s": 328.967256,
+      "sha256": "8c3c875abde45f67698240d842e82ea075d478d5568d1e1af7ac90aa8d53abb5",
+      "tags": {
+        "title": "Summer '68",
+        "artist": "ピンク・フロイド"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5263685,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/A Pillow of Winds.m4a",
+      "album": "Meddle",
+      "title": "A Pillow of Winds",
+      "duration_s": 312.899048,
+      "sha256": "2ebf9fabac522b970a776e203c0e4ac29f2a909ad6283aaed88c7bd7567c66bc",
+      "tags": {
+        "title": "A Pillow of Winds"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5006594,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/Echoes.m4a",
+      "album": "Meddle",
+      "title": "Echoes",
+      "duration_s": 1412.45678,
+      "sha256": "1aaa819b167d85611e2cad8e6686341bb2524368e7eb4745f00c921c0b1efb69",
+      "tags": {
+        "title": "Echoes"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 22599518,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/Fearless.m4a",
+      "album": "Meddle",
+      "title": "Fearless",
+      "duration_s": 367.95356,
+      "sha256": "56f74078c309efe0f3ced8b2506049a08c8f5d8d7edfd7237ccbb28ecee28667",
+      "tags": {
+        "title": "Fearless"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5887466,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/One of These Days.m4a",
+      "album": "Meddle",
+      "title": "One of These Days",
+      "duration_s": 354.613,
+      "sha256": "a5b4262d5f28a5e3d64e1d5b08b9e3a03f575d2b2ba291802c98e9fbe4267476",
+      "tags": {
+        "title": "One of These Days",
+        "artist": "Kraak & Smaak"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5673984,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/San Tropez.m4a",
+      "album": "Meddle",
+      "title": "San Tropez",
+      "duration_s": 223.084263,
+      "sha256": "078729d1e193f9a30ad86a4900721c59bd3a3d7d51e28a6507d7a222cfa026cc",
+      "tags": {
+        "title": "San Tropez"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3569557,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Meddle/Seamus.m4a",
+      "album": "Meddle",
+      "title": "Seamus",
+      "duration_s": 134.848435,
+      "sha256": "5cc42653e81dd558827c1833092a8d8ebc27edf55e808d785b551005071be4da",
+      "tags": {
+        "title": "Seamus"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2157784,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/A Spanish Piece.m4a",
+      "album": "More",
+      "title": "A Spanish Piece",
+      "duration_s": 65.281451,
+      "sha256": "dd992c0d08897a13d95f2094a19f9f660b4317a516d35c8a2f87f1947ff983e6",
+      "tags": {
+        "title": "A Spanish Piece"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1044712,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Cirrus Minor.m4a",
+      "album": "More",
+      "title": "Cirrus Minor",
+      "duration_s": 317.334059,
+      "sha256": "5883bbd1b78b14652879b7df99a70783ac519578177e5aca29730f34d5263630",
+      "tags": {
+        "title": "Cirrus Minor",
+        "artist": "CIRRUS MINOR"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5077554,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Crying Song.m4a",
+      "album": "More",
+      "title": "Crying Song",
+      "duration_s": 213.308662,
+      "sha256": "e12bc08e756b9b93b373f36dc22c7f6faed673dc951bb43c9a1e1ca02909d617",
+      "tags": {
+        "title": "Crying Song",
+        "artist": "33"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3413148,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Cymbaline.m4a",
+      "album": "More",
+      "title": "Cymbaline",
+      "duration_s": 289.888073,
+      "sha256": "9622d6d64e88eef12ea2df0970f0ca776c4f601c01640af5b9d215823f0786bf",
+      "tags": {
+        "title": "Cymbaline"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4638418,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Dramatic Theme.m4a",
+      "album": "More",
+      "title": "Dramatic Theme",
+      "duration_s": 135.870113,
+      "sha256": "f103e829fd0e3ca1b6b05bab66af0ccc28d4dde110b644db1edca61a68c87739",
+      "tags": {
+        "title": "Dramatic Theme"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2174131,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Green Is the Colour.m4a",
+      "album": "More",
+      "title": "Green Is the Colour",
+      "duration_s": 178.919909,
+      "sha256": "f95405df8cc0cf5784fc89dd0fb89ab85de3e85001361bf63de9d4e243eb16bb",
+      "tags": {
+        "title": "Green Is the Colour"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2862928,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Ibiza Bar.m4a",
+      "album": "More",
+      "title": "Ibiza Bar",
+      "duration_s": 199.293,
+      "sha256": "11aa980ed46c8e6236479432ac556142f830beec7737300fd1028a5ba7f472d8",
+      "tags": {
+        "title": "Ibiza Bar"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3188736,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Main Theme.m4a",
+      "album": "More",
+      "title": "Main Theme",
+      "duration_s": 326.459501,
+      "sha256": "94618d534b9c76399d9825ca337951051105862c89bf21fcb2db02ef7137fc56",
+      "tags": {
+        "title": "Main Theme",
+        "artist": "植松伸夫"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5223561,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/More Blues.m4a",
+      "album": "More",
+      "title": "More Blues",
+      "duration_s": 132.54966,
+      "sha256": "3c76773d6ec0cf56502e60e9cb0e30bf67ffc20c8698272e7982b4f710d96ef1",
+      "tags": {
+        "title": "More Blues"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2121004,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Party Sequence.m4a",
+      "album": "More",
+      "title": "Party Sequence",
+      "duration_s": 68.973424,
+      "sha256": "4757e9b02318031e44b2b191896673518f4827a914a42f795d529c7bdd29c52f",
+      "tags": {
+        "title": "Party Sequence",
+        "artist": "The Sequence"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1103784,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Quicksilver.m4a",
+      "album": "More",
+      "title": "Quicksilver",
+      "duration_s": 433.642812,
+      "sha256": "55a5351f48ebf43192dd7340853c2d26c6a1e7b6bb1ebab4ed2095234bbbb7b1",
+      "tags": {
+        "title": "Quicksilver",
+        "artist": "菊池雅臣"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6938494,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/The Nile Song.m4a",
+      "album": "More",
+      "title": "The Nile Song",
+      "duration_s": 206.969615,
+      "sha256": "a3e575187abd39a949226a7d04acb0515a0d1c4fe6eccec63d1b16691c25adfe",
+      "tags": {
+        "title": "The Nile Song"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3311723,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - More/Up the Khyber.m4a",
+      "album": "More",
+      "title": "Up the Khyber",
+      "duration_s": 132.805079,
+      "sha256": "133128caf67361f63db1e82d1dda8984c374a7441bc6bd7d226f775d00532f66",
+      "tags": {
+        "title": "Up the Khyber"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2125090,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Absolutely Curtains.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Absolutely Curtains",
+      "duration_s": 350.468934,
+      "sha256": "faf18a694dc9b5de2103533179ede14abbe7bbcbbab3b02a4f37b1e550451e5f",
+      "tags": {
+        "title": "Absolutely Curtains"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5607712,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Burning Bridges.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Burning Bridges",
+      "duration_s": 210.336508,
+      "sha256": "f9bfcc86b3c279f52186b4df69595f2229e68ec47121e5f412aed4f1e70a9c85",
+      "tags": {
+        "title": "Burning Bridges",
+        "artist": "k‐os"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3365593,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Childhood's End.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Childhood's End",
+      "duration_s": 273.401905,
+      "sha256": "4b2493d0ed268dc552b5148f22886d044ab6ba28be0e404201b59ccb9abc52bd",
+      "tags": {
+        "title": "Childhood's End"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4374640,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Free Four.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Free Four",
+      "duration_s": 256.799637,
+      "sha256": "abcd24a6417268fb40e54e04354c59d17ceb999d4d3203baf68f823060443b2b",
+      "tags": {
+        "title": "Free Four"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4109003,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Mudmen.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Mudmen",
+      "duration_s": 257.914195,
+      "sha256": "0fdf079fd0537174f14d76ec649acb024c912dd7dcb506b6f133844ae9829b01",
+      "tags": {
+        "title": "Mudmen"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4126836,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Obscured by Clouds.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Obscured by Clouds",
+      "duration_s": 184.051519,
+      "sha256": "551926f025d829fe4e47c676449cc8055679e94c2f85adbbb62105927eb5200d",
+      "tags": {
+        "title": "Obscured by Clouds"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2945033,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Stay.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Stay",
+      "duration_s": 247.767075,
+      "sha256": "da6d58f5de7b06f4b49c2cc2c7d203bb6fafe69916a6390db721493fb379a19a",
+      "tags": {
+        "title": "Stay"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3964482,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/The Gold It's in the....m4a",
+      "album": "Obscured by Clouds",
+      "title": "The Gold It's in the...",
+      "duration_s": 187.836372,
+      "sha256": "2729f19e9c561c306b2909329f3b39097356673ead8dc6dd1112604e3ee3b06e",
+      "tags": {
+        "title": "The Gold It's in the..."
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3005591,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/When You're In.m4a",
+      "album": "Obscured by Clouds",
+      "title": "When You're In",
+      "duration_s": 151.218503,
+      "sha256": "94a485605ed0a5541824dacea0eccec2078c733554477a35e9c77d9724fcf59d",
+      "tags": {
+        "title": "When You're In"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2419705,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Wot's... Uh the Deal.m4a",
+      "album": "Obscured by Clouds",
+      "title": "Wot's... Uh the Deal",
+      "duration_s": 309.114195,
+      "sha256": "c8e357394ef061ab0fa3477149212f6618497bbad6c9cf23ae43c57e4d3e1427",
+      "tags": {
+        "title": "Wot's... Uh the Deal"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4946036,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Arnold Layne.m4a",
+      "album": "Relics",
+      "title": "Arnold Layne",
+      "duration_s": 176.876553,
+      "sha256": "e20bf680cdccaa9e87b07430663ab30471b9dabfa0e22d42f3fcdc2169a764cf",
+      "tags": {
+        "title": "Arnold Layne"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2830234,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Biding My Time.m4a",
+      "album": "Relics",
+      "title": "Biding My Time",
+      "duration_s": 318.286077,
+      "sha256": "53719a68f3b63196e7a4877094b32b905c672a9937bd1337d1b3e346411bc9fa",
+      "tags": {
+        "title": "Biding My Time"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5092786,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Bike.m4a",
+      "album": "Relics",
+      "title": "Bike",
+      "duration_s": 201.814785,
+      "sha256": "80aea61ed11e7bf12a78d93314dcb94e50bf7fd7e65673cc27856184afaad6d4",
+      "tags": {
+        "title": "Bike"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3229246,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Careful with That Axe, Eugene.m4a",
+      "album": "Relics",
+      "title": "Careful with That Axe, Eugene",
+      "duration_s": 345.987483,
+      "sha256": "c4e5d2e57f6f4046d56886b05fed705e688f731f6a34d326e0d2de5c7e62dc78",
+      "tags": {
+        "title": "Careful with That Axe, Eugene"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5536009,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Cirrus Minor.m4a",
+      "album": "Relics",
+      "title": "Cirrus Minor",
+      "duration_s": 318.030658,
+      "sha256": "fa8ee189d4463bfea06348bdee46baef44c66740d8b1a9d84c82a2515984c317",
+      "tags": {
+        "title": "Cirrus Minor",
+        "artist": "CIRRUS MINOR"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5088700,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Interstellar Overdrive.m4a",
+      "album": "Relics",
+      "title": "Interstellar Overdrive",
+      "duration_s": 583.10966,
+      "sha256": "81a001b220c16c44c507c7680264c4c3343bf441b3e1b24964504c0ec0bcdc41",
+      "tags": {
+        "title": "Interstellar Overdrive"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 9329964,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Julia Dream.m4a",
+      "album": "Relics",
+      "title": "Julia Dream",
+      "duration_s": 157.333,
+      "sha256": "f0d72e78be29daaab68583e793443aa4d7a22f89e7f085feacf953b1f6c41de8",
+      "tags": {
+        "title": "Julia Dream"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2517333,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Paintbox.m4a",
+      "album": "Relics",
+      "title": "Paintbox",
+      "duration_s": 213.099683,
+      "sha256": "ee435fb3ddf218a0cd597248a24b939ade98a473834cc3d2d19b91475bb59ac8",
+      "tags": {
+        "title": "Paintbox"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3409804,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/Remember a Day.m4a",
+      "album": "Relics",
+      "title": "Remember a Day",
+      "duration_s": 269.175873,
+      "sha256": "e65265f8cf5feb151bd3dba4c1056a43c948f83706c5b6aa81b17aa16023a519",
+      "tags": {
+        "title": "Remember a Day"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4307023,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/See Emily Play.m4a",
+      "album": "Relics",
+      "title": "See Emily Play",
+      "duration_s": 173.811519,
+      "sha256": "e3e5f879bd9bba16484fc67310cfec650d9bb9d70e2302e78b966342a1b3352a",
+      "tags": {
+        "title": "See Emily Play"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2781193,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Relics/The Nile Song.m4a",
+      "album": "Relics",
+      "title": "The Nile Song",
+      "duration_s": 205.576417,
+      "sha256": "962cf516b8bdcea0a5940c601ea0e0b2b64cc10c2e50b2d8aa9c0588526c121f",
+      "tags": {
+        "title": "The Nile Song"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3289432,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Any Colour You Like.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Any Colour You Like",
+      "duration_s": 206.435556,
+      "sha256": "e4e5c132f289503c6d981d33b7528b3fbb42373776b8eeb54ffc92481e073763",
+      "tags": {
+        "title": "Any Colour You Like"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3303178,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Brain Damage.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Brain Damage",
+      "duration_s": 226.683356,
+      "sha256": "93ce09625b81c345488459e508057e83cbced02f1aa47fa9ee0d3280e3c0180b",
+      "tags": {
+        "title": "Brain Damage"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3627143,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Breathe (In the Air).m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Breathe (In the Air)",
+      "duration_s": 169.539048,
+      "sha256": "c5cca37bf765debab64fc4c593387d365798a0bd710d7f7890808fe077cd091d",
+      "tags": {
+        "title": "Breathe (In the Air)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2712834,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Eclipse.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Eclipse",
+      "duration_s": 130.436644,
+      "sha256": "9c54c8576201f4601434c243ca5ef15371532e0a2d4195698517e8421180fd32",
+      "tags": {
+        "title": "Eclipse"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2087195,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Money.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Money",
+      "duration_s": 382.837551,
+      "sha256": "eed22d28ea2d35f9b4f7268209a9ce9c844613762bbf9ca7253a799cb3afdf72",
+      "tags": {
+        "title": "Money",
+        "artist": "Twonko"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6125610,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/On the Run.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "On the Run",
+      "duration_s": 225.406259,
+      "sha256": "3ac10e708a8922fae610aeba53b6b8bb565e0ecceeb7fe1c4d4315e2cfd0484a",
+      "tags": {
+        "title": "On the Run",
+        "artist": "DIN"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3606709,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Speak to Me.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Speak to Me",
+      "duration_s": 65.314,
+      "sha256": "11870129802e3776e50d461d6f9a8d0839f1e610034f5a921d461c77d3f44704",
+      "tags": {
+        "title": "Speak to Me"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1045163,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/The Great Gig in the Sky.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "The Great Gig in the Sky",
+      "duration_s": 283.874104,
+      "sha256": "891425fc343929c1163ef654461fffa7ae44723aa87a3ce3276117d5db8324af",
+      "tags": {
+        "title": "The Great Gig in the Sky",
+        "artist": "רזי בן-עזר"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4542195,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Time.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Time",
+      "duration_s": 413.95229,
+      "sha256": "e4f295fb6cc2d4955627ab6554d3878df8de9da403f298da872a7e4dc94c0e8b",
+      "tags": {
+        "title": "Time",
+        "artist": "小倉久佳"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6623446,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Us and Them.m4a",
+      "album": "The Dark Side of the Moon",
+      "title": "Us and Them",
+      "duration_s": 469.239002,
+      "sha256": "7362ee160d6531a9916ecfe4e22dcd19a863c672c27085694fed86aa6f589be3",
+      "tags": {
+        "title": "Us and Them"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 7508033,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/A Great Day for Freedom.m4a",
+      "album": "The Division Bell",
+      "title": "A Great Day for Freedom",
+      "duration_s": 257.008617,
+      "sha256": "f16bee4c6221fc4794f63e406c07616c551f9351c379ba4aa93f8cf1e760ad55",
+      "tags": {
+        "title": "A Great Day for Freedom"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4112347,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Cluster One.m4a",
+      "album": "The Division Bell",
+      "title": "Cluster One",
+      "duration_s": 355.646984,
+      "sha256": "29bca3c5aa0b6cb6e763c7a95c529b7148aad1afa357f00ab4fb9d6b878f439d",
+      "tags": {
+        "title": "Cluster One",
+        "artist": "Cluster One"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5690561,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Coming Back to Life.m4a",
+      "album": "The Division Bell",
+      "title": "Coming Back to Life",
+      "duration_s": 379.261678,
+      "sha256": "2e7dae33efadff0410fb78cf9ebf7f5f016a1b9d6baaae65d5fabd2dab6673fc",
+      "tags": {
+        "title": "Coming Back to Life",
+        "artist": "Aries"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6068396,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/High Hopes.m4a",
+      "album": "The Division Bell",
+      "title": "High Hopes",
+      "duration_s": 510.965261,
+      "sha256": "96742c0a48bfc84f8297ba46227bcff66579a5800f28d03e6820a854144f3ee3",
+      "tags": {
+        "title": "High Hopes"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 8175653,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Keep Talking.m4a",
+      "album": "The Division Bell",
+      "title": "Keep Talking",
+      "duration_s": 370.670295,
+      "sha256": "4bbb266a1e1419e39982086854294d020f16e4cc5a9c6359fdf92bf4ecb22526",
+      "tags": {
+        "title": "Keep Talking"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5930934,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Lost for Words.m4a",
+      "album": "The Division Bell",
+      "title": "Lost for Words",
+      "duration_s": 314.965624,
+      "sha256": "1504631a0d5d70482f03032ccd221a3b66a541a12e66a74b2f3b357e113d574c",
+      "tags": {
+        "title": "Lost for Words"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5039659,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Marooned.m4a",
+      "album": "The Division Bell",
+      "title": "Marooned",
+      "duration_s": 330.406893,
+      "sha256": "79cd290e80c9b6a5a778f4fff4ad44eab513763d50e0cc75b2022f5b3b5f652a",
+      "tags": {
+        "title": "Marooned",
+        "artist": "El‐P"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5286719,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Poles Apart.m4a",
+      "album": "The Division Bell",
+      "title": "Poles Apart",
+      "duration_s": 423.077732,
+      "sha256": "deed7f31b86e1490b3bbfb69eaceacc5981451b55b6ab04319805898ecd59f65",
+      "tags": {
+        "title": "Poles Apart"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6769453,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Take It Back.m4a",
+      "album": "The Division Bell",
+      "title": "Take It Back",
+      "duration_s": 372.226032,
+      "sha256": "39e13eb954746b640f19296ed669d2a3f318cd7527d9e38301e1b52dc0f7247b",
+      "tags": {
+        "title": "Take It Back"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5955826,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/Wearing the Inside Out.m4a",
+      "album": "The Division Bell",
+      "title": "Wearing the Inside Out",
+      "duration_s": 409.261859,
+      "sha256": "bab15e1f1bea63d29b87d1355aaf2faa82a45d5cb03cadc4b85b28e6fbba066c",
+      "tags": {
+        "title": "Wearing the Inside Out"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6548399,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Division Bell/What Do You Want from Me.m4a",
+      "album": "The Division Bell",
+      "title": "What Do You Want from Me",
+      "duration_s": 261.606168,
+      "sha256": "b8cd104cb2ca90a15329cbb6b313c1730c74f153403ddd8fa88aeaed3c2ef709",
+      "tags": {
+        "title": "What Do You Want from Me"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4185908,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Nervana.m4a",
+      "album": "The Endless River",
+      "title": "Nervana",
+      "duration_s": 330.755193,
+      "sha256": "78ca2377ea04f61a4d8d0ba8dfbece4939017e98ecdf4cf3df45323be1e98e2f",
+      "tags": {
+        "title": "Nervana"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5292292,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 1, Pt. 1 Things Left Unsaid.m4a",
+      "album": "The Endless River",
+      "title": "Side 1, Pt. 1 Things Left Unsaid",
+      "duration_s": 266.737778,
+      "sha256": "8b2e8c35b7fdebbecfee29ec2632b5bd899699067caea583c96b0c1a34821c27",
+      "tags": {
+        "title": "Side 1, Pt. 1: Things Left Unsaid"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4268014,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 1, Pt. 2 It's What We Do.m4a",
+      "album": "The Endless River",
+      "title": "Side 1, Pt. 2 It's What We Do",
+      "duration_s": 377.311202,
+      "sha256": "965f171ac5e44e548f4cb61fee4f2c44f543292ddc613d818e9b35cd7c4259d7",
+      "tags": {
+        "title": "Side 1, Pt. 2: It's What We Do",
+        "artist": "Pink Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6037188,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 1, Pt. 3 Ebb And Flow.m4a",
+      "album": "The Endless River",
+      "title": "Side 1, Pt. 3 Ebb And Flow",
+      "duration_s": 114.577415,
+      "sha256": "b068b77b0882a3cb7c089bba01990432051192bc5609d4f9d2661441bea1904e",
+      "tags": {
+        "title": "Side 1, Pt. 3: Ebb And Flow"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1833448,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 2, Pt. 1 Sum.m4a",
+      "album": "The Endless River",
+      "title": "Side 2, Pt. 1 Sum",
+      "duration_s": 288.378776,
+      "sha256": "98808c905223146d1628f40f6f29c2a268fe76155e049164cb95c826fd95f360",
+      "tags": {
+        "title": "Side 2, Pt. 1: Sum"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4614270,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 2, Pt. 2 Skins.m4a",
+      "album": "The Endless River",
+      "title": "Side 2, Pt. 2 Skins",
+      "duration_s": 157.013,
+      "sha256": "2933ba757a9c0105ed8a84666cde962cb11311f2880ea443f294a6e3325c82f0",
+      "tags": {
+        "title": "Side 2, Pt. 2: Skins"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2512213,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 2, Pt. 3 Unsung.m4a",
+      "album": "The Endless River",
+      "title": "Side 2, Pt. 3 Unsung",
+      "duration_s": 67.139048,
+      "sha256": "1ca8519a03c935d2e18705477dccd9479de9a7586a751aa443f66d02cb648c4a",
+      "tags": {
+        "title": "Side 2, Pt. 3: Unsung"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1074434,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 2, Pt. 4 Anisina.m4a",
+      "album": "The Endless River",
+      "title": "Side 2, Pt. 4 Anisina",
+      "duration_s": 196.822494,
+      "sha256": "baa5597e5d5cf889de9f381736085dc0fb94291522e11aead86b4964ac5ff9ae",
+      "tags": {
+        "title": "Side 2, Pt. 4: Anisina"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3149369,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 1 The Lost Art of Conversation.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 1 The Lost Art of Conversation",
+      "duration_s": 102.967438,
+      "sha256": "9f7d11fa5074e79ef07520ba94ea7ffe0b14b919879ea66a6e5b84693328c21b",
+      "tags": {
+        "title": "Side 3, Pt. 1: The Lost Art of Conversation"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1647688,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 2 On Noodle Street.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 2 On Noodle Street",
+      "duration_s": 102.01542,
+      "sha256": "aa6c5b2a90a100cdcdd2808337e15736b4f17a16ec3fe14530971f4726892431",
+      "tags": {
+        "title": "Side 3, Pt. 2: On Noodle Street"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1632456,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 3 Night Light.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 3 Night Light",
+      "duration_s": 102.201179,
+      "sha256": "afe9f0c71a00e7c4b07b90701fa433638a345181d4c9d51fd435e76974c711f2",
+      "tags": {
+        "title": "Side 3, Pt. 3: Night Light"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1635428,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 4 Allons-y.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 4 Allons-y",
+      "duration_s": 117.29415,
+      "sha256": "57b0cc1100e744e1489528ab19a6b30df015a37a3fa9e72e19e813e60fc20cbe",
+      "tags": {
+        "title": "Side 3, Pt. 4: Allons-y (1)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1876916,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 5 Autumn '68.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 5 Autumn '68",
+      "duration_s": 95.165533,
+      "sha256": "97ad607d277fcabcc98c9a72c768442bf1766dd53aea8e184068a3fb6c675e75",
+      "tags": {
+        "title": "Side 3, Pt. 5: Autumn '68"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1522858,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 6 Allons-y.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 6 Allons-y",
+      "duration_s": 92.425578,
+      "sha256": "b9b9897845741e9ac4cf6dabf817ffdc76a228626c28d8ffd4e543f8b0769e54",
+      "tags": {
+        "title": "Side 3, Pt. 6: Allons-y (2)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1479018,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 3, Pt. 7 Talkin' Hawkin'.m4a",
+      "album": "The Endless River",
+      "title": "Side 3, Pt. 7 Talkin' Hawkin'",
+      "duration_s": 209.12907,
+      "sha256": "c699edef999cbbdba91e84bc9be5d7bc8abf4839a58cd9846a350cc916b4e77e",
+      "tags": {
+        "title": "Side 3, Pt. 7: Talkin' Hawkin'"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3346274,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 4, Pt. 1 Calling.m4a",
+      "album": "The Endless River",
+      "title": "Side 4, Pt. 1 Calling",
+      "duration_s": 217.952653,
+      "sha256": "055af694743d9fc300f494b86b98a255ccf1da9096ff32f5a51b41cb0f590206",
+      "tags": {
+        "title": "Side 4, Pt. 1: Calling"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3487452,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 4, Pt. 2 Eyes To Pearls.m4a",
+      "album": "The Endless River",
+      "title": "Side 4, Pt. 2 Eyes To Pearls",
+      "duration_s": 111.187302,
+      "sha256": "aebefca630d41cf415c4e238ce329b6455d6ece490108dcd2d9926daef662c29",
+      "tags": {
+        "title": "Side 4, Pt. 2: Eyes To Pearls"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1779206,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 4, Pt. 3 Surfacing.m4a",
+      "album": "The Endless River",
+      "title": "Side 4, Pt. 3 Surfacing",
+      "duration_s": 166.265034,
+      "sha256": "c2e98c9d003293d7aaf2a437ba39d70196118677bc316ce4597a01a1eaca5c9c",
+      "tags": {
+        "title": "Side 4, Pt. 3: Surfacing"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2660450,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/Side 4, Pt. 4 Louder Than Words.m4a",
+      "album": "The Endless River",
+      "title": "Side 4, Pt. 4 Louder Than Words",
+      "duration_s": 396.862404,
+      "sha256": "12ef985be3163b6c318994b9a60a40f6ca50279d2966a4bc5ce7ec6ae78c1639",
+      "tags": {
+        "title": "Side 4, Pt. 4: Louder Than Words"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6350008,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/TBS14.m4a",
+      "album": "The Endless River",
+      "title": "TBS14",
+      "duration_s": 251.064308,
+      "sha256": "7c1368bdbdf3bdcfebc16a9fc64f77fc52f280ed0ef9cf0e525e693ea1786d4b",
+      "tags": {
+        "title": "TBS14"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4017238,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Endless River/TBS9.m4a",
+      "album": "The Endless River",
+      "title": "TBS9",
+      "duration_s": 147.96771,
+      "sha256": "1ed90f115f2976948db7492859550c3ddcb3983c59c3f6125f05a6dc38c34fba",
+      "tags": {
+        "title": "TBS9"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2367693,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Get Your Filthy Hands Off My Desert.m4a",
+      "album": "The Final Cut",
+      "title": "Get Your Filthy Hands Off My Desert",
+      "duration_s": 76.914649,
+      "sha256": "05a1f823a3120e6e1377f2dcb0a562a18035eaecdfcadfaa9dbc1747dfaf023b",
+      "tags": {
+        "title": "Get Your Filthy Hands Off My Desert",
+        "artist": "Pink Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1230844,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Not Now John.m4a",
+      "album": "The Final Cut",
+      "title": "Not Now John",
+      "duration_s": 301.21941,
+      "sha256": "4a467935b8f48adfc744390f2738a090ccfa08e0b57f806750f79b1f1a52c4c0",
+      "tags": {
+        "title": "Not Now John"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4819720,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/One of the Few.m4a",
+      "album": "The Final Cut",
+      "title": "One of the Few",
+      "duration_s": 77.030748,
+      "sha256": "c640c9aaedb16b8cb0f8de8cd021b08928440fa3c65654cf864f866c2036a54c",
+      "tags": {
+        "title": "One of the Few",
+        "artist": "難波弘之"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1232701,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Paranoid Eyes.m4a",
+      "album": "The Final Cut",
+      "title": "Paranoid Eyes",
+      "duration_s": 221.621406,
+      "sha256": "62cd2c29173ed228ee27d150fbb0c83fc10117306c1ea155f3d8d6dfb9892b95",
+      "tags": {
+        "title": "Paranoid Eyes"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3546152,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Southampton Dock.m4a",
+      "album": "The Final Cut",
+      "title": "Southampton Dock",
+      "duration_s": 133.478458,
+      "sha256": "f59bc24a6395752d1282ef05a825e8c6ea9129bef15768968405e7292fbcc642",
+      "tags": {
+        "title": "Southampton Dock"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2135864,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/The Final Cut.m4a",
+      "album": "The Final Cut",
+      "title": "The Final Cut",
+      "duration_s": 282.620227,
+      "sha256": "4f066db985f9a2d7e268e76eaa04413b45ef66e3aa443518504692d893d6142b",
+      "tags": {
+        "title": "The Final Cut",
+        "artist": "501"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4522133,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/The Fletcher Memorial Home.m4a",
+      "album": "The Final Cut",
+      "title": "The Fletcher Memorial Home",
+      "duration_s": 249.462132,
+      "sha256": "d2da8a9f8c14418882aa9e813ba412af51b50ea1598bf089acaf4fee7e8aa638",
+      "tags": {
+        "title": "The Fletcher Memorial Home"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3991603,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/The Gunner's Dream.m4a",
+      "album": "The Final Cut",
+      "title": "The Gunner's Dream",
+      "duration_s": 318.262857,
+      "sha256": "14999981c0c69c22b64bf0b017a5040a8232ac4770cdd955664929c81177f220",
+      "tags": {
+        "title": "The Gunner's Dream"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5092415,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/The Hero's Return.m4a",
+      "album": "The Final Cut",
+      "title": "The Hero's Return",
+      "duration_s": 162.828481,
+      "sha256": "59397a4fadf3e7132231ab63c86959538cb431a015b85cc19c5389b44086786e",
+      "tags": {
+        "title": "The Hero's Return",
+        "artist": "유종현"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2605465,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/The Post War Dream.m4a",
+      "album": "The Final Cut",
+      "title": "The Post War Dream",
+      "duration_s": 179.361088,
+      "sha256": "f5d6a621b1edfbd6f8e1c77bafb223f88319283dec648902b0a8b825f8899bdd",
+      "tags": {
+        "title": "The Post War Dream"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2869987,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Two Suns in the Sunset.m4a",
+      "album": "The Final Cut",
+      "title": "Two Suns in the Sunset",
+      "duration_s": 315.453243,
+      "sha256": "75d8fbb1ec6afc3d28a8ff0af4caeaa01a8fd50dea588ef530b69b3a026a682d",
+      "tags": {
+        "title": "Two Suns in the Sunset"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5047461,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/When the Tigers Broke Free.m4a",
+      "album": "The Final Cut",
+      "title": "When the Tigers Broke Free",
+      "duration_s": 192.178503,
+      "sha256": "fef6575839057823915962e38b71486940fa68823407615c526e1bbcbba501e3",
+      "tags": {
+        "title": "When the Tigers Broke Free",
+        "artist": "RAßßeAT"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3075065,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Final Cut/Your Possible Pasts.m4a",
+      "album": "The Final Cut",
+      "title": "Your Possible Pasts",
+      "duration_s": 266.319819,
+      "sha256": "3035da8470b12b21f4074f376fc7a977977cbb645eb52ddf6f2bf8088f7c2489",
+      "tags": {
+        "title": "Your Possible Pasts"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4261326,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Astronomy Domine.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Astronomy Domine",
+      "duration_s": 251.296508,
+      "sha256": "e5f334968cc25ddc9cab5a929559ca7d486789be377b1fbff0ec3bdcbb8e7699",
+      "tags": {
+        "title": "Astronomy Domine"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4020953,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Bike.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Bike",
+      "duration_s": 201.025306,
+      "sha256": "16870522f6a38696f1362afe56bc3eb64af2d6bad240647c58c2bf574af97627",
+      "tags": {
+        "title": "Bike"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3216614,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Chapter 24.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Chapter 24",
+      "duration_s": 222.434104,
+      "sha256": "5062a72640d064677c2b4e75b5e8f635e4ff21614a792a6a1970d874b14f1464",
+      "tags": {
+        "title": "Chapter 24"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3559155,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Flaming.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Flaming",
+      "duration_s": 166.056054,
+      "sha256": "b3b46d2fda54f432990a3bce029ad2b75c38cde5ee25a6ab94d5efc1db190221",
+      "tags": {
+        "title": "Flaming"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2657106,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Interstellar Overdrive.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Interstellar Overdrive",
+      "duration_s": 580.718005,
+      "sha256": "9f938c4226b664ccc59b9988b4638b6130f1b4191d2469018b2c0e9397846796",
+      "tags": {
+        "title": "Interstellar Overdrive",
+        "artist": "moe."
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 9291697,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Lucifer Sam.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Lucifer Sam",
+      "duration_s": 187.418413,
+      "sha256": "986f30615359d7af28fd911e8eb9ca89b998228b05d7d0fb2dff35a6ea4570bc",
+      "tags": {
+        "title": "Lucifer Sam",
+        "artist": "ADZ"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2998904,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Matilda Mother.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Matilda Mother",
+      "duration_s": 188.509751,
+      "sha256": "dae4a70ebe42a4aaa3993fba213971a92dd0704fdfd403bfc73ebb8eebcb0493",
+      "tags": {
+        "title": "Matilda Mother",
+        "artist": "Yolk"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3016365,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Pow R. Toc H..m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Pow R. Toc H.",
+      "duration_s": 266.319819,
+      "sha256": "1fbda1f841c60cf9ff79a3364f83dcde4c108c9ad08a6a0ac400cae3cdcd6d4c",
+      "tags": {
+        "title": "Pow R. Toc H."
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4261326,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Take Up Thy Stethoscope and Walk.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "Take Up Thy Stethoscope and Walk",
+      "duration_s": 186.071655,
+      "sha256": "6e0a214dda67ba316d1a7944c6762b6b521a90d309a9d8da41c41aef34309fdf",
+      "tags": {
+        "title": "Take Up Thy Stethoscope and Walk",
+        "artist": "JMJ Band"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2977356,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/The Gnome.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "The Gnome",
+      "duration_s": 133.919637,
+      "sha256": "d6c51adce7f23219dc6781caf0ee952fcd212000914ee1481869196dca9bd563",
+      "tags": {
+        "title": "The Gnome",
+        "artist": "馬骨擬装網"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2142923,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/The Scarecrow.m4a",
+      "album": "The Piper at the Gates of Dawn",
+      "title": "The Scarecrow",
+      "duration_s": 131.272562,
+      "sha256": "b48d332f0fbc4a67b4cda8f0724b83f4385f0e187a6ee3730396e8ae6f0f1b0d",
+      "tags": {
+        "title": "The Scarecrow",
+        "artist": "Rx"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2100570,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 1.m4a",
+      "album": "The Wall",
+      "title": "Another Brick in the Wall, Pt. 1",
+      "duration_s": 192.155283,
+      "sha256": "e6672a0a21c2dfdc2029c20da097b672c7f0ade1f1fc1c5c8302ad4cf9f3e85c",
+      "tags": {
+        "title": "Another Brick in the Wall, Pt. 1",
+        "artist": "Korn"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3074694,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 2.m4a",
+      "album": "The Wall",
+      "title": "Another Brick in the Wall, Pt. 2",
+      "duration_s": 238.757732,
+      "sha256": "684a0a2dd4306f8902fd89065beda3e2c2ae6695066a81a1abb849f3ef8c0b45",
+      "tags": {
+        "title": "Another Brick in the Wall, Pt. 2",
+        "artist": "Booost"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3820333,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 3.m4a",
+      "album": "The Wall",
+      "title": "Another Brick in the Wall, Pt. 3",
+      "duration_s": 74.411,
+      "sha256": "62087858d61e2127862c13b6ffd1649799f99494ecd6a62ff3d4c59bae7a6284",
+      "tags": {
+        "title": "Another Brick in the Wall, Pt. 3"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1190912,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Bring the Boys Back Home.m4a",
+      "album": "The Wall",
+      "title": "Bring the Boys Back Home",
+      "duration_s": 87.224308,
+      "sha256": "30dab5e9720e8dd2a3a2fbad10ce75f6fe7e1fbdc15fdcbf8ee68bd524c9134f",
+      "tags": {
+        "title": "Bring the Boys Back Home",
+        "artist": "Luther Wright & the Wrongs"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1395798,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Comfortably Numb.m4a",
+      "album": "The Wall",
+      "title": "Comfortably Numb",
+      "duration_s": 382.303492,
+      "sha256": "3d1c0a947d85fd95bd32ef2b04c96455a40c6213407c31b8ccce84e1c1eb4b85",
+      "tags": {
+        "title": "Comfortably Numb"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6117065,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Don't Leave Me Now.m4a",
+      "album": "The Wall",
+      "title": "Don't Leave Me Now",
+      "duration_s": 255.940499,
+      "sha256": "00705990792d1a697e03a4a2bfb5d8b29970fce0d742f6c294c6f26c895572e6",
+      "tags": {
+        "title": "Don't Leave Me Now",
+        "artist": "Ozone"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4095257,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Empty Spaces.m4a",
+      "album": "The Wall",
+      "title": "Empty Spaces",
+      "duration_s": 127.836009,
+      "sha256": "060b83325bbbfebb6f2fcb400b58f0eecfd3d32771585d1b00e42ff1c6c71776",
+      "tags": {
+        "title": "Empty Spaces"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2045585,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Goodbye Blue Sky.m4a",
+      "album": "The Wall",
+      "title": "Goodbye Blue Sky",
+      "duration_s": 167.240272,
+      "sha256": "1daea36063f18cf58316e7047e2f83cb5cea0a148c128d1376d29adac18be52b",
+      "tags": {
+        "title": "Goodbye Blue Sky"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2676054,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Goodbye Cruel World.m4a",
+      "album": "The Wall",
+      "title": "Goodbye Cruel World",
+      "duration_s": 73.431655,
+      "sha256": "51ecd60e6a062f59e3fc40c7a3fa2d3411efab767487a3015f1c9a487c424ec7",
+      "tags": {
+        "title": "Goodbye Cruel World",
+        "artist": "Cold"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1175116,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Hey You.m4a",
+      "album": "The Wall",
+      "title": "Hey You",
+      "duration_s": 278.463855,
+      "sha256": "27805aaa2c388271c1b542878f9b35ba19f919f0d0b33f94071e333df85ce430",
+      "tags": {
+        "title": "Hey You"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4455631,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/In the Flesh (1).m4a",
+      "album": "The Wall",
+      "title": "In the Flesh (1)",
+      "duration_s": 255.56898,
+      "sha256": "c3f4f4082605c67cfdd2a92b18ad1f3fa8aae1e776e624aba9ba3520438aec62",
+      "tags": {
+        "title": "In the Flesh"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4089313,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/In the Flesh.m4a",
+      "album": "The Wall",
+      "title": "In the Flesh",
+      "duration_s": 198.238912,
+      "sha256": "8a8e33f83124ae5a34fb723e9748f4cd05952ca60a0995b692ff5f686c9fdc07",
+      "tags": {
+        "title": "In the Flesh?"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3172032,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Is There Anybody Out There.m4a",
+      "album": "The Wall",
+      "title": "Is There Anybody Out There",
+      "duration_s": 161.597823,
+      "sha256": "54c83e09e0fb5e458251726bda983a8b80e9fe402da682ce8b48c30f3839a296",
+      "tags": {
+        "title": "Is There Anybody Out There?",
+        "artist": "飯島真理"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2585774,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Mother.m4a",
+      "album": "The Wall",
+      "title": "Mother",
+      "duration_s": 334.911565,
+      "sha256": "84a06da5c97b6c2cab475572c3799af28fd1624de5d2c0c3997b784df02d55e7",
+      "tags": {
+        "title": "Mother"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5358794,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Nobody Home.m4a",
+      "album": "The Wall",
+      "title": "Nobody Home",
+      "duration_s": 203.370522,
+      "sha256": "2134f8d8287e28702bd7979b19c3fc16a3c336ce0b16c00bf155e1c55149c685",
+      "tags": {
+        "title": "Nobody Home",
+        "artist": "杏子"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3254137,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/One of My Turns.m4a",
+      "album": "The Wall",
+      "title": "One of My Turns",
+      "duration_s": 216.814875,
+      "sha256": "fc92d8d418fe400fc92a36e1a65100567062c4daabeed37ffe71802d49aadd33",
+      "tags": {
+        "title": "One of My Turns"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3469247,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Outside the Wall.m4a",
+      "album": "The Wall",
+      "title": "Outside the Wall",
+      "duration_s": 104.128435,
+      "sha256": "d2c9c637a1ec735ae390db5632c1f88a4d792460c61650295969c850bacb3966",
+      "tags": {
+        "title": "Outside the Wall",
+        "artist": "Latex"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1666264,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Run Like Hell.m4a",
+      "album": "The Wall",
+      "title": "Run Like Hell",
+      "duration_s": 263.579864,
+      "sha256": "6e83954ae0abfe6e355b2db896f8bd41a416cf3963957ce05fcecb20a9e6fb2d",
+      "tags": {
+        "title": "Run Like Hell",
+        "artist": "Down Down Down"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4217487,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Stop.m4a",
+      "album": "The Wall",
+      "title": "Stop",
+      "duration_s": 30.637279,
+      "sha256": "fe983aab2c2227e0be51dbf925a9a78cdde6357189b0e37b48ef0c89be3a67a8",
+      "tags": {
+        "title": "Stop"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 490406,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/The Happiest Days of Our Lives.m4a",
+      "album": "The Wall",
+      "title": "The Happiest Days of Our Lives",
+      "duration_s": 110.826,
+      "sha256": "7183ff5cad2dc9ebbfbe36482d1527c09f73a8b43d813f859e6e4e8bd145bbf7",
+      "tags": {
+        "title": "The Happiest Days of Our Lives",
+        "artist": "Mac Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1773227,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/The Show Must Go On.m4a",
+      "album": "The Wall",
+      "title": "The Show Must Go On",
+      "duration_s": 96.58195,
+      "sha256": "73c2d042a3516a0d167964ffef9e2b054b30d1af26569ef0a27ab27a3a3a9f8f",
+      "tags": {
+        "title": "The Show Must Go On",
+        "artist": "佐藤勝利"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1545520,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/The Thin Ice.m4a",
+      "album": "The Wall",
+      "title": "The Thin Ice",
+      "duration_s": 146.342313,
+      "sha256": "4d9102d75a39a6cb7515b9bd33b144f6ece3ef1ddd15c4331e1b10c27d0258d5",
+      "tags": {
+        "title": "The Thin Ice",
+        "artist": "Kiki & Herb"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2341686,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/The Trial.m4a",
+      "album": "The Wall",
+      "title": "The Trial",
+      "duration_s": 318.846,
+      "sha256": "56ab835dd0e62cb7758c2617135e7e1c5d520915c05e640a491b07e578c6ad68",
+      "tags": {
+        "title": "The Trial",
+        "artist": "宮川泰"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5101568,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Vera.m4a",
+      "album": "The Wall",
+      "title": "Vera",
+      "duration_s": 93.377596,
+      "sha256": "4b0fdb78e20d34d378549f3d82ee52fe52fce831ae702d959fb05dd4d791414b",
+      "tags": {
+        "title": "Vera"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1494251,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Waiting for the Worms.m4a",
+      "album": "The Wall",
+      "title": "Waiting for the Worms",
+      "duration_s": 237.098,
+      "sha256": "f4e61dc4a1ccd2f0433909cce31fe86fa7fb1c8eb9694c7fe1791e513e7a48d4",
+      "tags": {
+        "title": "Waiting for the Worms",
+        "artist": "Luther Wright & the Wrongs"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3793579,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - The Wall/Young Lust.m4a",
+      "album": "The Wall",
+      "title": "Young Lust",
+      "duration_s": 209.964989,
+      "sha256": "591a4e4fc31bba0285f57a1e0d39cab276af538283b8797d62958adcf3ee0e12",
+      "tags": {
+        "title": "Young Lust"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3359649,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/A Saucerful of Secrets (Live).m4a",
+      "album": "Ummagumma",
+      "title": "A Saucerful of Secrets (Live)",
+      "duration_s": 768.613878,
+      "sha256": "30d7507a4c3f6684f17f7dd5a9625238e612422db3ffff2bb521959c9baf75d7",
+      "tags": {
+        "title": "A Saucerful of Secrets (Live)",
+        "artist": "Pink Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 12298031,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Astronomy Domine (Live).m4a",
+      "album": "Ummagumma",
+      "title": "Astronomy Domine (Live)",
+      "duration_s": 511.638639,
+      "sha256": "bb2760fa4fc9510a47dd16e35f9c745eec75502223fb2b8a927715278889f24f",
+      "tags": {
+        "title": "Astronomy Domine (Live)",
+        "artist": "Voivod"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 8186427,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Careful with That Axe, Eugene (Live).m4a",
+      "album": "Ummagumma",
+      "title": "Careful with That Axe, Eugene (Live)",
+      "duration_s": 529.355465,
+      "sha256": "828d792dec1d29805c86cce59eeeccd15ea3f64ea18c4f346eaf4046af85d8f5",
+      "tags": {
+        "title": "Careful with That Axe, Eugene (Live)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 8469897,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Grantchester Meadows.m4a",
+      "album": "Ummagumma",
+      "title": "Grantchester Meadows",
+      "duration_s": 447.551565,
+      "sha256": "e442fc23ee8329a50e1fab5623c08c579f5663b840f43c06754798da67a6a35c",
+      "tags": {
+        "title": "Grantchester Meadows"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 7161034,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Set the Controls for the Heart of the Sun (Live).m4a",
+      "album": "Ummagumma",
+      "title": "Set the Controls for the Heart of the Sun (Live)",
+      "duration_s": 567.149,
+      "sha256": "a6ab310d4c42611e0d4118e889484fd384687b0f769966abc758d039fffa6e7b",
+      "tags": {
+        "title": "Set the Controls for the Heart of the Sun (Live)",
+        "artist": "Sun"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 9074688,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict.m4a",
+      "album": "Ummagumma",
+      "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict",
+      "duration_s": 298.641995,
+      "sha256": "7f54b6f3f622f198524409fbdd19af90bb64abe4e9d559786c7054df8ddf1a76",
+      "tags": {
+        "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict",
+        "artist": "Body 13"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4778481,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 1.m4a",
+      "album": "Ummagumma",
+      "title": "Sysyphus, Pt. 1",
+      "duration_s": 67.682,
+      "sha256": "b4224d5376015b27c5f3c9e0472f083c1a61f232b8b55d8e1576e678bf2cd007",
+      "tags": {
+        "title": "Sysyphus, Pt. 1"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1083051,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 2.m4a",
+      "album": "Ummagumma",
+      "title": "Sysyphus, Pt. 2",
+      "duration_s": 210.034649,
+      "sha256": "9ce0a1b920890fb715f831b0046ed9d0f02d3824afd4055011842e5cf119a06f",
+      "tags": {
+        "title": "Sysyphus, Pt. 2"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3360764,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 3.m4a",
+      "album": "Ummagumma",
+      "title": "Sysyphus, Pt. 3",
+      "duration_s": 109.701224,
+      "sha256": "a517234ee9df757f2c16e70e64833f99fc9378fee6f1c2208c3fed6d9c21f39f",
+      "tags": {
+        "title": "Sysyphus, Pt. 3"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 1755429,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/Sysyphus, Pt. 4.m4a",
+      "album": "Ummagumma",
+      "title": "Sysyphus, Pt. 4",
+      "duration_s": 419.919819,
+      "sha256": "548e81389bc4aa1807dd0692975f9a8790ac8451dd5964f13e8f21f0c412f77f",
+      "tags": {
+        "title": "Sysyphus, Pt. 4"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6718926,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 1 (Entrance).m4a",
+      "album": "Ummagumma",
+      "title": "The Grand Vizier's Garden Party, Pt. 1 (Entrance)",
+      "duration_s": 59.592562,
+      "sha256": "061d7ed1f28ea533d7c9daf53d2469de581e99c55a4f87b1b05dc17c4ee81af7",
+      "tags": {
+        "title": "The Grand Vizier's Garden Party, Pt. 1 (Entrance)",
+        "artist": "Pink Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 953690,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 2 (Entertainment).m4a",
+      "album": "Ummagumma",
+      "title": "The Grand Vizier's Garden Party, Pt. 2 (Entertainment)",
+      "duration_s": 425.957007,
+      "sha256": "7481405d4582d8583a975024fd4c9ba018d40960b8fb81f277b446961bfb8ae7",
+      "tags": {
+        "title": "The Grand Vizier's Garden Party, Pt. 2 (Entertainment)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 6815521,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Grand Vizier's Garden Party, Pt. 3 (Exit).m4a",
+      "album": "Ummagumma",
+      "title": "The Grand Vizier's Garden Party, Pt. 3 (Exit)",
+      "duration_s": 39.785941,
+      "sha256": "fd8bd1368b98346e2ac6401e322cbf801a07c5ada7e58ad57ef13901b6e54ca0",
+      "tags": {
+        "title": "The Grand Vizier's Garden Party, Pt. 3 (Exit)",
+        "artist": "Pink Floyd"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 636784,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 1.m4a",
+      "album": "Ummagumma",
+      "title": "The Narrow Way, Pt. 1",
+      "duration_s": 208.595011,
+      "sha256": "192b2b2b77c50b7c5bcb2e8111a33e4003b9a72ab0dd3e3af430c687e0bb3c07",
+      "tags": {
+        "title": "The Narrow Way, Pt. 1",
+        "artist": "SHIM"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 3337729,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 2.m4a",
+      "album": "Ummagumma",
+      "title": "The Narrow Way, Pt. 2",
+      "duration_s": 173.252,
+      "sha256": "2534814528834db9a974e207de41cfb922524bc19a21483c2994f967bdb74581",
+      "tags": {
+        "title": "The Narrow Way, Pt. 2"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 2772309,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 3.m4a",
+      "album": "Ummagumma",
+      "title": "The Narrow Way, Pt. 3",
+      "duration_s": 357.71356,
+      "sha256": "22909217afc3c7fb9efdcaaaae6f209131ef3133c9254b28aea721216ea9f58c",
+      "tags": {
+        "title": "The Narrow Way, Pt. 3"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5723626,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Have a Cigar.m4a",
+      "album": "Wish You Were Here",
+      "title": "Have a Cigar",
+      "duration_s": 307.744218,
+      "sha256": "11f1d4e5f8d9641c853a0418a2cd84d0af2e820abbb82f35a82ce486f48c8857",
+      "tags": {
+        "title": "Have a Cigar"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 4924117,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 1-5).m4a",
+      "album": "Wish You Were Here",
+      "title": "Shine On You Crazy Diamond (Pts. 1-5)",
+      "duration_s": 811.083175,
+      "sha256": "522220598351110c6e568ae71a67c5c1141aa1f46d2d12158377d8a49463a221",
+      "tags": {
+        "title": "Shine On You Crazy Diamond (Pts. 1-5)",
+        "artist": "Fleesh"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 12977540,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 6-9).m4a",
+      "album": "Wish You Were Here",
+      "title": "Shine On You Crazy Diamond (Pts. 6-9)",
+      "duration_s": 747.344399,
+      "sha256": "15a69014ac606d541cf656baf9bf31f8df0583c3a0125b15d123a9338ce0a501",
+      "tags": {
+        "title": "Shine On You Crazy Diamond (Pts. 6-9)"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 11957720,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Welcome to the Machine.m4a",
+      "album": "Wish You Were Here",
+      "title": "Welcome to the Machine",
+      "duration_s": 451.684717,
+      "sha256": "8f3b7f47228ac8b7e7987c3d5e85dfd6765aa5cbebfe66180a72355a59819c20",
+      "tags": {
+        "title": "Welcome to the Machine",
+        "artist": "935"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 7227165,
+      "decode_ok": true
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Wish You Were Here.m4a",
+      "album": "Wish You Were Here",
+      "title": "Wish You Were Here",
+      "duration_s": 334.749025,
+      "sha256": "0748d5f2f811dcef2ae0096b0c9c2fbe4e42ffc9a9d1e3d9d304fef2137d9adc",
+      "tags": {
+        "title": "Wish You Were Here",
+        "artist": "Aslan"
+      },
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decoded_samples": 5356194,
+      "decode_ok": true
+    }
+  ],
+  "track_count": 181,
+  "albums": {
+    "A Momentary Lapse of Reason": 11,
+    "A Saucerful of Secrets": 7,
+    "Animals": 5,
+    "Atom Heart Mother": 5,
+    "Meddle": 6,
+    "More": 13,
+    "Obscured by Clouds": 10,
+    "Relics": 11,
+    "The Dark Side of the Moon": 10,
+    "The Division Bell": 11,
+    "The Endless River": 21,
+    "The Final Cut": 13,
+    "The Piper at the Gates of Dawn": 11,
+    "The Wall": 26,
+    "Ummagumma": 16,
+    "Wish You Were Here": 5
+  },
+  "missing_studio_albums": [],
+  "expected_track_counts": {
+    "The Piper at the Gates of Dawn": 11,
+    "A Saucerful of Secrets": 7,
+    "More": 13,
+    "Ummagumma": 16,
+    "Atom Heart Mother": 5,
+    "Meddle": 6,
+    "Obscured by Clouds": 10,
+    "The Dark Side of the Moon": 10,
+    "Wish You Were Here": 5,
+    "Animals": 5,
+    "The Wall": 26,
+    "The Final Cut": 13,
+    "A Momentary Lapse of Reason": 11,
+    "The Division Bell": 11,
+    "The Endless River": 18
+  },
+  "note": "Inventário por nomes e contagem, com verificação de decodificação na preparação. The Final Cut inclui When the Tigers Broke Free; Ummagumma conta suas partes separadas. Nomes e tags não autenticam a edição ou a identidade acústica da gravação.",
+  "artist_identity_verified": false,
+  "artist_tag_conflicts": [
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/On the Turning Away.m4a",
+      "artist_tag": "The Harvs"
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Round and Around.m4a",
+      "artist_tag": "TI.PI.CAL feat. Josh"
+    },
+    {
+      "path": "Álbum - A Momentary Lapse of Reason/Signs of Life.m4a",
+      "artist_tag": "A Vs B"
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/A Saucerful of Secrets.m4a",
+      "artist_tag": "EXP"
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Jugband Blues.m4a",
+      "artist_tag": "Eden"
+    },
+    {
+      "path": "Álbum - A Saucerful of Secrets/Set the Controls for the Heart of the Sun.m4a",
+      "artist_tag": "Kylesa"
+    },
+    {
+      "path": "Álbum - Meddle/One of These Days.m4a",
+      "artist_tag": "Kraak & Smaak"
+    },
+    {
+      "path": "Álbum - More/Cirrus Minor.m4a",
+      "artist_tag": "CIRRUS MINOR"
+    },
+    {
+      "path": "Álbum - More/Crying Song.m4a",
+      "artist_tag": "33"
+    },
+    {
+      "path": "Álbum - More/Main Theme.m4a",
+      "artist_tag": "植松伸夫"
+    },
+    {
+      "path": "Álbum - More/Party Sequence.m4a",
+      "artist_tag": "The Sequence"
+    },
+    {
+      "path": "Álbum - More/Quicksilver.m4a",
+      "artist_tag": "菊池雅臣"
+    },
+    {
+      "path": "Álbum - Obscured by Clouds/Burning Bridges.m4a",
+      "artist_tag": "k‐os"
+    },
+    {
+      "path": "Álbum - Relics/Cirrus Minor.m4a",
+      "artist_tag": "CIRRUS MINOR"
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Money.m4a",
+      "artist_tag": "Twonko"
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/On the Run.m4a",
+      "artist_tag": "DIN"
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/The Great Gig in the Sky.m4a",
+      "artist_tag": "רזי בן-עזר"
+    },
+    {
+      "path": "Álbum - The Dark Side of the Moon/Time.m4a",
+      "artist_tag": "小倉久佳"
+    },
+    {
+      "path": "Álbum - The Division Bell/Cluster One.m4a",
+      "artist_tag": "Cluster One"
+    },
+    {
+      "path": "Álbum - The Division Bell/Coming Back to Life.m4a",
+      "artist_tag": "Aries"
+    },
+    {
+      "path": "Álbum - The Division Bell/Marooned.m4a",
+      "artist_tag": "El‐P"
+    },
+    {
+      "path": "Álbum - The Final Cut/One of the Few.m4a",
+      "artist_tag": "難波弘之"
+    },
+    {
+      "path": "Álbum - The Final Cut/The Final Cut.m4a",
+      "artist_tag": "501"
+    },
+    {
+      "path": "Álbum - The Final Cut/The Hero's Return.m4a",
+      "artist_tag": "유종현"
+    },
+    {
+      "path": "Álbum - The Final Cut/When the Tigers Broke Free.m4a",
+      "artist_tag": "RAßßeAT"
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Interstellar Overdrive.m4a",
+      "artist_tag": "moe."
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Lucifer Sam.m4a",
+      "artist_tag": "ADZ"
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Matilda Mother.m4a",
+      "artist_tag": "Yolk"
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/Take Up Thy Stethoscope and Walk.m4a",
+      "artist_tag": "JMJ Band"
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/The Gnome.m4a",
+      "artist_tag": "馬骨擬装網"
+    },
+    {
+      "path": "Álbum - The Piper at the Gates of Dawn/The Scarecrow.m4a",
+      "artist_tag": "Rx"
+    },
+    {
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 1.m4a",
+      "artist_tag": "Korn"
+    },
+    {
+      "path": "Álbum - The Wall/Another Brick in the Wall, Pt. 2.m4a",
+      "artist_tag": "Booost"
+    },
+    {
+      "path": "Álbum - The Wall/Bring the Boys Back Home.m4a",
+      "artist_tag": "Luther Wright & the Wrongs"
+    },
+    {
+      "path": "Álbum - The Wall/Don't Leave Me Now.m4a",
+      "artist_tag": "Ozone"
+    },
+    {
+      "path": "Álbum - The Wall/Goodbye Cruel World.m4a",
+      "artist_tag": "Cold"
+    },
+    {
+      "path": "Álbum - The Wall/Is There Anybody Out There.m4a",
+      "artist_tag": "飯島真理"
+    },
+    {
+      "path": "Álbum - The Wall/Nobody Home.m4a",
+      "artist_tag": "杏子"
+    },
+    {
+      "path": "Álbum - The Wall/Outside the Wall.m4a",
+      "artist_tag": "Latex"
+    },
+    {
+      "path": "Álbum - The Wall/Run Like Hell.m4a",
+      "artist_tag": "Down Down Down"
+    },
+    {
+      "path": "Álbum - The Wall/The Happiest Days of Our Lives.m4a",
+      "artist_tag": "Mac Floyd"
+    },
+    {
+      "path": "Álbum - The Wall/The Show Must Go On.m4a",
+      "artist_tag": "佐藤勝利"
+    },
+    {
+      "path": "Álbum - The Wall/The Thin Ice.m4a",
+      "artist_tag": "Kiki & Herb"
+    },
+    {
+      "path": "Álbum - The Wall/The Trial.m4a",
+      "artist_tag": "宮川泰"
+    },
+    {
+      "path": "Álbum - The Wall/Waiting for the Worms.m4a",
+      "artist_tag": "Luther Wright & the Wrongs"
+    },
+    {
+      "path": "Álbum - Ummagumma/Astronomy Domine (Live).m4a",
+      "artist_tag": "Voivod"
+    },
+    {
+      "path": "Álbum - Ummagumma/Set the Controls for the Heart of the Sun (Live).m4a",
+      "artist_tag": "Sun"
+    },
+    {
+      "path": "Álbum - Ummagumma/Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict.m4a",
+      "artist_tag": "Body 13"
+    },
+    {
+      "path": "Álbum - Ummagumma/The Narrow Way, Pt. 1.m4a",
+      "artist_tag": "SHIM"
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Shine On You Crazy Diamond (Pts. 1-5).m4a",
+      "artist_tag": "Fleesh"
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Welcome to the Machine.m4a",
+      "artist_tag": "935"
+    },
+    {
+      "path": "Álbum - Wish You Were Here/Wish You Were Here.m4a",
+      "artist_tag": "Aslan"
+    }
+  ],
+  "missing_artist_tag_count": 123
+}

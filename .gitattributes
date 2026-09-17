@@ -1,0 +1,8 @@
+src/catalog_data.h linguist-generated=true
+src/model_data.h linguist-generated=true
+model/variants/*.h linguist-generated=true
+model/*.json linguist-generated=true
+docs/ablacao.json linguist-generated=true
+docs/quantizacao.json linguist-generated=true
+docs/resultados-pink-floyd.json linguist-generated=true
+docs/reproducao-*.json linguist-generated=true

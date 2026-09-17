@@ -1,0 +1,24 @@
+[project]
+name = "pink-floyd-detector"
+description = "Experimento de detecção musical com ESP32, INMP441, FreeRTOS e modelos ONNX quantizados"
+version = "0.1.0"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "numpy>=2.2,<3",
+  "scipy>=1.15,<2",
+  "scikit-learn>=1.6,<2",
+  "onnx>=1.17,<2",
+  "onnxruntime>=1.20,<2",
+  "ml-dtypes>=0.5,<1",
+  "pyserial>=3.5,<4",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

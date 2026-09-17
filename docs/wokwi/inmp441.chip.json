@@ -1,0 +1,5 @@
+{
+  "name": "INMP441",
+  "author": "Davi",
+  "pins": ["VDD", "GND", "L/R", "SCK", "WS", "SD"]
+}

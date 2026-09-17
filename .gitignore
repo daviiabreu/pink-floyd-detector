@@ -1,0 +1,14 @@
+.venv/
+.pio/
+build/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+sdkconfig.*
+!sdkconfig.defaults
+data/
+runs/
+GUIA_BANCADA.local.md
+docs/wokwi/wokwi-api.h
+.DS_Store
